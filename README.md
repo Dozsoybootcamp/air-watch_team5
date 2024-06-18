@@ -11,7 +11,7 @@ This project aims to provide interactive visualizations of Air Quality Index (AQ
 - **Dynamic Updates**: The platform updates visualizations dynamically based on user interactions.
 
 ## Data Source
-AQI data by county, provided by the Environmental Protection Agency (EPA) for the years 2018 to 2023.
+AQI data by county, provided by the Environmental Protection Agency (EPA) for the years 2014 to 2023.
 
 ## Tools Used
 - **PgAdmin & PgLoader**: For database management and data loading.
