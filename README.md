@@ -29,16 +29,18 @@ Debbie Lim, Duygu Ozso, Owen Wang, Rudi Espinoza
 ### Set Up
 1. Clone the Repository to include all files and folder structures.
 2. Set Up the Flask Server 
-    - In Git bash or Terminal run the Flask server: "python aqiflask.py". This will take you to the home page
+    - In Git bash or Terminal run the Flask server: "python aqiflask.py". This will take you to the home page.
     [INSERT SCREEN SHOT OF HOME PAGE]
     
 ### View JSON Data
+1. From the home page, you can click on any of the years which will take you to a JSON for the data per year.
 
 ### View Chart Visualization
+1. From the home page,
 
 ### Interacting with the Map
 1. Viewing the Map
-    - Click on the map preview on the bottom left.
+    - From the home page, click on the map preview on the bottom left.
 2. Using the Timeline Slider
 3. Zoom
 4. Home Controls
