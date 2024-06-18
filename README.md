@@ -23,6 +23,5 @@ AQI data by county, provided by the Environmental Protection Agency (EPA) for th
 
 ### Prerequisites
 - Python 3.8+
-- Node.js 12+
 - PostgreSQL 12+
 
