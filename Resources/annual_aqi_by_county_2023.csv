@@ -1,0 +1,950 @@
+State,County,Year,Days with AQI,Good Days,Moderate Days,Unhealthy for Sensitive Groups Days,Unhealthy Days,Very Unhealthy Days,Hazardous Days,Max AQI,Median AQI
+Alabama,Baldwin,2023,170,143,27,0,0,0,0,90,40
+Alabama,Clay,2023,155,109,46,0,0,0,0,83,40
+Alabama,DeKalb,2023,212,155,55,2,0,0,0,133,43
+Alabama,Elmore,2023,118,102,16,0,0,0,0,90,40
+Alabama,Etowah,2023,181,126,55,0,0,0,0,100,43
+Alabama,Jefferson,2023,182,72,98,8,3,1,0,230,54
+Alabama,Madison,2023,181,129,50,2,0,0,0,115,43
+Alabama,Mobile,2023,178,133,45,0,0,0,0,90,43
+Alabama,Montgomery,2023,150,97,53,0,0,0,0,93,47
+Alabama,Morgan,2023,181,138,41,2,0,0,0,140,41
+Alabama,Russell,2023,176,133,43,0,0,0,0,93,42
+Alabama,Shelby,2023,120,102,17,1,0,0,0,108,41
+Alabama,Sumter,2023,179,163,16,0,0,0,0,80,34
+Alabama,Tuscaloosa,2023,181,135,46,0,0,0,0,87,41
+Alaska,Anchorage ,2023,182,166,16,0,0,0,0,71,20
+Alaska,Denali ,2023,220,220,0,0,0,0,0,50,34
+Alaska,Fairbanks North Star ,2023,182,142,29,9,2,0,0,155,39
+Alaska,Juneau ,2023,180,168,12,0,0,0,0,66,17
+Alaska,Matanuska-Susitna ,2023,176,163,12,1,0,0,0,102,10
+Arizona,Apache,2023,272,271,1,0,0,0,0,61,12
+Arizona,Cochise,2023,273,189,81,3,0,0,0,108,45
+Arizona,Coconino,2023,273,160,112,1,0,0,0,126,49
+Arizona,Gila,2023,273,146,115,11,1,0,0,154,49
+Arizona,La Paz,2023,272,168,101,3,0,0,0,126,47
+Arizona,Maricopa,2023,274,66,153,51,4,0,0,161,67
+Arizona,Mohave,2023,265,258,7,0,0,0,0,99,15
+Arizona,Navajo,2023,271,198,73,0,0,0,0,84,45
+Arizona,Pima,2023,273,149,122,2,0,0,0,147,48
+Arizona,Pinal,2023,273,123,126,22,2,0,0,159,54
+Arizona,Santa Cruz,2023,268,246,22,0,0,0,0,85,28
+Arizona,Yavapai,2023,272,212,60,0,0,0,0,87,44
+Arizona,Yuma,2023,273,159,104,6,3,0,1,517,47
+Arkansas,Arkansas,2023,90,71,19,0,0,0,0,78,35
+Arkansas,Ashley,2023,89,66,22,1,0,0,0,107,34
+Arkansas,Clark,2023,210,191,19,0,0,0,0,87,34
+Arkansas,Crittenden,2023,272,205,62,5,0,0,0,133,42
+Arkansas,Garland,2023,76,59,17,0,0,0,0,63,34
+Arkansas,Jackson,2023,91,70,21,0,0,0,0,73,35
+Arkansas,Newton,2023,273,237,36,0,0,0,0,90,40
+Arkansas,Polk,2023,212,192,20,0,0,0,0,66,38
+Arkansas,Pulaski,2023,274,154,115,4,1,0,0,174,47
+Arkansas,Union,2023,90,65,24,1,0,0,0,102,39
+Arkansas,Washington,2023,273,186,82,5,0,0,0,119,45
+California,Alameda,2023,213,170,35,8,0,0,0,104,40
+California,Amador,2023,150,150,0,0,0,0,0,49,33
+California,Butte,2023,181,148,33,0,0,0,0,87,43
+California,Calaveras,2023,181,174,7,0,0,0,0,61,35
+California,Colusa,2023,269,152,117,0,0,0,0,98,48
+California,Contra Costa,2023,213,166,47,0,0,0,0,87,41
+California,Del Norte,2023,163,156,7,0,0,0,0,67,25
+California,El Dorado,2023,181,148,32,1,0,0,0,105,39
+California,Fresno,2023,243,118,105,19,1,0,0,151,51
+California,Glenn,2023,149,132,17,0,0,0,0,97,38
+California,Humboldt,2023,233,202,20,6,3,2,0,274,31
+California,Imperial,2023,191,77,97,11,1,2,3,505,55
+California,Inyo,2023,273,117,137,12,2,0,5,757,57
+California,Kern,2023,240,173,65,2,0,0,0,111,42
+California,Kings,2023,212,162,43,7,0,0,0,129,41
+California,Lake,2023,104,104,0,0,0,0,0,43,33
+California,Los Angeles,2023,212,74,118,18,2,0,0,192,58
+California,Marin,2023,213,210,3,0,0,0,0,62,33
+California,Mariposa,2023,243,179,61,2,1,0,0,158,45
+California,Mendocino,2023,90,47,43,0,0,0,0,87,49
+California,Mono,2023,181,163,14,0,1,0,3,1695,21
+California,Monterey,2023,213,206,7,0,0,0,0,63,38
+California,Nevada,2023,181,138,39,4,0,0,0,136,44
+California,Orange,2023,182,153,29,0,0,0,0,97,41
+California,Placer,2023,212,131,80,1,0,0,0,112,48
+California,Plumas,2023,181,104,75,2,0,0,0,142,41
+California,Riverside,2023,243,67,106,46,19,2,3,644,74
+California,Sacramento,2023,241,202,39,0,0,0,0,90,38
+California,San Benito,2023,242,209,33,0,0,0,0,93,40
+California,San Bernardino,2023,243,76,111,48,7,1,0,201,64
+California,San Diego,2023,271,166,90,15,0,0,0,140,46
+California,San Francisco,2023,213,208,5,0,0,0,0,61,31
+California,San Joaquin,2023,138,109,27,2,0,0,0,114,38
+California,San Luis Obispo,2023,181,145,36,0,0,0,0,97,43
+California,San Mateo,2023,213,203,10,0,0,0,0,58,35
+California,Santa Barbara,2023,182,170,12,0,0,0,0,77,40
+California,Santa Clara,2023,213,185,26,2,0,0,0,112,39
+California,Santa Cruz,2023,212,209,3,0,0,0,0,55,33
+California,Shasta,2023,242,203,39,0,0,0,0,80,44
+California,Siskiyou,2023,90,82,8,0,0,0,0,60,38
+California,Solano,2023,218,200,18,0,0,0,0,97,38
+California,Sonoma,2023,213,210,3,0,0,0,0,60,33
+California,Stanislaus,2023,167,130,36,1,0,0,0,108,42
+California,Sutter,2023,149,118,31,0,0,0,0,87,40
+California,Tehama,2023,149,125,23,1,0,0,0,101,39
+California,Trinity,2023,124,110,14,0,0,0,0,64,18
+California,Tulare,2023,243,115,89,35,4,0,0,156,52
+California,Tuolumne,2023,151,144,7,0,0,0,0,80,35
+California,Ventura,2023,212,160,45,7,0,0,0,136,44
+California,Yolo,2023,192,164,27,1,0,0,0,105,39
+Colorado,Adams,2023,267,152,110,3,2,0,0,168,49
+Colorado,Arapahoe,2023,249,160,81,8,0,0,0,122,48
+Colorado,Archuleta,2023,248,233,14,1,0,0,0,120,38
+Colorado,Boulder,2023,249,133,111,3,2,0,0,173,49
+Colorado,Clear Creek,2023,240,129,110,1,0,0,0,108,50
+Colorado,Denver,2023,267,119,141,4,2,1,0,277,53
+Colorado,Douglas,2023,251,140,97,13,1,0,0,170,49
+Colorado,El Paso,2023,248,148,98,1,1,0,0,153,48
+Colorado,Fremont,2023,80,79,1,0,0,0,0,71,13
+Colorado,Garfield,2023,90,85,5,0,0,0,0,71,43
+Colorado,Gilpin,2023,212,134,75,3,0,0,0,129,48
+Colorado,Gunnison,2023,208,127,81,0,0,0,0,93,49
+Colorado,Jefferson,2023,243,107,119,17,0,0,0,143,54
+Colorado,La Plata,2023,244,134,108,1,1,0,0,161,50
+Colorado,Larimer,2023,244,103,137,3,1,0,0,156,51
+Colorado,Mesa,2023,231,200,31,0,0,0,0,77,41
+Colorado,Montezuma,2023,273,200,73,0,0,0,0,80,46
+Colorado,Pitkin,2023,68,68,0,0,0,0,0,46,13
+Colorado,Prowers,2023,238,230,7,1,0,0,0,103,16
+Colorado,Pueblo,2023,245,170,74,1,0,0,0,115,44
+Colorado,Rio Blanco,2023,181,117,59,4,1,0,0,166,49
+Colorado,Routt,2023,236,231,5,0,0,0,0,58,14
+Colorado,San Miguel,2023,76,75,1,0,0,0,0,54,12
+Colorado,Weld,2023,249,100,146,2,1,0,0,159,55
+Connecticut,Fairfield,2023,181,131,41,5,3,1,0,217,44
+Connecticut,Hartford,2023,182,144,32,3,3,0,0,162,41
+Connecticut,Litchfield,2023,180,154,20,2,4,0,0,174,40
+Connecticut,Middlesex,2023,118,99,17,2,0,0,0,140,43
+Connecticut,New Haven,2023,181,134,40,4,3,0,0,191,44
+Connecticut,New London,2023,181,154,21,3,3,0,0,162,40
+Connecticut,Tolland,2023,121,97,22,1,1,0,0,156,43
+Connecticut,Windham,2023,211,192,17,2,0,0,0,112,37
+Country Of Mexico,SONORA,2023,273,153,114,6,0,0,0,126,47
+District Of Columbia,District of Columbia,2023,244,156,77,8,3,0,0,184,46
+Florida,Alachua,2023,181,155,26,0,0,0,0,87,40
+Florida,Baker,2023,181,147,34,0,0,0,0,81,40
+Florida,Bay,2023,181,132,49,0,0,0,0,78,45
+Florida,Brevard,2023,181,144,37,0,0,0,0,84,43
+Florida,Broward,2023,182,104,77,1,0,0,0,105,47
+Florida,Citrus,2023,180,156,24,0,0,0,0,70,36
+Florida,Collier,2023,180,160,20,0,0,0,0,84,39
+Florida,Columbia,2023,180,134,46,0,0,0,0,86,43
+Florida,Duval,2023,182,124,58,0,0,0,0,83,45
+Florida,Escambia,2023,181,121,60,0,0,0,0,93,44
+Florida,Flagler,2023,181,171,10,0,0,0,0,71,38
+Florida,Hamilton,2023,151,121,30,0,0,0,0,69,36
+Florida,Highlands,2023,179,165,13,1,0,0,0,108,38
+Florida,Hillsborough,2023,182,123,57,2,0,0,0,112,46
+Florida,Holmes,2023,181,131,50,0,0,0,0,77,43
+Florida,Indian River,2023,211,205,6,0,0,0,0,71,35
+Florida,Lake,2023,180,159,21,0,0,0,0,97,40
+Florida,Lee,2023,181,164,16,1,0,0,0,101,36
+Florida,Leon,2023,181,127,54,0,0,0,0,93,41
+Florida,Liberty,2023,198,192,6,0,0,0,0,64,35
+Florida,Manatee,2023,179,164,15,0,0,0,0,90,36
+Florida,Marion,2023,181,151,30,0,0,0,0,80,42
+Florida,Martin,2023,181,163,18,0,0,0,0,71,39
+Florida,Miami-Dade,2023,182,139,41,0,2,0,0,165,44
+Florida,Okaloosa,2023,57,48,9,0,0,0,0,84,42
+Florida,Orange,2023,182,140,40,2,0,0,0,115,43
+Florida,Osceola,2023,175,151,24,0,0,0,0,80,39
+Florida,Palm Beach,2023,181,154,27,0,0,0,0,72,41
+Florida,Pasco,2023,181,146,35,0,0,0,0,97,41
+Florida,Pinellas,2023,182,130,50,2,0,0,0,108,44
+Florida,Polk,2023,181,143,37,1,0,0,0,101,42
+Florida,Putnam,2023,181,181,0,0,0,0,0,46,16
+Florida,Santa Rosa,2023,181,143,38,0,0,0,0,100,42
+Florida,Sarasota,2023,181,142,39,0,0,0,0,100,44
+Florida,Seminole,2023,181,158,23,0,0,0,0,90,41
+Florida,St. Lucie,2023,177,170,7,0,0,0,0,74,38
+Florida,Volusia,2023,181,147,34,0,0,0,0,80,42
+Florida,Wakulla,2023,181,157,24,0,0,0,0,74,38
+Georgia,Bibb,2023,229,140,85,3,1,0,0,155,46
+Georgia,Chatham,2023,228,172,54,2,0,0,0,108,41
+Georgia,Chattooga,2023,152,133,19,0,0,0,0,100,39
+Georgia,Clarke,2023,241,150,88,3,0,0,0,147,47
+Georgia,Clayton,2023,70,53,17,0,0,0,0,97,38
+Georgia,Cobb,2023,171,138,31,2,0,0,0,125,40
+Georgia,Coffee,2023,66,55,11,0,0,0,0,87,30
+Georgia,Columbia,2023,149,140,9,0,0,0,0,74,38
+Georgia,Dawson,2023,183,163,18,2,0,0,0,126,39
+Georgia,DeKalb,2023,243,155,82,6,0,0,0,134,46
+Georgia,Dougherty,2023,242,152,85,5,0,0,0,140,43
+Georgia,Douglas,2023,184,142,36,6,0,0,0,136,43
+Georgia,Floyd,2023,220,163,56,1,0,0,0,110,34
+Georgia,Fulton,2023,243,145,89,8,1,0,0,172,47
+Georgia,Glynn,2023,271,229,42,0,0,0,0,88,38
+Georgia,Gwinnett,2023,243,156,81,6,0,0,0,140,46
+Georgia,Hall,2023,241,158,80,3,0,0,0,137,42
+Georgia,Henry,2023,242,180,55,6,1,0,0,152,42
+Georgia,Houston,2023,243,158,84,0,1,0,0,152,40
+Georgia,Lowndes,2023,241,172,67,2,0,0,0,105,38
+Georgia,Murray,2023,151,115,32,4,0,0,0,108,44
+Georgia,Muscogee,2023,273,182,88,2,1,0,0,153,44
+Georgia,Pike,2023,208,168,36,4,0,0,0,133,40
+Georgia,Richmond,2023,241,152,89,0,0,0,0,93,44
+Georgia,Rockdale,2023,150,123,23,4,0,0,0,136,42
+Georgia,Sumter,2023,153,135,18,0,0,0,0,87,39
+Georgia,Walker,2023,242,146,94,2,0,0,0,145,44
+Georgia,Washington,2023,238,146,89,2,1,0,0,159,45
+Hawaii,Hawaii,2023,226,220,6,0,0,0,0,68,17
+Hawaii,Honolulu,2023,182,179,2,1,0,0,0,117,31
+Hawaii,Maui,2023,163,162,0,0,1,0,0,152,18
+Idaho,Ada,2023,182,153,28,1,0,0,0,101,41
+Idaho,Bannock,2023,181,129,20,1,0,0,31,551,44
+Idaho,Benewah,2023,181,147,34,0,0,0,0,92,33
+Idaho,Blaine,2023,163,161,2,0,0,0,0,59,15
+Idaho,Boise,2023,181,164,17,0,0,0,0,74,28
+Idaho,Bonner,2023,179,171,8,0,0,0,0,72,23
+Idaho,Bonneville,2023,173,167,6,0,0,0,0,82,18
+Idaho,Butte,2023,238,198,40,0,0,0,0,80,46
+Idaho,Canyon,2023,180,166,14,0,0,0,0,75,21
+Idaho,Franklin,2023,181,163,14,3,1,0,0,154,16
+Idaho,Idaho,2023,212,203,9,0,0,0,0,88,39
+Idaho,Kootenai,2023,177,166,11,0,0,0,0,66,21
+Idaho,Latah,2023,181,177,4,0,0,0,0,74,10
+Idaho,Lemhi,2023,179,140,38,1,0,0,0,119,25
+Idaho,Nez Perce,2023,181,165,15,1,0,0,0,113,25
+Idaho,Shoshone,2023,181,137,44,0,0,0,0,84,34
+Idaho,Twin Falls,2023,164,159,5,0,0,0,0,77,18
+Idaho,Valley,2023,176,159,17,0,0,0,0,67,19
+Illinois,Adams,2023,214,157,45,12,0,0,0,136,44
+Illinois,Champaign,2023,273,171,89,11,1,1,0,252,46
+Illinois,Clark,2023,236,201,30,5,0,0,0,136,40
+Illinois,Cook,2023,274,116,124,27,7,0,0,199,54
+Illinois,DuPage,2023,273,157,99,11,4,2,0,209,48
+Illinois,Effingham,2023,211,152,49,10,0,0,0,140,45
+Illinois,Hamilton,2023,273,192,70,10,1,0,0,156,44
+Illinois,Jersey,2023,273,174,81,17,1,0,0,162,45
+Illinois,Jo Daviess,2023,206,160,37,8,1,0,0,154,40
+Illinois,Kane,2023,236,158,57,16,5,0,0,174,45
+Illinois,Lake,2023,212,154,44,13,1,0,0,179,44
+Illinois,Macon,2023,273,156,101,14,1,1,0,262,48
+Illinois,Macoupin,2023,273,220,43,10,0,0,0,129,41
+Illinois,Madison,2023,271,132,123,14,2,0,0,154,51
+Illinois,McHenry,2023,273,163,89,16,4,1,0,205,46
+Illinois,McLean,2023,273,157,103,10,2,1,0,264,47
+Illinois,Peoria,2023,248,148,78,21,1,0,0,151,47
+Illinois,Randolph,2023,273,187,73,11,2,0,0,156,44
+Illinois,Rock Island,2023,273,153,100,16,3,1,0,207,48
+Illinois,Saint Clair,2023,273,142,117,12,2,0,0,169,49
+Illinois,Sangamon,2023,273,160,93,17,2,1,0,222,47
+Illinois,Will,2023,273,161,93,14,4,1,0,221,48
+Illinois,Winnebago,2023,273,162,91,17,2,1,0,218,47
+Indiana,Allen,2023,239,182,52,5,0,0,0,129,43
+Indiana,Bartholomew,2023,267,196,63,7,1,0,0,194,44
+Indiana,Boone,2023,241,191,41,8,1,0,0,185,41
+Indiana,Brown,2023,234,200,32,2,0,0,0,126,40
+Indiana,Carroll,2023,237,197,35,5,0,0,0,122,40
+Indiana,Clark,2023,243,138,94,10,1,0,0,174,48
+Indiana,Delaware,2023,271,213,53,5,0,0,0,121,42
+Indiana,Dubois,2023,117,88,28,1,0,0,0,130,34
+Indiana,Elkhart,2023,273,199,67,5,2,0,0,182,42
+Indiana,Floyd,2023,228,164,57,6,1,0,0,177,44
+Indiana,Greene,2023,243,166,66,9,2,0,0,195,44
+Indiana,Hamilton,2023,243,160,73,8,2,0,0,180,44
+Indiana,Hendricks,2023,238,210,24,4,0,0,0,119,40
+Indiana,Henry,2023,226,163,53,8,2,0,0,181,38
+Indiana,Howard,2023,243,160,71,10,2,0,0,186,44
+Indiana,Knox,2023,212,165,39,8,0,0,0,126,43
+Indiana,LaPorte,2023,243,181,50,12,0,0,0,133,41
+Indiana,Lake,2023,273,139,116,16,2,0,0,195,50
+Indiana,Madison,2023,243,150,81,10,1,1,0,205,46
+Indiana,Marion,2023,244,87,140,13,3,1,0,234,57
+Indiana,Monroe,2023,273,222,46,3,1,1,0,205,32
+Indiana,Perry,2023,239,204,33,2,0,0,0,112,40
+Indiana,Porter,2023,243,149,73,19,2,0,0,172,45
+Indiana,Posey,2023,238,194,37,7,0,0,0,126,41
+Indiana,Shelby,2023,241,199,38,4,0,0,0,147,41
+Indiana,Spencer,2023,69,57,12,0,0,0,0,84,34
+Indiana,St. Joseph,2023,272,163,96,10,3,0,0,198,46
+Indiana,Tippecanoe,2023,231,183,42,4,2,0,0,190,34
+Indiana,Vanderburgh,2023,273,174,91,7,1,0,0,172,46
+Indiana,Vigo,2023,243,148,87,6,1,1,0,207,45
+Indiana,Wabash,2023,211,167,41,3,0,0,0,126,41
+Indiana,Warrick,2023,243,195,41,7,0,0,0,133,41
+Indiana,Whitley,2023,241,160,74,4,3,0,0,199,40
+Iowa,Black Hawk,2023,269,166,96,4,3,0,0,177,45
+Iowa,Bremer,2023,205,151,44,9,1,0,0,151,43
+Iowa,Cerro Gordo,2023,60,58,2,0,0,0,0,56,19
+Iowa,Clinton,2023,273,143,113,13,3,1,0,210,50
+Iowa,Harrison,2023,208,135,57,16,0,0,0,140,44
+Iowa,Johnson,2023,273,165,102,2,4,0,0,192,45
+Iowa,Lee,2023,60,47,13,0,0,0,0,97,35
+Iowa,Linn,2023,273,133,122,14,4,0,0,190,51
+Iowa,Montgomery,2023,272,181,84,7,0,0,0,147,44
+Iowa,Muscatine,2023,273,187,82,1,3,0,0,190,40
+Iowa,Palo Alto,2023,273,170,85,14,4,0,0,158,44
+Iowa,Polk,2023,273,162,96,12,3,0,0,162,45
+Iowa,Pottawattamie,2023,82,58,24,0,0,0,0,97,38
+Iowa,Scott,2023,274,147,104,19,4,0,0,197,50
+Iowa,Van Buren,2023,271,181,83,5,2,0,0,169,44
+Iowa,Woodbury,2023,78,54,23,0,1,0,0,164,35
+Kansas,Ford,2023,180,165,14,1,0,0,0,147,15
+Kansas,Johnson,2023,181,113,63,4,1,0,0,164,45
+Kansas,Leavenworth,2023,180,132,39,9,0,0,0,129,42
+Kansas,Neosho,2023,181,75,105,0,1,0,0,158,53
+Kansas,Sedgwick,2023,181,105,74,2,0,0,0,126,48
+Kansas,Shawnee,2023,179,111,62,6,0,0,0,129,45
+Kansas,Sherman,2023,150,146,4,0,0,0,0,78,11
+Kansas,Sumner,2023,181,120,59,2,0,0,0,112,46
+Kansas,Trego,2023,181,117,63,1,0,0,0,101,44
+Kansas,Wyandotte,2023,181,116,53,11,1,0,0,166,46
+Kentucky,Bell,2023,181,122,57,2,0,0,0,131,45
+Kentucky,Boone,2023,122,87,31,4,0,0,0,133,46
+Kentucky,Boyd,2023,186,139,44,1,2,0,0,157,44
+Kentucky,Bullitt,2023,120,87,27,6,0,0,0,126,44
+Kentucky,Campbell,2023,189,142,42,3,2,0,0,178,42
+Kentucky,Carter,2023,186,149,35,1,1,0,0,153,39
+Kentucky,Christian,2023,181,132,45,4,0,0,0,115,43
+Kentucky,Daviess,2023,181,115,58,7,1,0,0,165,44
+Kentucky,Edmonson,2023,242,212,26,4,0,0,0,115,40
+Kentucky,Fayette,2023,187,139,46,1,1,0,0,163,43
+Kentucky,Greenup,2023,118,103,15,0,0,0,0,84,44
+Kentucky,Hancock,2023,122,87,29,6,0,0,0,140,44
+Kentucky,Hardin,2023,186,131,52,2,1,0,0,151,43
+Kentucky,Jefferson,2023,182,88,84,9,1,0,0,166,51
+Kentucky,Jessamine,2023,122,97,23,2,0,0,0,122,44
+Kentucky,Livingston,2023,122,83,34,5,0,0,0,126,44
+Kentucky,McCracken,2023,171,117,48,6,0,0,0,126,43
+Kentucky,Morgan,2023,212,189,23,0,0,0,0,93,41
+Kentucky,Oldham,2023,122,93,28,1,0,0,0,105,44
+Kentucky,Perry,2023,181,140,38,3,0,0,0,137,40
+Kentucky,Pike,2023,180,149,29,2,0,0,0,127,38
+Kentucky,Pulaski,2023,179,137,40,2,0,0,0,120,41
+Kentucky,Simpson,2023,121,90,24,7,0,0,0,122,44
+Kentucky,Warren,2023,181,131,48,1,1,0,0,154,42
+Kentucky,Washington,2023,207,170,35,2,0,0,0,108,42
+Louisiana,Ascension,2023,271,224,44,2,1,0,0,154,35
+Louisiana,Bossier,2023,268,172,95,1,0,0,0,114,45
+Louisiana,Caddo,2023,263,214,49,0,0,0,0,100,40
+Louisiana,Calcasieu,2023,273,148,121,4,0,0,0,133,48
+Louisiana,East Baton Rouge,2023,274,177,89,8,0,0,0,147,46
+Louisiana,Iberville,2023,273,198,62,12,1,0,0,154,41
+Louisiana,Jefferson,2023,271,181,86,4,0,0,0,126,46
+Louisiana,Lafayette,2023,273,212,60,1,0,0,0,112,41
+Louisiana,Lafourche,2023,273,169,103,1,0,0,0,101,46
+Louisiana,Livingston,2023,272,152,115,5,0,0,0,133,49
+Louisiana,Orleans,2023,274,237,37,0,0,0,0,87,32
+Louisiana,Ouachita,2023,266,222,44,0,0,0,0,100,38
+Louisiana,Pointe Coupee,2023,270,241,27,2,0,0,0,112,37
+Louisiana,Rapides,2023,59,44,15,0,0,0,0,77,30
+Louisiana,St. Bernard,2023,273,168,103,2,0,0,0,119,47
+Louisiana,St. James,2023,262,226,34,2,0,0,0,115,35
+Louisiana,St. John the Baptist,2023,266,228,34,4,0,0,0,112,36
+Louisiana,St. Martin,2023,272,229,42,1,0,0,0,112,38
+Louisiana,St. Tammany,2023,273,214,58,1,0,0,0,105,40
+Louisiana,Tangipahoa,2023,63,57,6,0,0,0,0,67,30
+Louisiana,Terrebonne,2023,55,53,2,0,0,0,0,60,28
+Louisiana,West Baton Rouge,2023,270,185,76,9,0,0,0,140,44
+Maine,Androscoggin,2023,271,247,24,0,0,0,0,74,36
+Maine,Aroostook,2023,273,223,47,3,0,0,0,142,35
+Maine,Cumberland,2023,273,224,49,0,0,0,0,94,39
+Maine,Hancock,2023,274,235,39,0,0,0,0,93,41
+Maine,Kennebec,2023,206,183,23,0,0,0,0,91,36
+Maine,Knox,2023,213,208,5,0,0,0,0,87,36
+Maine,Oxford,2023,273,248,25,0,0,0,0,81,37
+Maine,Penobscot,2023,270,245,25,0,0,0,0,88,36
+Maine,Sagadahoc,2023,197,183,14,0,0,0,0,100,39
+Maine,Washington,2023,272,267,5,0,0,0,0,74,35
+Maine,York,2023,238,214,24,0,0,0,0,84,40
+Maryland,Anne Arundel,2023,222,184,36,2,0,0,0,150,42
+Maryland,Baltimore,2023,273,203,61,5,3,1,0,205,43
+Maryland,Baltimore (City),2023,212,145,60,4,3,0,0,181,45
+Maryland,Calvert,2023,122,97,24,1,0,0,0,101,44
+Maryland,Carroll,2023,121,85,33,3,0,0,0,143,46
+Maryland,Cecil,2023,273,199,68,2,4,0,0,180,44
+Maryland,Charles,2023,120,85,33,2,0,0,0,115,46
+Maryland,Dorchester,2023,212,168,38,3,3,0,0,171,43
+Maryland,Frederick,2023,111,76,30,5,0,0,0,136,46
+Maryland,Garrett,2023,266,217,47,0,2,0,0,165,41
+Maryland,Harford,2023,273,194,69,7,3,0,0,187,45
+Maryland,Howard,2023,272,231,37,1,3,0,0,178,31
+Maryland,Kent,2023,181,141,34,3,3,0,0,186,43
+Maryland,Montgomery,2023,179,145,29,2,3,0,0,161,42
+Maryland,Prince George's,2023,273,204,58,8,3,0,0,181,44
+Maryland,Washington,2023,268,222,40,4,2,0,0,167,42
+Massachusetts,Barnstable,2023,173,160,11,2,0,0,0,140,40
+Massachusetts,Berkshire,2023,181,149,28,1,3,0,0,165,41
+Massachusetts,Bristol,2023,181,154,21,6,0,0,0,137,42
+Massachusetts,Dukes,2023,179,166,11,2,0,0,0,133,40
+Massachusetts,Essex,2023,181,147,33,1,0,0,0,105,42
+Massachusetts,Franklin,2023,181,150,28,3,0,0,0,137,39
+Massachusetts,Hampden,2023,181,147,29,3,2,0,0,153,42
+Massachusetts,Hampshire,2023,181,155,21,5,0,0,0,132,39
+Massachusetts,Middlesex,2023,181,163,17,1,0,0,0,101,39
+Massachusetts,Norfolk,2023,181,154,23,4,0,0,0,136,41
+Massachusetts,Plymouth,2023,181,158,20,3,0,0,0,114,40
+Massachusetts,Suffolk,2023,182,152,30,0,0,0,0,90,39
+Massachusetts,Worcester,2023,182,157,23,2,0,0,0,148,39
+Michigan,Allegan,2023,181,130,37,11,3,0,0,181,42
+Michigan,Bay,2023,181,136,39,3,3,0,0,181,35
+Michigan,Benzie,2023,119,96,21,1,1,0,0,156,41
+Michigan,Berrien,2023,122,84,29,9,0,0,0,143,44
+Michigan,Cass,2023,122,88,26,8,0,0,0,126,44
+Michigan,Clinton,2023,122,94,25,3,0,0,0,136,41
+Michigan,Genesee,2023,180,120,50,7,3,0,0,171,44
+Michigan,Huron,2023,122,105,15,2,0,0,0,112,40
+Michigan,Ingham,2023,179,126,44,6,3,0,0,183,42
+Michigan,Kalamazoo,2023,176,95,73,5,3,0,0,200,48
+Michigan,Kent,2023,182,120,52,7,3,0,0,197,44
+Michigan,Lenawee,2023,180,102,64,9,4,1,0,229,49
+Michigan,Macomb,2023,181,114,57,6,4,0,0,184,44
+Michigan,Manistee,2023,125,96,22,6,1,0,0,161,42
+Michigan,Mason,2023,119,91,27,1,0,0,0,143,42
+Michigan,Missaukee,2023,178,127,45,4,2,0,0,187,44
+Michigan,Monroe,2023,40,37,3,0,0,0,0,82,26
+Michigan,Muskegon,2023,121,89,25,7,0,0,0,147,42
+Michigan,Oakland,2023,135,97,29,8,1,0,0,164,43
+Michigan,Ottawa,2023,179,113,59,4,2,1,0,202,44
+Michigan,Schoolcraft,2023,178,149,23,4,2,0,0,173,39
+Michigan,St. Clair,2023,180,114,55,7,4,0,0,185,44
+Michigan,Tuscola,2023,210,176,28,5,1,0,0,154,39
+Michigan,Washtenaw,2023,212,125,74,9,4,0,0,196,46
+Michigan,Wayne,2023,182,54,106,15,7,0,0,200,58
+Michigan,Wexford,2023,211,174,34,3,0,0,0,105,40
+Minnesota,Anoka,2023,181,119,47,13,2,0,0,168,46
+Minnesota,Becker,2023,181,119,57,3,2,0,0,167,44
+Minnesota,Beltrami,2023,177,145,29,2,1,0,0,155,14
+Minnesota,Carlton,2023,178,144,31,2,1,0,0,155,39
+Minnesota,Cass,2023,176,153,21,2,0,0,0,144,23
+Minnesota,Cook,2023,168,157,10,1,0,0,0,120,6
+Minnesota,Crow Wing,2023,181,131,43,6,1,0,0,161,43
+Minnesota,Dakota,2023,182,124,49,6,3,0,0,176,39
+Minnesota,Goodhue,2023,116,79,32,5,0,0,0,133,47
+Minnesota,Hennepin,2023,182,111,56,12,3,0,0,178,45
+Minnesota,Lake,2023,181,156,23,2,0,0,0,114,39
+Minnesota,Lyon,2023,181,116,59,5,1,0,0,167,44
+Minnesota,Mille Lacs,2023,116,94,17,5,0,0,0,136,44
+Minnesota,Olmsted,2023,181,112,55,13,1,0,0,163,45
+Minnesota,Ramsey,2023,181,122,52,4,3,0,0,180,39
+Minnesota,Saint Louis,2023,242,189,48,4,1,0,0,154,40
+Minnesota,Scott,2023,181,112,53,11,5,0,0,172,46
+Minnesota,Stearns,2023,181,117,53,8,3,0,0,175,45
+Minnesota,Washington,2023,122,85,29,8,0,0,0,140,45
+Minnesota,Wright,2023,174,110,45,16,3,0,0,177,46
+Mississippi,Bolivar,2023,180,122,55,3,0,0,0,126,44
+Mississippi,DeSoto,2023,181,104,73,4,0,0,0,112,47
+Mississippi,Forrest,2023,181,129,52,0,0,0,0,93,40
+Mississippi,Hancock,2023,181,139,42,0,0,0,0,88,41
+Mississippi,Harrison,2023,181,132,47,2,0,0,0,105,43
+Mississippi,Hinds,2023,182,109,71,2,0,0,0,115,47
+Mississippi,Jackson,2023,180,139,39,2,0,0,0,108,42
+Mississippi,Lauderdale,2023,121,110,11,0,0,0,0,87,40
+Mississippi,Lee,2023,122,94,26,2,0,0,0,122,44
+Mississippi,Yalobusha,2023,203,193,9,1,0,0,0,119,37
+Missouri,Andrew,2023,91,39,46,6,0,0,0,122,54
+Missouri,Boone,2023,91,50,36,5,0,0,0,143,49
+Missouri,Buchanan,2023,148,102,46,0,0,0,0,85,41
+Missouri,Callaway,2023,91,52,34,5,0,0,0,133,49
+Missouri,Cass,2023,91,56,31,4,0,0,0,143,47
+Missouri,Cedar,2023,148,109,35,4,0,0,0,122,44
+Missouri,Clay,2023,136,73,50,13,0,0,0,140,49
+Missouri,Clinton,2023,91,38,43,10,0,0,0,133,54
+Missouri,Greene,2023,150,86,60,4,0,0,0,122,49
+Missouri,Jackson,2023,151,96,55,0,0,0,0,92,44
+Missouri,Jasper,2023,150,112,35,3,0,0,0,119,44
+Missouri,Jefferson,2023,150,94,41,13,2,0,0,185,46
+Missouri,Lincoln,2023,91,41,35,15,0,0,0,140,51
+Missouri,Monroe,2023,149,116,30,3,0,0,0,119,40
+Missouri,Perry,2023,91,43,37,11,0,0,0,150,51
+Missouri,Saint Charles,2023,91,36,40,15,0,0,0,147,54
+Missouri,Saint Louis,2023,156,104,36,14,2,0,0,166,43
+Missouri,Sainte Genevieve,2023,91,52,27,12,0,0,0,147,49
+Missouri,St. Louis City,2023,162,62,96,3,1,0,0,162,55
+Montana,Beaverhead,2023,177,174,1,2,0,0,0,124,8
+Montana,Cascade,2023,174,149,22,3,0,0,0,131,34
+Montana,Custer,2023,180,157,19,2,1,1,0,235,41
+Montana,Fergus,2023,180,165,13,2,0,0,0,106,42
+Montana,Flathead,2023,242,199,40,1,2,0,0,158,41
+Montana,Gallatin,2023,244,235,9,0,0,0,0,98,19
+Montana,Glacier,2023,170,161,5,4,0,0,0,116,8
+Montana,Hill,2023,30,25,5,0,0,0,0,67,23
+Montana,Lewis and Clark,2023,182,143,37,0,2,0,0,161,44
+Montana,Lincoln,2023,180,114,65,1,0,0,0,107,41
+Montana,Missoula,2023,180,121,56,3,0,0,0,117,44
+Montana,Phillips,2023,180,156,20,1,3,0,0,181,38
+Montana,Powder River,2023,180,147,27,5,1,0,0,184,44
+Montana,Ravalli,2023,178,171,6,1,0,0,0,110,14
+Montana,Richland,2023,180,149,29,1,1,0,0,197,42
+Montana,Sanders,2023,180,172,6,2,0,0,0,113,24
+Montana,Silver Bow,2023,181,148,31,2,0,0,0,124,20
+Montana,Yellowstone,2023,177,167,10,0,0,0,0,94,19
+Nebraska,Cass,2023,269,267,2,0,0,0,0,66,17
+Nebraska,Douglas,2023,274,161,89,22,2,0,0,169,46
+Nebraska,Gage,2023,261,228,30,2,1,0,0,160,27
+Nebraska,Hall,2023,265,225,37,0,3,0,0,179,29
+Nebraska,Knox,2023,193,137,42,13,1,0,0,151,44
+Nebraska,Lancaster,2023,140,92,46,2,0,0,0,108,44
+Nebraska,Sarpy,2023,244,198,44,1,1,0,0,152,32
+Nebraska,Scotts Bluff,2023,258,245,12,0,1,0,0,200,13
+Nebraska,Washington,2023,268,225,39,3,1,0,0,153,27
+Nevada,Carson City,2023,180,128,52,0,0,0,0,97,46
+Nevada,Churchill,2023,180,149,31,0,0,0,0,80,44
+Nevada,Clark,2023,244,79,140,24,1,0,0,197,64
+Nevada,Douglas,2023,176,163,13,0,0,0,0,70,18
+Nevada,Elko,2023,170,170,0,0,0,0,0,44,10
+Nevada,Lyon,2023,167,152,15,0,0,0,0,77,43
+Nevada,Nye,2023,181,167,9,5,0,0,0,147,17
+Nevada,Washoe,2023,182,102,80,0,0,0,0,90,49
+Nevada,White Pine,2023,238,171,67,0,0,0,0,93,47
+New Hampshire,Belknap,2023,181,168,13,0,0,0,0,87,38
+New Hampshire,Cheshire,2023,179,154,25,0,0,0,0,90,39
+New Hampshire,Coos,2023,181,153,26,2,0,0,0,136,44
+New Hampshire,Grafton,2023,181,171,10,0,0,0,0,80,39
+New Hampshire,Hillsborough,2023,182,154,25,3,0,0,0,112,42
+New Hampshire,Merrimack,2023,121,108,13,0,0,0,0,100,42
+New Hampshire,Rockingham,2023,182,159,23,0,0,0,0,100,41
+New Jersey,Atlantic,2023,181,155,21,3,2,0,0,195,34
+New Jersey,Bergen,2023,182,145,31,2,4,0,0,185,41
+New Jersey,Camden,2023,182,131,45,3,3,0,0,193,44
+New Jersey,Cumberland,2023,181,146,30,3,2,0,0,188,41
+New Jersey,Gloucester,2023,140,111,24,2,3,0,0,176,44
+New Jersey,Hudson,2023,181,143,34,0,4,0,0,188,42
+New Jersey,Hunterdon,2023,181,140,32,5,3,1,0,237,44
+New Jersey,Mercer,2023,209,149,50,5,4,1,0,220,44
+New Jersey,Middlesex,2023,181,137,35,4,4,1,0,222,42
+New Jersey,Monmouth,2023,122,105,17,0,0,0,0,100,41
+New Jersey,Morris,2023,180,155,19,4,2,0,0,154,40
+New Jersey,Ocean,2023,181,145,28,6,1,1,0,223,41
+New Jersey,Passaic,2023,169,142,19,4,4,0,0,186,41
+New Jersey,Union,2023,182,116,61,1,3,1,0,202,43
+New Jersey,Warren,2023,177,153,19,0,5,0,0,185,38
+New Mexico,Bernalillo,2023,182,43,130,4,4,1,0,207,67
+New Mexico,Dona Ana,2023,185,97,80,5,3,0,0,196,50
+New Mexico,Eddy,2023,228,100,117,11,0,0,0,143,54
+New Mexico,Lea,2023,180,119,58,3,0,0,0,133,45
+New Mexico,Luna,2023,174,161,11,1,1,0,0,157,19
+New Mexico,Rio Arriba,2023,169,145,24,0,0,0,0,71,44
+New Mexico,San Juan,2023,237,146,88,3,0,0,0,117,48
+New Mexico,Sandoval,2023,158,124,34,0,0,0,0,87,44
+New Mexico,Santa Fe,2023,180,136,44,0,0,0,0,84,45
+New Mexico,Taos,2023,177,176,1,0,0,0,0,53,17
+New Mexico,Valencia,2023,179,138,41,0,0,0,0,87,44
+New York,Albany,2023,266,212,47,4,3,0,0,177,39
+New York,Bronx,2023,244,168,67,5,3,1,0,228,43
+New York,Chautauqua,2023,241,207,30,4,0,0,0,133,40
+New York,Dutchess,2023,225,212,12,1,0,0,0,108,36
+New York,Erie,2023,273,181,84,5,3,0,0,169,42
+New York,Essex,2023,266,213,43,8,2,0,0,159,44
+New York,Hamilton,2023,233,216,17,0,0,0,0,90,38
+New York,Jefferson,2023,241,224,16,1,0,0,0,101,36
+New York,Kings,2023,269,201,63,1,3,1,0,224,35
+New York,Monroe,2023,273,205,60,3,5,0,0,170,40
+New York,Nassau,2023,273,238,31,1,3,0,0,185,23
+New York,New York,2023,273,208,57,4,4,0,0,191,42
+New York,Niagara,2023,236,215,21,0,0,0,0,97,37
+New York,Oneida,2023,259,230,23,3,3,0,0,180,25
+New York,Onondaga,2023,264,225,31,4,3,1,0,233,39
+New York,Orange,2023,264,233,25,3,3,0,0,176,25
+New York,Oswego,2023,234,219,14,1,0,0,0,105,37
+New York,Putnam,2023,238,223,12,3,0,0,0,140,35
+New York,Queens,2023,273,186,76,6,4,1,0,254,44
+New York,Richmond,2023,272,221,43,3,4,1,0,202,40
+New York,Rockland,2023,271,232,30,6,3,0,0,185,38
+New York,Saratoga,2023,243,230,12,1,0,0,0,122,34
+New York,Steuben,2023,267,225,34,3,4,1,0,231,39
+New York,Suffolk,2023,244,194,37,11,2,0,0,184,43
+New York,Tompkins,2023,211,188,23,0,0,0,0,100,39
+New York,Wayne,2023,232,212,17,3,0,0,0,112,37
+New York,Westchester,2023,271,234,30,4,3,0,0,185,38
+North Carolina,Alexander,2023,242,215,26,1,0,0,0,105,38
+North Carolina,Avery,2023,183,158,25,0,0,0,0,97,42
+North Carolina,Buncombe,2023,243,210,33,0,0,0,0,94,39
+North Carolina,Caldwell,2023,184,159,25,0,0,0,0,97,42
+North Carolina,Carteret,2023,210,178,30,2,0,0,0,105,43
+North Carolina,Caswell,2023,242,217,25,0,0,0,0,97,40
+North Carolina,Catawba,2023,232,178,51,3,0,0,0,115,36
+North Carolina,Cumberland,2023,243,166,76,1,0,0,0,129,45
+North Carolina,Davidson,2023,178,126,51,1,0,0,0,126,38
+North Carolina,Durham,2023,243,197,43,3,0,0,0,121,42
+North Carolina,Edgecombe,2023,235,195,40,0,0,0,0,99,42
+North Carolina,Forsyth,2023,212,123,82,6,1,0,0,153,47
+North Carolina,Graham,2023,182,129,48,5,0,0,0,115,47
+North Carolina,Granville,2023,183,147,35,1,0,0,0,105,44
+North Carolina,Guilford,2023,243,176,65,2,0,0,0,131,44
+North Carolina,Haywood,2023,184,114,65,5,0,0,0,112,48
+North Carolina,Johnston,2023,243,191,51,1,0,0,0,115,42
+North Carolina,Lenoir,2023,183,152,30,1,0,0,0,105,44
+North Carolina,Lincoln,2023,183,146,37,0,0,0,0,97,44
+North Carolina,Macon,2023,208,189,19,0,0,0,0,93,38
+North Carolina,Martin,2023,183,169,14,0,0,0,0,77,39
+North Carolina,Mecklenburg,2023,274,173,95,6,0,0,0,150,47
+North Carolina,Mitchell,2023,240,212,27,1,0,0,0,104,27
+North Carolina,Montgomery,2023,206,150,54,2,0,0,0,134,44
+North Carolina,New Hanover,2023,239,199,39,1,0,0,0,136,40
+North Carolina,Northampton,2023,243,192,50,1,0,0,0,134,33
+North Carolina,Person,2023,183,160,22,1,0,0,0,101,43
+North Carolina,Pitt,2023,243,200,41,2,0,0,0,118,42
+North Carolina,Rockingham,2023,184,153,30,1,0,0,0,108,44
+North Carolina,Rowan,2023,242,171,68,3,0,0,0,122,45
+North Carolina,Swain,2023,243,201,41,1,0,0,0,108,39
+North Carolina,Union,2023,184,142,41,1,0,0,0,101,44
+North Carolina,Wake,2023,244,169,70,5,0,0,0,130,45
+North Carolina,Yancey,2023,179,123,55,1,0,0,0,101,47
+North Dakota,Billings,2023,212,172,32,6,1,1,0,201,42
+North Dakota,Burke,2023,208,134,64,8,1,1,0,262,44
+North Dakota,Burleigh,2023,229,151,64,11,2,1,0,247,39
+North Dakota,Cass,2023,205,105,92,6,2,0,0,169,49
+North Dakota,Dunn,2023,212,160,43,6,2,1,0,284,42
+North Dakota,McKenzie,2023,211,172,31,5,2,1,0,273,41
+North Dakota,Mercer,2023,212,161,44,5,1,1,0,286,41
+North Dakota,Oliver,2023,212,153,50,6,2,1,0,286,44
+North Dakota,Ward,2023,212,149,53,8,1,1,0,254,43
+Ohio,Allen,2023,243,175,60,5,3,0,0,183,43
+Ohio,Ashtabula,2023,184,149,33,2,0,0,0,147,43
+Ohio,Athens,2023,122,104,17,0,1,0,0,156,28
+Ohio,Belmont,2023,232,208,23,0,1,0,0,173,21
+Ohio,Butler,2023,243,112,116,11,4,0,0,185,51
+Ohio,Clark,2023,243,152,83,5,3,0,0,184,46
+Ohio,Clermont,2023,238,181,52,4,1,0,0,169,42
+Ohio,Clinton,2023,182,140,38,4,0,0,0,129,44
+Ohio,Columbiana,2023,41,40,1,0,0,0,0,74,11
+Ohio,Cuyahoga,2023,244,111,120,9,3,1,0,209,52
+Ohio,Delaware,2023,184,151,32,1,0,0,0,108,42
+Ohio,Franklin,2023,244,135,98,7,4,0,0,192,48
+Ohio,Geauga,2023,184,151,32,1,0,0,0,129,43
+Ohio,Greene,2023,183,129,50,4,0,0,0,126,45
+Ohio,Hamilton,2023,244,115,110,17,2,0,0,182,51
+Ohio,Jefferson,2023,243,138,101,2,1,1,0,204,48
+Ohio,Knox,2023,184,141,42,1,0,0,0,105,44
+Ohio,Lake,2023,243,167,66,7,3,0,0,165,44
+Ohio,Lawrence,2023,243,176,61,4,2,0,0,157,44
+Ohio,Licking,2023,184,149,35,0,0,0,0,97,44
+Ohio,Lorain,2023,182,161,21,0,0,0,0,90,39
+Ohio,Lucas,2023,243,164,64,13,2,0,0,179,44
+Ohio,Madison,2023,184,142,40,2,0,0,0,105,44
+Ohio,Mahoning,2023,243,145,92,3,2,1,0,202,46
+Ohio,Medina,2023,241,160,71,7,2,1,0,260,44
+Ohio,Miami,2023,183,135,45,3,0,0,0,112,44
+Ohio,Montgomery,2023,241,134,96,8,3,0,0,184,48
+Ohio,Noble,2023,199,171,27,1,0,0,0,112,41
+Ohio,Portage,2023,180,121,56,2,1,0,0,159,45
+Ohio,Preble,2023,240,157,74,6,3,0,0,189,44
+Ohio,Scioto,2023,243,184,53,4,2,0,0,166,35
+Ohio,Stark,2023,243,126,107,7,2,1,0,258,49
+Ohio,Summit,2023,243,155,80,5,2,1,0,205,45
+Ohio,Trumbull,2023,242,147,87,5,3,0,0,197,45
+Ohio,Warren,2023,243,156,80,5,2,0,0,174,45
+Ohio,Washington,2023,177,151,26,0,0,0,0,100,42
+Ohio,Wood,2023,180,140,36,4,0,0,0,126,42
+Oklahoma,Adair,2023,182,122,60,0,0,0,0,100,44
+Oklahoma,Canadian,2023,188,125,58,5,0,0,0,133,47
+Oklahoma,Carter,2023,226,125,93,8,0,0,0,136,49
+Oklahoma,Cleveland,2023,242,137,102,3,0,0,0,143,48
+Oklahoma,Comanche,2023,233,149,81,3,0,0,0,126,45
+Oklahoma,Creek,2023,158,121,35,2,0,0,0,112,45
+Oklahoma,Dewey,2023,243,160,83,0,0,0,0,100,46
+Oklahoma,Jefferson,2023,150,86,59,5,0,0,0,133,49
+Oklahoma,Johnston,2023,152,99,50,2,1,0,0,161,48
+Oklahoma,Kay,2023,216,158,58,0,0,0,0,95,37
+Oklahoma,Mayes,2023,120,104,14,2,0,0,0,129,43
+Oklahoma,McClain,2023,160,81,72,7,0,0,0,143,50
+Oklahoma,Nowata,2023,234,105,127,2,0,0,0,105,52
+Oklahoma,Oklahoma,2023,244,126,113,5,0,0,0,136,50
+Oklahoma,Osage,2023,174,125,43,6,0,0,0,147,45
+Oklahoma,Ottawa,2023,118,90,24,4,0,0,0,122,45
+Oklahoma,Pittsburg,2023,241,162,74,5,0,0,0,119,45
+Oklahoma,Pontotoc,2023,181,148,33,0,0,0,0,93,39
+Oklahoma,Sequoyah,2023,205,158,47,0,0,0,0,84,41
+Oklahoma,Tulsa,2023,244,131,98,13,2,0,0,197,49
+Oregon,Baker,2023,210,205,5,0,0,0,0,62,20
+Oregon,Clackamas,2023,211,195,16,0,0,0,0,97,29
+Oregon,Columbia,2023,181,179,2,0,0,0,0,54,21
+Oregon,Crook,2023,181,175,6,0,0,0,0,59,21
+Oregon,Deschutes,2023,212,193,10,6,2,0,1,332,17
+Oregon,Grant,2023,181,131,49,1,0,0,0,110,31
+Oregon,Harney,2023,212,164,47,1,0,0,0,117,30
+Oregon,Jackson,2023,212,182,30,0,0,0,0,76,34
+Oregon,Jefferson,2023,181,163,18,0,0,0,0,77,19
+Oregon,Josephine,2023,212,173,34,3,2,0,0,158,28
+Oregon,Klamath,2023,211,173,38,0,0,0,0,80,23
+Oregon,Lake,2023,181,166,15,0,0,0,0,95,16
+Oregon,Lane,2023,273,201,59,6,7,0,0,192,38
+Oregon,Linn,2023,212,199,13,0,0,0,0,84,20
+Oregon,Marion,2023,181,160,19,2,0,0,0,124,30
+Oregon,Multnomah,2023,182,162,20,0,0,0,0,77,34
+Oregon,Umatilla,2023,212,186,26,0,0,0,0,87,35
+Oregon,Union,2023,181,179,2,0,0,0,0,72,16
+Oregon,Wallowa,2023,212,207,5,0,0,0,0,65,18
+Oregon,Wasco,2023,105,104,1,0,0,0,0,61,17
+Oregon,Washington,2023,212,196,15,1,0,0,0,106,31
+Pennsylvania,Adams,2023,244,166,69,5,3,1,0,216,45
+Pennsylvania,Allegheny,2023,182,79,90,11,1,1,0,212,54
+Pennsylvania,Armstrong,2023,183,128,49,3,3,0,0,192,44
+Pennsylvania,Beaver,2023,243,151,83,7,1,1,0,211,44
+Pennsylvania,Berks,2023,182,111,62,4,3,2,0,263,47
+Pennsylvania,Blair,2023,177,122,49,1,5,0,0,193,44
+Pennsylvania,Bradford,2023,112,96,15,1,0,0,0,108,42
+Pennsylvania,Bucks,2023,116,90,24,1,1,0,0,200,44
+Pennsylvania,Cambria,2023,244,188,53,0,3,0,0,187,38
+Pennsylvania,Centre,2023,234,173,53,3,5,0,0,187,44
+Pennsylvania,Chester,2023,180,124,49,3,3,1,0,223,42
+Pennsylvania,Cumberland,2023,183,127,49,3,4,0,0,199,39
+Pennsylvania,Dauphin,2023,208,129,69,5,3,2,0,230,45
+Pennsylvania,Delaware,2023,238,173,58,3,3,1,0,246,41
+Pennsylvania,Elk,2023,211,191,20,0,0,0,0,100,40
+Pennsylvania,Erie,2023,244,196,40,6,2,0,0,173,35
+Pennsylvania,Fayette,2023,120,82,36,2,0,0,0,129,46
+Pennsylvania,Franklin,2023,120,91,27,2,0,0,0,133,45
+Pennsylvania,Greene,2023,120,82,36,2,0,0,0,108,47
+Pennsylvania,Indiana,2023,183,136,40,4,3,0,0,197,43
+Pennsylvania,Lackawanna,2023,244,197,39,3,4,1,0,268,38
+Pennsylvania,Lancaster,2023,183,57,113,8,3,2,0,285,59
+Pennsylvania,Lawrence,2023,96,85,10,1,0,0,0,119,41
+Pennsylvania,Lebanon,2023,183,115,59,4,3,2,0,240,44
+Pennsylvania,Lehigh,2023,182,133,42,2,4,1,0,293,41
+Pennsylvania,Lycoming,2023,111,86,22,3,0,0,0,119,44
+Pennsylvania,Mercer,2023,212,158,50,2,2,0,0,184,43
+Pennsylvania,Monroe,2023,120,100,17,3,0,0,0,126,43
+Pennsylvania,Montgomery,2023,183,133,45,0,3,2,0,260,41
+Pennsylvania,Northampton,2023,228,166,55,2,4,0,1,309,41
+Pennsylvania,Philadelphia,2023,182,83,91,3,3,2,0,290,52
+Pennsylvania,Somerset,2023,212,181,31,0,0,0,0,93,41
+Pennsylvania,Tioga,2023,120,99,21,0,0,0,0,100,44
+Pennsylvania,Washington,2023,243,157,77,6,3,0,0,193,46
+Pennsylvania,Westmoreland,2023,114,99,14,1,0,0,0,133,41
+Pennsylvania,York,2023,242,178,56,4,3,1,0,231,42
+Puerto Rico,Bayamon,2023,69,65,4,0,0,0,0,71,22
+Puerto Rico,Caguas,2023,111,109,1,1,0,0,0,105,10
+Puerto Rico,Catano,2023,111,94,17,0,0,0,0,97,35
+Puerto Rico,Fajardo,2023,52,48,4,0,0,0,0,58,22
+Puerto Rico,Guayama,2023,29,28,1,0,0,0,0,54,12
+Puerto Rico,Guaynabo,2023,62,57,5,0,0,0,0,71,23
+Puerto Rico,Mayagnez,2023,130,121,9,0,0,0,0,59,32
+Puerto Rico,Ponce,2023,182,101,78,3,0,0,0,116,46
+Rhode Island,Kent,2023,181,163,14,4,0,0,0,126,38
+Rhode Island,Providence,2023,192,165,24,3,0,0,0,122,41
+Rhode Island,Washington,2023,181,160,14,7,0,0,0,137,38
+South Carolina,Aiken,2023,237,214,23,0,0,0,0,80,40
+South Carolina,Anderson,2023,208,171,37,0,0,0,0,97,43
+South Carolina,Berkeley,2023,242,229,11,2,0,0,0,105,38
+South Carolina,Charleston,2023,273,213,60,0,0,0,0,92,39
+South Carolina,Chesterfield,2023,243,184,58,1,0,0,0,134,41
+South Carolina,Darlington,2023,203,170,33,0,0,0,0,93,43
+South Carolina,Edgefield,2023,273,202,71,0,0,0,0,96,41
+South Carolina,Florence,2023,243,179,63,1,0,0,0,104,39
+South Carolina,Greenville,2023,273,163,108,2,0,0,0,126,47
+South Carolina,Horry,2023,210,165,45,0,0,0,0,100,43
+South Carolina,Lexington,2023,149,128,21,0,0,0,0,75,30
+South Carolina,Richland,2023,244,169,71,4,0,0,0,123,45
+South Carolina,Spartanburg,2023,243,149,89,5,0,0,0,136,46
+South Carolina,York,2023,242,185,55,2,0,0,0,115,44
+South Dakota,Brookings,2023,181,134,43,3,1,0,0,155,44
+South Dakota,Brown,2023,181,161,17,2,1,0,0,162,23
+South Dakota,Clay,2023,181,125,45,10,1,0,0,167,43
+South Dakota,Codington,2023,179,120,49,9,1,0,0,160,44
+South Dakota,Custer,2023,181,155,25,1,0,0,0,108,44
+South Dakota,Hughes,2023,179,172,5,0,2,0,0,199,13
+South Dakota,Jackson,2023,181,139,39,1,1,1,0,208,44
+South Dakota,Meade,2023,180,152,27,1,0,0,0,101,42
+South Dakota,Minnehaha,2023,181,113,44,22,2,0,0,173,47
+South Dakota,Pennington,2023,181,132,46,2,1,0,0,166,35
+Tennessee,Anderson,2023,117,95,21,1,0,0,0,105,44
+Tennessee,Blount,2023,244,162,74,8,0,0,0,137,45
+Tennessee,Claiborne,2023,210,183,25,2,0,0,0,105,40
+Tennessee,Davidson,2023,182,104,75,3,0,0,0,133,47
+Tennessee,DeKalb,2023,207,189,18,0,0,0,0,90,38
+Tennessee,Dyer,2023,176,154,22,0,0,0,0,67,30
+Tennessee,Hamilton,2023,273,181,89,3,0,0,0,137,45
+Tennessee,Jefferson,2023,120,93,25,2,0,0,0,112,44
+Tennessee,Knox,2023,273,180,89,4,0,0,0,149,45
+Tennessee,Lawrence,2023,180,142,38,0,0,0,0,74,31
+Tennessee,Loudon,2023,181,138,43,0,0,0,0,97,41
+Tennessee,Madison,2023,175,140,35,0,0,0,0,72,32
+Tennessee,Maury,2023,174,143,31,0,0,0,0,75,30
+Tennessee,McMinn,2023,176,143,32,1,0,0,0,108,30
+Tennessee,Montgomery,2023,176,151,25,0,0,0,0,72,29
+Tennessee,Putnam,2023,172,143,28,1,0,0,0,109,29
+Tennessee,Roane,2023,176,149,26,1,0,0,0,104,30
+Tennessee,Sevier,2023,243,186,54,3,0,0,0,115,44
+Tennessee,Shelby,2023,182,119,56,7,0,0,0,140,45
+Tennessee,Sullivan,2023,181,137,43,1,0,0,0,118,42
+Tennessee,Sumner,2023,181,133,43,5,0,0,0,133,42
+Tennessee,Williamson,2023,121,85,34,2,0,0,0,122,45
+Tennessee,Wilson,2023,122,94,24,4,0,0,0,126,43
+Texas,Atascosa,2023,166,120,46,0,0,0,0,85,35
+Texas,Bell,2023,181,133,48,0,0,0,0,93,44
+Texas,Bexar,2023,182,108,72,1,0,1,0,279,46
+Texas,Bowie,2023,137,99,37,1,0,0,0,107,39
+Texas,Brazoria,2023,181,152,22,7,0,0,0,136,38
+Texas,Brazos,2023,164,129,35,0,0,0,0,76,30
+Texas,Brewster,2023,233,195,37,1,0,0,0,101,43
+Texas,Cameron,2023,181,80,96,5,0,0,0,141,54
+Texas,Collin,2023,172,139,30,3,0,0,0,126,40
+Texas,Dallas,2023,182,106,70,5,1,0,0,172,47
+Texas,Denton,2023,181,126,44,11,0,0,0,133,44
+Texas,Ector,2023,210,186,24,0,0,0,0,82,26
+Texas,El Paso,2023,182,52,122,7,1,0,0,154,60
+Texas,Ellis,2023,166,141,25,0,0,0,0,93,36
+Texas,Galveston,2023,178,113,57,8,0,0,0,133,47
+Texas,Gregg,2023,181,160,21,0,0,0,0,93,35
+Texas,Harris,2023,182,46,116,16,3,1,0,205,62
+Texas,Harrison,2023,176,135,40,1,0,0,0,111,41
+Texas,Hidalgo,2023,173,115,58,0,0,0,0,95,36
+Texas,Hood,2023,178,156,21,1,0,0,0,105,38
+Texas,Hunt,2023,181,170,10,1,0,0,0,119,37
+Texas,Jefferson,2023,181,109,69,3,0,0,0,122,47
+Texas,Johnson,2023,177,149,28,0,0,0,0,97,38
+Texas,Karnes,2023,178,178,0,0,0,0,0,29,6
+Texas,Kaufman,2023,181,131,47,2,1,0,0,157,43
+Texas,Kleberg,2023,195,119,76,0,0,0,0,88,41
+Texas,Lubbock,2023,212,198,13,0,1,0,0,158,19
+Texas,Maverick,2023,172,130,41,1,0,0,0,101,28
+Texas,McLennan,2023,182,106,75,1,0,0,0,114,45
+Texas,Montgomery,2023,181,103,73,5,0,0,0,122,46
+Texas,Navarro,2023,180,138,42,0,0,0,0,80,41
+Texas,Nueces,2023,212,122,89,1,0,0,0,101,47
+Texas,Orange,2023,181,140,40,1,0,0,0,101,40
+Texas,Parker,2023,179,156,22,1,0,0,0,115,39
+Texas,Polk,2023,207,195,12,0,0,0,0,90,37
+Texas,Potter,2023,212,198,12,2,0,0,0,125,18
+Texas,Randall,2023,211,151,59,1,0,0,0,112,46
+Texas,Rockwall,2023,177,172,5,0,0,0,0,97,33
+Texas,Smith,2023,181,152,27,2,0,0,0,119,39
+Texas,Tarrant,2023,182,86,87,9,0,0,0,143,51
+Texas,Travis,2023,182,101,78,3,0,0,0,122,48
+Texas,Victoria,2023,205,201,4,0,0,0,0,71,31
+Texas,Webb,2023,182,111,69,2,0,0,0,112,44
+Texas,Wilson,2023,124,124,0,0,0,0,0,36,6
+Utah,Box Elder,2023,176,155,21,0,0,0,0,67,41
+Utah,Cache,2023,273,171,94,4,4,0,0,187,48
+Utah,Carbon,2023,271,238,33,0,0,0,0,67,44
+Utah,Davis,2023,273,154,106,12,1,0,0,151,49
+Utah,Duchesne,2023,273,140,99,22,11,1,0,215,50
+Utah,Grand,2023,139,61,78,0,0,0,0,80,51
+Utah,Iron,2023,273,223,49,1,0,0,0,103,44
+Utah,Salt Lake,2023,274,124,134,15,1,0,0,154,53
+Utah,San Juan,2023,229,153,76,0,0,0,0,80,48
+Utah,Tooele,2023,273,187,86,0,0,0,0,97,46
+Utah,Uintah,2023,273,129,107,16,18,3,0,215,51
+Utah,Utah,2023,273,163,110,0,0,0,0,97,48
+Utah,Washington,2023,273,201,72,0,0,0,0,90,44
+Utah,Weber,2023,273,157,110,6,0,0,0,141,49
+Vermont,Bennington,2023,180,158,18,2,2,0,0,156,39
+Vermont,Chittenden,2023,182,153,25,3,1,0,0,158,42
+Vermont,Rutland,2023,181,155,26,0,0,0,0,94,39
+Virginia,Albemarle,2023,180,139,37,1,3,0,0,164,42
+Virginia,Arlington,2023,274,246,24,2,2,0,0,173,33
+Virginia,Bristol City,2023,82,68,12,2,0,0,0,116,30
+Virginia,Caroline,2023,121,106,15,0,0,0,0,97,43
+Virginia,Carroll,2023,29,29,0,0,0,0,0,45,7
+Virginia,Charles,2023,181,146,32,2,1,0,0,151,39
+Virginia,Chesterfield,2023,169,151,17,1,0,0,0,139,41
+Virginia,Fairfax,2023,274,225,41,5,3,0,0,198,36
+Virginia,Fauquier,2023,121,104,15,2,0,0,0,115,43
+Virginia,Frederick,2023,210,161,43,3,3,0,0,176,42
+Virginia,Giles,2023,208,172,35,1,0,0,0,101,43
+Virginia,Hampton City,2023,274,230,42,1,1,0,0,168,32
+Virginia,Hanover,2023,122,107,14,1,0,0,0,101,42
+Virginia,Henrico,2023,272,225,43,3,1,0,0,157,38
+Virginia,Hopewell City,2023,32,32,0,0,0,0,0,50,7
+Virginia,Loudoun,2023,209,179,26,2,2,0,0,162,38
+Virginia,Lynchburg City,2023,90,76,12,2,0,0,0,135,26
+Virginia,Madison,2023,212,177,30,3,2,0,0,156,44
+Virginia,Norfolk City,2023,273,260,13,0,0,0,0,96,13
+Virginia,Prince Edward,2023,210,201,9,0,0,0,0,74,37
+Virginia,Prince William,2023,181,158,20,3,0,0,0,129,39
+Virginia,Richmond City,2023,272,229,39,1,3,0,0,156,32
+Virginia,Roanoke,2023,274,231,40,2,1,0,0,156,30
+Virginia,Rockbridge,2023,122,112,10,0,0,0,0,80,42
+Virginia,Rockingham,2023,212,186,24,1,1,0,0,163,37
+Virginia,Salem City,2023,91,76,14,1,0,0,0,146,28
+Virginia,Stafford,2023,186,167,17,1,1,0,0,169,39
+Virginia,Suffolk City,2023,122,109,12,1,0,0,0,115,42
+Virginia,Virginia Beach City,2023,180,153,26,0,1,0,0,163,30
+Virginia,Wythe,2023,121,104,17,0,0,0,0,87,44
+Washington,Adams,2023,181,177,4,0,0,0,0,73,12
+Washington,Asotin,2023,175,136,38,1,0,0,0,108,34
+Washington,Benton,2023,181,158,22,1,0,0,0,116,34
+Washington,Chelan,2023,181,175,6,0,0,0,0,75,22
+Washington,Clallam,2023,181,175,6,0,0,0,0,56,37
+Washington,Clark,2023,181,164,17,0,0,0,0,87,30
+Washington,Columbia,2023,212,202,10,0,0,0,0,68,39
+Washington,Cowlitz,2023,181,178,3,0,0,0,0,58,11
+Washington,Franklin,2023,156,154,2,0,0,0,0,71,16
+Washington,Garfield,2023,181,180,1,0,0,0,0,57,7
+Washington,Grant,2023,181,176,5,0,0,0,0,88,20
+Washington,Grays Harbor,2023,181,181,0,0,0,0,0,40,15
+Washington,Jefferson,2023,175,175,0,0,0,0,0,44,15
+Washington,King,2023,182,157,24,1,0,0,0,112,38
+Washington,Kitsap,2023,170,168,2,0,0,0,0,56,15
+Washington,Kittitas,2023,181,165,15,1,0,0,0,106,18
+Washington,Lewis,2023,177,172,5,0,0,0,0,60,17
+Washington,Mason,2023,179,176,3,0,0,0,0,60,15
+Washington,Okanogan,2023,181,131,50,0,0,0,0,83,31
+Washington,Pierce,2023,181,162,19,0,0,0,0,73,41
+Washington,Skagit,2023,181,181,0,0,0,0,0,46,27
+Washington,Snohomish,2023,181,160,21,0,0,0,0,73,28
+Washington,Spokane,2023,181,157,24,0,0,0,0,80,33
+Washington,Stevens,2023,181,139,42,0,0,0,0,88,30
+Washington,Thurston,2023,174,171,3,0,0,0,0,58,23
+Washington,Walla Walla,2023,181,171,9,1,0,0,0,119,18
+Washington,Whatcom,2023,181,179,2,0,0,0,0,77,28
+Washington,Whitman,2023,181,176,5,0,0,0,0,78,13
+Washington,Yakima,2023,181,137,44,0,0,0,0,87,32
+West Virginia,Berkeley,2023,138,105,28,5,0,0,0,135,44
+West Virginia,Brooke,2023,181,166,13,1,1,0,0,175,19
+West Virginia,Cabell,2023,140,111,28,1,0,0,0,144,42
+West Virginia,Greenbrier,2023,119,105,14,0,0,0,0,87,43
+West Virginia,Hancock,2023,181,129,47,4,1,0,0,173,41
+West Virginia,Harrison,2023,53,43,9,0,1,0,0,162,29
+West Virginia,Kanawha,2023,178,152,25,0,1,0,0,152,40
+West Virginia,Marion,2023,59,50,8,0,1,0,0,165,31
+West Virginia,Marshall,2023,180,112,66,0,2,0,0,194,44
+West Virginia,Monongalia,2023,139,110,28,0,1,0,0,164,44
+West Virginia,Ohio,2023,140,107,30,2,1,0,0,175,44
+West Virginia,Tucker,2023,210,187,23,0,0,0,0,84,41
+West Virginia,Wood,2023,140,111,26,2,1,0,0,162,43
+Wisconsin,Ashland,2023,181,149,27,5,0,0,0,115,42
+Wisconsin,Brown,2023,181,121,48,7,5,0,0,171,41
+Wisconsin,Columbia,2023,96,50,28,16,2,0,0,159,50
+Wisconsin,Dane,2023,181,102,58,18,2,1,0,243,48
+Wisconsin,Dodge,2023,182,116,49,13,3,1,0,203,44
+Wisconsin,Door,2023,96,64,25,6,1,0,0,159,45
+Wisconsin,Eau Claire,2023,181,112,54,10,5,0,0,161,45
+Wisconsin,Fond du Lac,2023,96,64,28,4,0,0,0,122,44
+Wisconsin,Forest,2023,179,135,34,7,3,0,0,171,42
+Wisconsin,Grant,2023,181,115,61,2,3,0,0,198,40
+Wisconsin,Jackson,2023,181,145,31,3,2,0,0,156,28
+Wisconsin,Jefferson,2023,96,52,30,14,0,0,0,140,49
+Wisconsin,Kenosha,2023,182,111,53,15,3,0,0,190,45
+Wisconsin,Kewaunee,2023,96,57,33,5,1,0,0,172,46
+Wisconsin,La Crosse,2023,168,98,60,5,5,0,0,173,45
+Wisconsin,Manitowoc,2023,96,69,26,1,0,0,0,133,44
+Wisconsin,Marathon,2023,96,59,28,8,1,0,0,166,46
+Wisconsin,Milwaukee,2023,182,96,71,12,2,1,0,225,49
+Wisconsin,Monroe,2023,181,148,28,3,2,0,0,167,30
+Wisconsin,Outagamie,2023,181,114,55,7,5,0,0,177,43
+Wisconsin,Ozaukee,2023,181,121,48,9,3,0,0,192,44
+Wisconsin,Racine,2023,96,56,28,11,1,0,0,151,47
+Wisconsin,Rock,2023,96,43,32,19,2,0,0,177,54
+Wisconsin,Sauk,2023,181,116,45,15,4,1,0,246,44
+Wisconsin,Sheboygan,2023,96,56,27,12,1,0,0,182,49
+Wisconsin,Taylor,2023,211,151,50,5,5,0,0,164,42
+Wisconsin,Vilas,2023,172,132,29,9,2,0,0,164,37
+Wisconsin,Walworth,2023,96,51,29,16,0,0,0,143,49
+Wisconsin,Waukesha,2023,181,105,56,17,2,1,0,245,47
+Wyoming,Albany,2023,212,103,107,2,0,0,0,132,51
+Wyoming,Big Horn,2023,177,153,24,0,0,0,0,77,43
+Wyoming,Campbell,2023,181,138,40,3,0,0,0,146,44
+Wyoming,Carbon,2023,181,181,0,0,0,0,0,31,6
+Wyoming,Converse,2023,182,162,20,0,0,0,0,99,44
+Wyoming,Fremont,2023,181,82,96,3,0,0,0,110,51
+Wyoming,Johnson,2023,180,168,12,0,0,0,0,64,43
+Wyoming,Laramie,2023,182,131,46,4,1,0,0,155,46
+Wyoming,Lincoln,2023,181,126,55,0,0,0,0,97,47
+Wyoming,Natrona,2023,181,166,14,1,0,0,0,102,44
+Wyoming,Park,2023,212,208,4,0,0,0,0,98,11
+Wyoming,Platte,2023,181,162,17,0,2,0,0,191,13
+Wyoming,Sheridan,2023,181,143,36,2,0,0,0,118,44
+Wyoming,Sublette,2023,211,92,113,6,0,0,0,122,54
+Wyoming,Sweetwater,2023,212,125,78,8,0,1,0,211,49
+Wyoming,Teton,2023,244,203,41,0,0,0,0,74,46
+Wyoming,Uinta,2023,181,181,0,0,0,0,0,32,6
+Wyoming,Weston,2023,181,154,27,0,0,0,0,90,44

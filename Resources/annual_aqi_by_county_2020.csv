@@ -1,0 +1,1004 @@
+State,County,Year,Days with AQI,Good Days,Moderate Days,Unhealthy for Sensitive Groups Days,Unhealthy Days,Very Unhealthy Days,Hazardous Days,Max AQI,Median AQI
+Alabama,Baldwin,2020,269,250,19,0,0,0,0,74,36
+Alabama,Clay,2020,108,99,9,0,0,0,0,86,26
+Alabama,DeKalb,2020,364,350,14,0,0,0,0,90,36
+Alabama,Elmore,2020,197,197,0,0,0,0,0,47,31
+Alabama,Etowah,2020,278,260,18,0,0,0,0,92,34
+Alabama,Jefferson,2020,366,212,151,3,0,0,0,129,48
+Alabama,Lawrence,2020,90,87,3,0,0,0,0,75,18
+Alabama,Madison,2020,364,307,57,0,0,0,0,88,40
+Alabama,Mobile,2020,348,256,92,0,0,0,0,75,42
+Alabama,Montgomery,2020,361,162,197,2,0,0,0,116,52
+Alabama,Morgan,2020,355,308,47,0,0,0,0,71,35
+Alabama,Russell,2020,365,299,66,0,0,0,0,99,36
+Alabama,Shelby,2020,241,232,9,0,0,0,0,67,34
+Alabama,Sumter,2020,355,343,12,0,0,0,0,70,29
+Alabama,Tuscaloosa,2020,278,267,11,0,0,0,0,97,31
+Alaska,Aleutians East ,2020,121,121,0,0,0,0,0,31,8
+Alaska,Anchorage ,2020,366,334,32,0,0,0,0,91,22
+Alaska,Bethel ,2020,167,166,1,0,0,0,0,56,6
+Alaska,Denali ,2020,358,357,1,0,0,0,0,54,33
+Alaska,Fairbanks North Star ,2020,366,255,74,17,20,0,0,170,33
+Alaska,Juneau ,2020,361,343,17,1,0,0,0,101,14
+Alaska,Kenai Peninsula ,2020,122,122,0,0,0,0,0,43,8
+Alaska,Matanuska-Susitna ,2020,359,333,25,1,0,0,0,103,13
+Alaska,North Slope ,2020,112,112,0,0,0,0,0,44,5
+Arizona,Apache,2020,364,360,4,0,0,0,0,58,14
+Arizona,Cochise,2020,366,274,90,2,0,0,0,108,45
+Arizona,Coconino,2020,366,308,58,0,0,0,0,93,44
+Arizona,Gila,2020,366,256,99,8,3,0,0,174,44
+Arizona,La Paz,2020,366,294,70,2,0,0,0,125,44
+Arizona,Maricopa,2020,366,14,151,60,67,74,0,282,112
+Arizona,Mohave,2020,358,349,8,1,0,0,0,116,18
+Arizona,Navajo,2020,366,317,47,2,0,0,0,136,43
+Arizona,Pima,2020,366,154,199,12,0,1,0,277,53
+Arizona,Pinal,2020,366,97,186,76,5,0,2,1124,72
+Arizona,Santa Cruz,2020,360,233,122,4,1,0,0,165,34
+Arizona,Yavapai,2020,331,265,65,1,0,0,0,119,45
+Arizona,Yuma,2020,366,257,106,2,0,0,1,321,44
+Arkansas,Arkansas,2020,119,108,11,0,0,0,0,82,27
+Arkansas,Ashley,2020,122,111,11,0,0,0,0,89,28
+Arkansas,Clark,2020,342,341,1,0,0,0,0,67,29
+Arkansas,Crittenden,2020,366,309,54,3,0,0,0,115,38
+Arkansas,Garland,2020,121,105,16,0,0,0,0,83,29
+Arkansas,Jackson,2020,122,109,13,0,0,0,0,77,26
+Arkansas,Newton,2020,364,354,10,0,0,0,0,84,35
+Arkansas,Polk,2020,359,336,23,0,0,0,0,84,36
+Arkansas,Pulaski,2020,366,275,89,2,0,0,0,132,42
+Arkansas,Union,2020,121,106,15,0,0,0,0,89,34
+Arkansas,Washington,2020,366,321,44,1,0,0,0,150,39
+California,Alameda,2020,366,236,110,8,11,1,0,218,43
+California,Amador,2020,359,327,29,2,1,0,0,156,37
+California,Butte,2020,366,183,144,18,18,2,1,379,51
+California,Calaveras,2020,364,260,81,10,13,0,0,192,44
+California,Colusa,2020,366,247,87,9,23,0,0,198,38
+California,Contra Costa,2020,366,258,90,7,11,0,0,197,41
+California,Del Norte,2020,292,248,35,4,4,1,0,220,32
+California,El Dorado,2020,366,258,85,17,6,0,0,190,43
+California,Fresno,2020,366,94,173,59,34,6,0,298,74
+California,Glenn,2020,364,251,84,7,22,0,0,197,43
+California,Humboldt,2020,366,333,30,3,0,0,0,109,29
+California,Imperial,2020,366,119,219,26,2,0,0,166,58
+California,Inyo,2020,366,172,139,23,19,5,8,684,52
+California,Kern,2020,366,78,158,98,30,2,0,267,81
+California,Kings,2020,366,98,198,54,15,0,1,543,67
+California,Lake,2020,351,341,6,1,3,0,0,180,32
+California,Los Angeles,2020,366,60,169,77,44,16,0,235,83
+California,Madera,2020,366,137,176,34,17,2,0,250,61
+California,Marin,2020,366,310,47,4,4,1,0,206,33
+California,Mariposa,2020,366,208,110,27,12,4,5,618,47
+California,Mendocino,2020,366,280,63,10,10,1,2,456,34
+California,Merced,2020,366,171,163,17,15,0,0,183,53
+California,Mono,2020,366,211,89,13,17,10,26,1928,40
+California,Monterey,2020,366,299,52,4,9,2,0,250,36
+California,Napa,2020,365,298,52,7,8,0,0,199,36
+California,Nevada,2020,366,268,66,15,13,4,0,252,41
+California,Orange,2020,366,178,147,28,11,2,0,218,51
+California,Placer,2020,366,167,158,20,18,3,0,222,54
+California,Plumas,2020,360,183,127,16,20,10,4,469,49
+California,Riverside,2020,366,52,169,98,36,9,2,576,87
+California,Sacramento,2020,366,176,154,17,19,0,0,200,52
+California,San Benito,2020,366,301,48,8,9,0,0,168,39
+California,San Bernardino,2020,366,50,153,76,69,18,0,236,93
+California,San Diego,2020,366,60,257,35,14,0,0,192,71
+California,San Francisco,2020,366,277,81,3,5,0,0,198,36
+California,San Joaquin,2020,366,197,138,16,15,0,0,195,48
+California,San Luis Obispo,2020,366,211,124,21,8,2,0,292,48
+California,San Mateo,2020,366,307,49,5,5,0,0,186,35
+California,Santa Barbara,2020,366,273,80,9,4,0,0,168,42
+California,Santa Clara,2020,366,237,109,11,9,0,0,186,44
+California,Santa Cruz,2020,366,304,42,6,10,2,2,426,34
+California,Shasta,2020,366,295,63,6,2,0,0,166,41
+California,Siskiyou,2020,366,305,38,10,10,2,1,359,36
+California,Solano,2020,366,257,93,9,6,1,0,204,41
+California,Sonoma,2020,366,319,40,1,6,0,0,187,33
+California,Stanislaus,2020,366,156,173,21,16,0,0,189,55
+California,Sutter,2020,366,208,127,15,14,1,1,303,48
+California,Tehama,2020,366,249,84,12,21,0,0,196,43
+California,Trinity,2020,343,256,59,12,16,0,0,193,27
+California,Tulare,2020,366,79,152,103,30,2,0,209,79
+California,Tuolumne,2020,353,277,71,5,0,0,0,143,41
+California,Ventura,2020,366,225,115,21,5,0,0,174,47
+California,Yolo,2020,366,255,83,14,14,0,0,192,42
+Colorado,Adams,2020,366,222,132,11,1,0,0,151,47
+Colorado,Alamosa,2020,119,116,3,0,0,0,0,60,10
+Colorado,Arapahoe,2020,366,248,107,9,2,0,0,159,45
+Colorado,Archuleta,2020,365,302,63,0,0,0,0,93,43
+Colorado,Boulder,2020,366,217,128,19,2,0,0,173,47
+Colorado,Clear Creek,2020,190,134,50,6,0,0,0,143,47
+Colorado,Delta,2020,365,328,37,0,0,0,0,97,41
+Colorado,Denver,2020,366,185,164,17,0,0,0,150,50
+Colorado,Douglas,2020,361,237,107,14,3,0,0,159,46
+Colorado,El Paso,2020,366,255,104,6,1,0,0,151,45
+Colorado,Fremont,2020,17,17,0,0,0,0,0,27,11
+Colorado,Garfield,2020,366,255,106,5,0,0,0,122,46
+Colorado,Gilpin,2020,357,278,70,9,0,0,0,136,45
+Colorado,Gunnison,2020,333,278,53,2,0,0,0,108,44
+Colorado,Jackson,2020,81,77,4,0,0,0,0,84,5
+Colorado,Jefferson,2020,366,231,108,23,4,0,0,161,46
+Colorado,La Plata,2020,366,284,80,2,0,0,0,133,44
+Colorado,Larimer,2020,366,222,125,17,2,0,0,157,48
+Colorado,Mesa,2020,366,302,61,3,0,0,0,108,44
+Colorado,Montezuma,2020,366,301,63,2,0,0,0,126,44
+Colorado,Pitkin,2020,120,116,4,0,0,0,0,68,11
+Colorado,Prowers,2020,350,327,19,1,2,1,0,238,17
+Colorado,Pueblo,2020,96,91,5,0,0,0,0,63,19
+Colorado,Rio Blanco,2020,365,311,51,3,0,0,0,115,42
+Colorado,Routt,2020,358,353,5,0,0,0,0,68,14
+Colorado,San Juan,2020,119,117,2,0,0,0,0,69,7
+Colorado,San Miguel,2020,117,114,3,0,0,0,0,54,12
+Colorado,Weld,2020,366,219,134,13,0,0,0,140,48
+Connecticut,Fairfield,2020,366,256,97,12,1,0,0,161,44
+Connecticut,Hartford,2020,366,310,56,0,0,0,0,98,39
+Connecticut,Litchfield,2020,362,327,35,0,0,0,0,84,38
+Connecticut,Middlesex,2020,208,182,24,2,0,0,0,129,39
+Connecticut,New Haven,2020,366,266,87,11,2,0,0,174,42
+Connecticut,New London,2020,365,310,51,3,1,0,0,172,37
+Connecticut,Tolland,2020,206,192,14,0,0,0,0,93,39
+Connecticut,Windham,2020,356,345,11,0,0,0,0,87,35
+Country Of Mexico,BAJA CALIFORNIA NORTE,2020,92,1,36,35,20,0,0,176,115
+Country Of Mexico,SONORA,2020,146,125,20,1,0,0,0,101,41
+Delaware,Kent,2020,362,332,30,0,0,0,0,80,36
+Delaware,New Castle,2020,366,300,64,2,0,0,0,105,40
+Delaware,Sussex,2020,366,329,37,0,0,0,0,87,38
+District Of Columbia,District of Columbia,2020,366,314,51,0,1,0,0,166,40
+Florida,Alachua,2020,366,325,40,1,0,0,0,105,36
+Florida,Baker,2020,363,331,30,2,0,0,0,140,35
+Florida,Bay,2020,363,281,80,2,0,0,0,146,40
+Florida,Brevard,2020,366,324,42,0,0,0,0,84,39
+Florida,Broward,2020,366,290,74,2,0,0,0,142,40
+Florida,Citrus,2020,359,309,49,1,0,0,0,125,32
+Florida,Collier,2020,364,316,48,0,0,0,0,85,36
+Florida,Columbia,2020,311,255,53,1,2,0,0,158,36
+Florida,Duval,2020,366,274,89,3,0,0,0,125,42
+Florida,Escambia,2020,360,269,91,0,0,0,0,80,42
+Florida,Flagler,2020,366,363,3,0,0,0,0,64,31
+Florida,Hamilton,2020,298,263,33,1,1,0,0,154,34
+Florida,Highlands,2020,358,345,13,0,0,0,0,74,31
+Florida,Hillsborough,2020,366,280,83,3,0,0,0,112,43
+Florida,Holmes,2020,363,308,52,3,0,0,0,138,38
+Florida,Indian River,2020,338,323,15,0,0,0,0,87,37
+Florida,Lake,2020,366,354,12,0,0,0,0,87,32
+Florida,Lee,2020,366,330,36,0,0,0,0,100,36
+Florida,Leon,2020,366,289,74,2,1,0,0,160,40
+Florida,Liberty,2020,358,356,2,0,0,0,0,51,31
+Florida,Manatee,2020,366,355,11,0,0,0,0,97,33
+Florida,Marion,2020,366,300,66,0,0,0,0,100,39
+Florida,Martin,2020,365,320,45,0,0,0,0,95,36
+Florida,Miami-Dade,2020,366,297,69,0,0,0,0,90,39
+Florida,Nassau,2020,43,42,1,0,0,0,0,51,31
+Florida,Okaloosa,2020,364,355,9,0,0,0,0,74,34
+Florida,Orange,2020,366,354,12,0,0,0,0,93,34
+Florida,Osceola,2020,366,354,12,0,0,0,0,90,32
+Florida,Palm Beach,2020,361,310,51,0,0,0,0,92,38
+Florida,Pasco,2020,366,355,11,0,0,0,0,77,35
+Florida,Pinellas,2020,366,301,65,0,0,0,0,100,40
+Florida,Polk,2020,365,311,54,0,0,0,0,87,37
+Florida,Putnam,2020,366,365,1,0,0,0,0,67,14
+Florida,Santa Rosa,2020,365,295,70,0,0,0,0,84,40
+Florida,Sarasota,2020,366,307,59,0,0,0,0,90,38
+Florida,Seminole,2020,365,332,33,0,0,0,0,84,36
+Florida,St. Lucie,2020,360,351,9,0,0,0,0,74,33
+Florida,Volusia,2020,362,327,35,0,0,0,0,77,38
+Florida,Wakulla,2020,363,315,46,0,2,0,0,161,35
+Georgia,Bibb,2020,366,323,43,0,0,0,0,97,35
+Georgia,Charlton,2020,120,115,4,1,0,0,0,139,19
+Georgia,Chatham,2020,365,313,51,1,0,0,0,131,37
+Georgia,Chattooga,2020,245,244,1,0,0,0,0,58,32
+Georgia,Clarke,2020,366,312,54,0,0,0,0,99,36
+Georgia,Clayton,2020,121,103,18,0,0,0,0,90,28
+Georgia,Cobb,2020,285,263,22,0,0,0,0,90,35
+Georgia,Coffee,2020,120,115,4,1,0,0,0,108,25
+Georgia,Columbia,2020,241,239,2,0,0,0,0,51,31
+Georgia,Dawson,2020,245,239,6,0,0,0,0,74,31
+Georgia,DeKalb,2020,366,300,65,1,0,0,0,106,38
+Georgia,Dougherty,2020,365,276,87,2,0,0,0,114,37
+Georgia,Douglas,2020,245,238,7,0,0,0,0,77,32
+Georgia,Floyd,2020,326,283,43,0,0,0,0,80,31
+Georgia,Fulton,2020,366,257,107,2,0,0,0,125,43
+Georgia,Glynn,2020,285,273,12,0,0,0,0,96,31
+Georgia,Gwinnett,2020,364,301,62,1,0,0,0,101,37
+Georgia,Hall,2020,359,304,55,0,0,0,0,98,33
+Georgia,Henry,2020,366,332,34,0,0,0,0,95,32
+Georgia,Houston,2020,362,287,74,1,0,0,0,114,35
+Georgia,Lowndes,2020,202,177,24,1,0,0,0,141,30
+Georgia,Murray,2020,272,259,13,0,0,0,0,61,34
+Georgia,Muscogee,2020,366,317,48,1,0,0,0,101,35
+Georgia,Pike,2020,354,351,3,0,0,0,0,64,33
+Georgia,Richmond,2020,366,268,97,1,0,0,0,114,42
+Georgia,Rockdale,2020,244,232,12,0,0,0,0,77,34
+Georgia,Sumter,2020,240,237,3,0,0,0,0,64,32
+Georgia,Walker,2020,177,151,26,0,0,0,0,84,30
+Georgia,Washington,2020,353,297,54,2,0,0,0,112,32
+Hawaii,Hawaii,2020,366,357,9,0,0,0,0,80,17
+Hawaii,Honolulu,2020,366,365,1,0,0,0,0,58,26
+Hawaii,Kauai,2020,365,365,0,0,0,0,0,41,11
+Hawaii,Maui,2020,349,347,2,0,0,0,0,56,15
+Idaho,Ada,2020,366,273,75,11,7,0,0,185,40
+Idaho,Bannock,2020,362,301,55,2,4,0,0,161,37
+Idaho,Benewah,2020,366,272,85,2,4,2,1,371,32
+Idaho,Blaine,2020,365,335,22,6,2,0,0,167,15
+Idaho,Boise,2020,366,267,87,6,6,0,0,198,35
+Idaho,Bonner,2020,365,325,30,5,5,0,0,190,25
+Idaho,Bonneville,2020,362,326,31,1,4,0,0,154,21
+Idaho,Butte,2020,364,334,28,1,1,0,0,152,40
+Idaho,Canyon,2020,366,257,93,10,6,0,0,156,33
+Idaho,Custer,2020,115,105,7,3,0,0,0,126,5
+Idaho,Franklin,2020,365,323,39,2,1,0,0,159,20
+Idaho,Idaho,2020,366,293,64,3,6,0,0,191,36
+Idaho,Jerome,2020,213,213,0,0,0,0,0,37,10
+Idaho,Kootenai,2020,354,323,23,1,3,3,1,384,19
+Idaho,Latah,2020,361,335,19,0,4,2,1,333,16
+Idaho,Lemhi,2020,365,226,128,8,3,0,0,163,35
+Idaho,Nez Perce,2020,366,309,46,4,3,3,1,363,21
+Idaho,Shoshone,2020,366,275,84,0,3,3,1,346,30
+Idaho,Twin Falls,2020,364,330,27,3,4,0,0,160,18
+Idaho,Valley,2020,329,248,74,5,2,0,0,192,30
+Illinois,Adams,2020,244,220,24,0,0,0,0,84,38
+Illinois,Champaign,2020,366,302,62,2,0,0,0,126,39
+Illinois,Clark,2020,363,347,16,0,0,0,0,97,31
+Illinois,Cook,2020,366,156,190,16,4,0,0,164,53
+Illinois,DuPage,2020,366,279,83,3,1,0,0,154,41
+Illinois,Effingham,2020,166,156,10,0,0,0,0,84,37
+Illinois,Hamilton,2020,353,275,77,1,0,0,0,118,40
+Illinois,Jersey,2020,358,307,50,1,0,0,0,112,39
+Illinois,Jo Daviess,2020,353,337,16,0,0,0,0,87,32
+Illinois,Kane,2020,279,225,47,6,1,0,0,161,39
+Illinois,Lake,2020,241,199,31,10,1,0,0,185,39
+Illinois,Macon,2020,362,298,64,0,0,0,0,90,40
+Illinois,Macoupin,2020,364,346,18,0,0,0,0,93,31
+Illinois,Madison,2020,365,213,149,3,0,0,0,112,47
+Illinois,McHenry,2020,334,259,66,9,0,0,0,147,40
+Illinois,McLean,2020,364,286,75,3,0,0,0,136,41
+Illinois,Peoria,2020,364,301,62,1,0,0,0,115,40
+Illinois,Randolph,2020,366,302,62,2,0,0,0,103,38
+Illinois,Rock Island,2020,355,295,59,1,0,0,0,102,38
+Illinois,Saint Clair,2020,365,306,59,0,0,0,0,100,36
+Illinois,Sangamon,2020,364,312,52,0,0,0,0,97,39
+Illinois,Will,2020,363,262,97,3,1,0,0,155,42
+Illinois,Winnebago,2020,366,284,81,1,0,0,0,101,39
+Indiana,Allen,2020,366,296,68,2,0,0,0,120,39
+Indiana,Bartholomew,2020,366,323,43,0,0,0,0,97,37
+Indiana,Boone,2020,352,330,20,2,0,0,0,101,32
+Indiana,Brown,2020,364,349,15,0,0,0,0,80,33
+Indiana,Carroll,2020,364,352,12,0,0,0,0,100,31
+Indiana,Clark,2020,366,269,97,0,0,0,0,91,42
+Indiana,Delaware,2020,365,330,35,0,0,0,0,97,35
+Indiana,Dubois,2020,123,104,19,0,0,0,0,67,33
+Indiana,Elkhart,2020,366,314,50,0,2,0,0,158,36
+Indiana,Floyd,2020,363,347,15,1,0,0,0,143,32
+Indiana,Greene,2020,361,328,33,0,0,0,0,90,34
+Indiana,Hamilton,2020,366,315,51,0,0,0,0,97,38
+Indiana,Hendricks,2020,366,348,18,0,0,0,0,87,32
+Indiana,Henry,2020,118,105,13,0,0,0,0,63,29
+Indiana,Howard,2020,366,319,46,1,0,0,0,108,38
+Indiana,Knox,2020,351,328,22,1,0,0,0,105,33
+Indiana,LaPorte,2020,366,310,49,6,1,0,0,154,37
+Indiana,Lake,2020,366,243,117,6,0,0,0,136,44
+Indiana,Madison,2020,366,305,61,0,0,0,0,97,39
+Indiana,Marion,2020,366,196,164,6,0,0,0,144,48
+Indiana,Monroe,2020,357,315,42,0,0,0,0,69,31
+Indiana,Perry,2020,366,352,13,1,0,0,0,105,34
+Indiana,Porter,2020,366,304,56,5,1,0,0,151,39
+Indiana,Posey,2020,355,336,18,1,0,0,0,112,31
+Indiana,Shelby,2020,366,347,18,1,0,0,0,115,32
+Indiana,Spencer,2020,122,106,16,0,0,0,0,63,32
+Indiana,St. Joseph,2020,366,272,89,4,1,0,0,162,41
+Indiana,Sullivan,2020,31,27,4,0,0,0,0,53,29
+Indiana,Tippecanoe,2020,348,255,93,0,0,0,0,69,39
+Indiana,Vanderburgh,2020,366,298,66,2,0,0,0,101,39
+Indiana,Vigo,2020,366,295,70,1,0,0,0,112,40
+Indiana,Wabash,2020,363,337,26,0,0,0,0,97,35
+Indiana,Warrick,2020,366,347,17,2,0,0,0,112,33
+Indiana,Whitley,2020,336,260,76,0,0,0,0,76,39
+Iowa,Black Hawk,2020,366,311,55,0,0,0,0,91,32
+Iowa,Bremer,2020,244,232,12,0,0,0,0,87,35
+Iowa,Cerro Gordo,2020,122,120,2,0,0,0,0,60,18
+Iowa,Clinton,2020,324,256,68,0,0,0,0,87,39
+Iowa,Harrison,2020,242,223,19,0,0,0,0,87,37
+Iowa,Johnson,2020,362,270,91,1,0,0,0,105,35
+Iowa,Lee,2020,118,105,13,0,0,0,0,73,30
+Iowa,Linn,2020,366,276,89,1,0,0,0,105,40
+Iowa,Montgomery,2020,366,327,39,0,0,0,0,76,35
+Iowa,Muscatine,2020,366,309,56,1,0,0,0,124,30
+Iowa,Palo Alto,2020,366,327,39,0,0,0,0,87,36
+Iowa,Polk,2020,366,308,56,0,2,0,0,186,36
+Iowa,Pottawattamie,2020,124,110,14,0,0,0,0,77,31
+Iowa,Scott,2020,366,230,133,2,1,0,0,155,44
+Iowa,Van Buren,2020,366,336,30,0,0,0,0,87,36
+Iowa,Woodbury,2020,122,110,12,0,0,0,0,79,29
+Kansas,Chase,2020,121,118,3,0,0,0,0,58,18
+Kansas,Ford,2020,302,297,5,0,0,0,0,79,11
+Kansas,Johnson,2020,365,308,56,1,0,0,0,117,36
+Kansas,Leavenworth,2020,366,356,10,0,0,0,0,77,32
+Kansas,Neosho,2020,366,304,60,2,0,0,0,106,39
+Kansas,Sedgwick,2020,366,321,42,3,0,0,0,114,38
+Kansas,Shawnee,2020,366,296,66,2,2,0,0,169,39
+Kansas,Sherman,2020,303,282,20,1,0,0,0,106,13
+Kansas,Sumner,2020,366,286,77,3,0,0,0,117,40
+Kansas,Trego,2020,365,326,38,1,0,0,0,147,37
+Kansas,Wyandotte,2020,366,233,128,5,0,0,0,116,44
+Kentucky,Bell,2020,263,256,7,0,0,0,0,71,33
+Kentucky,Boone,2020,242,218,24,0,0,0,0,87,36
+Kentucky,Boyd,2020,366,324,42,0,0,0,0,88,36
+Kentucky,Bullitt,2020,240,224,15,1,0,0,0,115,37
+Kentucky,Campbell,2020,366,306,60,0,0,0,0,93,39
+Kentucky,Carter,2020,285,283,2,0,0,0,0,59,31
+Kentucky,Christian,2020,320,288,32,0,0,0,0,83,38
+Kentucky,Daviess,2020,366,308,57,1,0,0,0,105,38
+Kentucky,Edmonson,2020,365,357,8,0,0,0,0,64,33
+Kentucky,Fayette,2020,366,328,38,0,0,0,0,84,38
+Kentucky,Greenup,2020,243,241,2,0,0,0,0,61,33
+Kentucky,Hancock,2020,245,233,12,0,0,0,0,97,37
+Kentucky,Hardin,2020,366,328,38,0,0,0,0,80,38
+Kentucky,Jefferson,2020,366,239,120,7,0,0,0,115,45
+Kentucky,Jessamine,2020,243,232,11,0,0,0,0,77,37
+Kentucky,Livingston,2020,248,235,12,1,0,0,0,105,37
+Kentucky,McCracken,2020,366,299,66,1,0,0,0,111,39
+Kentucky,Morgan,2020,365,361,4,0,0,0,0,64,33
+Kentucky,Oldham,2020,239,218,21,0,0,0,0,97,38
+Kentucky,Perry,2020,364,335,29,0,0,0,0,99,34
+Kentucky,Pike,2020,365,351,14,0,0,0,0,92,32
+Kentucky,Pulaski,2020,283,265,18,0,0,0,0,77,36
+Kentucky,Simpson,2020,221,217,4,0,0,0,0,67,36
+Kentucky,Trigg,2020,362,350,12,0,0,0,0,84,34
+Kentucky,Warren,2020,366,313,53,0,0,0,0,97,38
+Kentucky,Washington,2020,364,352,12,0,0,0,0,77,34
+Louisiana,Ascension,2020,364,350,14,0,0,0,0,100,31
+Louisiana,Bossier,2020,362,312,49,1,0,0,0,105,36
+Louisiana,Caddo,2020,349,317,31,1,0,0,0,126,34
+Louisiana,Calcasieu,2020,349,258,90,1,0,0,0,116,41
+Louisiana,East Baton Rouge,2020,366,306,57,3,0,0,0,119,38
+Louisiana,Iberville,2020,366,321,42,3,0,0,0,136,36
+Louisiana,Jefferson,2020,366,308,58,0,0,0,0,87,36
+Louisiana,Lafayette,2020,364,274,89,1,0,0,0,120,40
+Louisiana,Lafourche,2020,366,289,76,1,0,0,0,115,39
+Louisiana,Livingston,2020,355,273,81,1,0,0,0,105,39
+Louisiana,Orleans,2020,366,333,33,0,0,0,0,88,28
+Louisiana,Ouachita,2020,362,343,18,1,0,0,0,111,32
+Louisiana,Pointe Coupee,2020,362,343,19,0,0,0,0,100,32
+Louisiana,Rapides,2020,121,111,9,1,0,0,0,103,26
+Louisiana,St. Bernard,2020,357,295,62,0,0,0,0,84,39
+Louisiana,St. James,2020,357,351,6,0,0,0,0,90,29
+Louisiana,St. John the Baptist,2020,351,341,10,0,0,0,0,80,31
+Louisiana,St. Martin,2020,358,337,21,0,0,0,0,87,33
+Louisiana,St. Tammany,2020,364,317,47,0,0,0,0,90,36
+Louisiana,Tangipahoa,2020,121,110,11,0,0,0,0,64,26
+Louisiana,Terrebonne,2020,120,110,10,0,0,0,0,74,27
+Louisiana,West Baton Rouge,2020,366,302,61,3,0,0,0,101,37
+Maine,Androscoggin,2020,360,344,16,0,0,0,0,66,29
+Maine,Aroostook,2020,366,341,24,0,1,0,0,189,33
+Maine,Cumberland,2020,366,320,46,0,0,0,0,97,38
+Maine,Hancock,2020,366,339,26,1,0,0,0,105,35
+Maine,Kennebec,2020,230,227,3,0,0,0,0,64,35
+Maine,Knox,2020,148,142,6,0,0,0,0,71,31
+Maine,Oxford,2020,324,313,11,0,0,0,0,65,33
+Maine,Penobscot,2020,363,352,11,0,0,0,0,73,29
+Maine,Washington,2020,353,351,2,0,0,0,0,61,33
+Maine,York,2020,235,223,12,0,0,0,0,87,39
+Maryland,Anne Arundel,2020,262,235,25,2,0,0,0,108,39
+Maryland,Baltimore,2020,365,306,57,2,0,0,0,105,39
+Maryland,Baltimore (City),2020,363,326,37,0,0,0,0,97,34
+Maryland,Calvert,2020,238,235,3,0,0,0,0,67,35
+Maryland,Carroll,2020,242,225,17,0,0,0,0,84,39
+Maryland,Cecil,2020,357,329,28,0,0,0,0,97,34
+Maryland,Charles,2020,236,235,1,0,0,0,0,58,34
+Maryland,Dorchester,2020,365,351,14,0,0,0,0,84,35
+Maryland,Frederick,2020,237,217,20,0,0,0,0,90,40
+Maryland,Garrett,2020,365,355,10,0,0,0,0,71,36
+Maryland,Harford,2020,357,308,48,1,0,0,0,119,38
+Maryland,Howard,2020,364,348,16,0,0,0,0,68,28
+Maryland,Kent,2020,359,346,13,0,0,0,0,100,33
+Maryland,Montgomery,2020,355,333,22,0,0,0,0,77,33
+Maryland,Prince George's,2020,366,333,32,1,0,0,0,105,37
+Maryland,Washington,2020,359,319,40,0,0,0,0,81,37
+Massachusetts,Barnstable,2020,351,340,9,2,0,0,0,108,35
+Massachusetts,Berkshire,2020,366,327,39,0,0,0,0,94,36
+Massachusetts,Bristol,2020,366,315,48,3,0,0,0,119,39
+Massachusetts,Dukes,2020,357,347,9,1,0,0,0,126,36
+Massachusetts,Essex,2020,366,330,36,0,0,0,0,97,37
+Massachusetts,Franklin,2020,365,315,50,0,0,0,0,96,37
+Massachusetts,Hampden,2020,366,313,53,0,0,0,0,99,39
+Massachusetts,Hampshire,2020,366,341,25,0,0,0,0,84,35
+Massachusetts,Middlesex,2020,366,340,26,0,0,0,0,93,36
+Massachusetts,Norfolk,2020,366,352,14,0,0,0,0,71,32
+Massachusetts,Plymouth,2020,366,328,38,0,0,0,0,80,37
+Massachusetts,Suffolk,2020,366,326,40,0,0,0,0,84,37
+Massachusetts,Worcester,2020,366,319,47,0,0,0,0,90,38
+Michigan,Allegan,2020,359,311,42,6,0,0,0,136,36
+Michigan,Bay,2020,365,350,15,0,0,0,0,74,17
+Michigan,Benzie,2020,262,244,16,1,1,0,0,164,36
+Michigan,Berrien,2020,258,217,34,7,0,0,0,150,38
+Michigan,Cass,2020,253,212,36,5,0,0,0,122,39
+Michigan,Clinton,2020,256,244,12,0,0,0,0,93,34
+Michigan,Genesee,2020,366,322,43,1,0,0,0,126,35
+Michigan,Huron,2020,266,246,13,7,0,0,0,150,36
+Michigan,Ingham,2020,366,329,36,0,1,0,0,151,34
+Michigan,Kalamazoo,2020,323,269,48,6,0,0,0,115,38
+Michigan,Kent,2020,365,302,55,7,1,0,0,153,36
+Michigan,Keweenaw,2020,117,116,0,1,0,0,0,124,10
+Michigan,Lenawee,2020,366,296,68,2,0,0,0,122,38
+Michigan,Macomb,2020,299,258,29,12,0,0,0,126,36
+Michigan,Manistee,2020,139,133,6,0,0,0,0,80,28
+Michigan,Mason,2020,251,229,20,1,1,0,0,159,37
+Michigan,Missaukee,2020,365,320,44,1,0,0,0,105,36
+Michigan,Monroe,2020,61,58,3,0,0,0,0,66,17
+Michigan,Muskegon,2020,248,210,32,6,0,0,0,143,37
+Michigan,Oakland,2020,298,254,38,6,0,0,0,126,36
+Michigan,Ottawa,2020,365,315,44,6,0,0,0,150,33
+Michigan,Schoolcraft,2020,347,331,13,3,0,0,0,133,33
+Michigan,St. Clair,2020,328,275,52,1,0,0,0,105,35
+Michigan,Tuscola,2020,343,330,11,2,0,0,0,101,32
+Michigan,Washtenaw,2020,366,292,68,5,1,0,0,157,38
+Michigan,Wayne,2020,366,203,153,8,2,0,0,179,48
+Michigan,Wexford,2020,356,341,15,0,0,0,0,100,33
+Minnesota,Anoka,2020,366,325,41,0,0,0,0,87,35
+Minnesota,Becker,2020,366,343,22,1,0,0,0,101,32
+Minnesota,Beltrami,2020,359,348,11,0,0,0,0,73,23
+Minnesota,Carlton,2020,354,351,3,0,0,0,0,84,24
+Minnesota,Cass,2020,346,335,11,0,0,0,0,75,17
+Minnesota,Cook,2020,345,343,2,0,0,0,0,53,10
+Minnesota,Crow Wing,2020,359,348,11,0,0,0,0,76,28
+Minnesota,Dakota,2020,366,324,41,1,0,0,0,135,30
+Minnesota,Goodhue,2020,210,201,9,0,0,0,0,87,35
+Minnesota,Hennepin,2020,366,274,90,1,1,0,0,156,38
+Minnesota,Lake,2020,365,357,8,0,0,0,0,71,30
+Minnesota,Lyon,2020,360,330,30,0,0,0,0,80,32
+Minnesota,Mille Lacs,2020,245,240,5,0,0,0,0,87,33
+Minnesota,Olmsted,2020,366,325,40,1,0,0,0,111,35
+Minnesota,Ramsey,2020,366,318,47,0,1,0,0,160,30
+Minnesota,Saint Louis,2020,366,334,31,1,0,0,0,104,36
+Minnesota,Scott,2020,365,335,29,1,0,0,0,121,32
+Minnesota,Stearns,2020,366,336,30,0,0,0,0,80,33
+Minnesota,Washington,2020,215,210,5,0,0,0,0,77,33
+Minnesota,Winona,2020,119,117,2,0,0,0,0,52,17
+Minnesota,Wright,2020,357,321,35,1,0,0,0,112,34
+Mississippi,Bolivar,2020,363,295,68,0,0,0,0,85,39
+Mississippi,DeSoto,2020,365,309,56,0,0,0,0,100,37
+Mississippi,Forrest,2020,361,274,87,0,0,0,0,97,36
+Mississippi,Hancock,2020,351,288,63,0,0,0,0,88,38
+Mississippi,Harrison,2020,352,263,88,1,0,0,0,101,42
+Mississippi,Hinds,2020,366,249,116,1,0,0,0,114,44
+Mississippi,Jackson,2020,356,291,65,0,0,0,0,84,39
+Mississippi,Lauderdale,2020,252,252,0,0,0,0,0,50,31
+Mississippi,Lee,2020,243,242,1,0,0,0,0,54,35
+Mississippi,Yalobusha,2020,348,345,3,0,0,0,0,51,31
+Missouri,Andrew,2020,245,225,20,0,0,0,0,77,38
+Missouri,Boone,2020,244,235,9,0,0,0,0,93,33
+Missouri,Buchanan,2020,365,304,60,1,0,0,0,126,33
+Missouri,Callaway,2020,245,234,11,0,0,0,0,87,35
+Missouri,Cass,2020,362,333,27,2,0,0,0,105,36
+Missouri,Cedar,2020,352,320,32,0,0,0,0,99,36
+Missouri,Clay,2020,364,313,50,1,0,0,0,101,35
+Missouri,Clinton,2020,245,226,19,0,0,0,0,87,37
+Missouri,Greene,2020,364,320,43,1,0,0,0,116,37
+Missouri,Jackson,2020,366,253,110,2,1,0,0,157,40
+Missouri,Jasper,2020,366,320,46,0,0,0,0,82,35
+Missouri,Jefferson,2020,365,319,44,2,0,0,0,141,38
+Missouri,Lincoln,2020,245,228,16,1,0,0,0,108,37
+Missouri,Monroe,2020,366,360,6,0,0,0,0,84,31
+Missouri,Perry,2020,245,231,14,0,0,0,0,97,36
+Missouri,Saint Charles,2020,245,216,25,4,0,0,0,112,39
+Missouri,Saint Louis,2020,366,287,73,6,0,0,0,144,40
+Missouri,Sainte Genevieve,2020,245,229,16,0,0,0,0,87,36
+Missouri,St. Louis City,2020,366,224,137,4,1,0,0,155,46
+Missouri,Stoddard,2020,63,59,4,0,0,0,0,62,19
+Missouri,Taney,2020,122,120,2,0,0,0,0,57,17
+Montana,Cascade,2020,359,338,18,3,0,0,0,115,18
+Montana,Fergus,2020,366,342,21,1,2,0,0,157,39
+Montana,Flathead,2020,366,317,41,3,5,0,0,190,35
+Montana,Gallatin,2020,366,327,28,9,2,0,0,159,22
+Montana,Lake,2020,117,113,1,1,2,0,0,174,5
+Montana,Lewis and Clark,2020,366,311,50,1,4,0,0,164,40
+Montana,Lincoln,2020,366,217,140,2,4,2,1,327,40
+Montana,Missoula,2020,366,210,137,13,6,0,0,176,47
+Montana,Phillips,2020,366,306,58,2,0,0,0,140,35
+Montana,Powder River,2020,350,276,69,3,2,0,0,157,40
+Montana,Powell,2020,33,33,0,0,0,0,0,11,3
+Montana,Ravalli,2020,361,319,34,3,5,0,0,176,11
+Montana,Richland,2020,366,354,12,0,0,0,0,68,36
+Montana,Roosevelt,2020,77,75,2,0,0,0,0,55,9
+Montana,Rosebud,2020,346,316,25,3,2,0,0,153,37
+Montana,Sanders,2020,366,328,30,1,5,2,0,236,23
+Montana,Sheridan,2020,107,105,2,0,0,0,0,53,10
+Montana,Silver Bow,2020,366,317,41,5,3,0,0,173,19
+Montana,Yellowstone,2020,364,329,32,2,1,0,0,160,23
+Nebraska,Cass,2020,358,346,12,0,0,0,0,71,14
+Nebraska,Douglas,2020,366,324,40,1,1,0,0,156,35
+Nebraska,Hall,2020,338,314,24,0,0,0,0,85,20
+Nebraska,Knox,2020,365,341,24,0,0,0,0,84,35
+Nebraska,Lancaster,2020,282,272,10,0,0,0,0,74,33
+Nebraska,Sarpy,2020,316,279,35,2,0,0,0,149,29
+Nebraska,Scotts Bluff,2020,278,224,52,2,0,0,0,122,27
+Nebraska,Thomas,2020,115,110,5,0,0,0,0,71,11
+Nebraska,Washington,2020,110,104,6,0,0,0,0,72,23
+Nevada,Carson City,2020,366,302,44,12,8,0,0,192,41
+Nevada,Churchill,2020,363,336,25,2,0,0,0,147,40
+Nevada,Clark,2020,366,108,233,22,3,0,0,174,61
+Nevada,Douglas,2020,366,311,38,6,9,2,0,249,17
+Nevada,Elko,2020,363,332,29,1,1,0,0,154,18
+Nevada,Lyon,2020,356,308,39,5,3,0,1,331,38
+Nevada,Nye,2020,366,343,20,1,2,0,0,200,21
+Nevada,Washoe,2020,366,239,103,11,11,2,0,240,46
+Nevada,White Pine,2020,361,294,64,3,0,0,0,136,44
+New Hampshire,Belknap,2020,359,353,6,0,0,0,0,61,30
+New Hampshire,Cheshire,2020,366,339,27,0,0,0,0,75,35
+New Hampshire,Coos,2020,366,339,27,0,0,0,0,74,43
+New Hampshire,Grafton,2020,366,355,11,0,0,0,0,66,33
+New Hampshire,Hillsborough,2020,366,358,8,0,0,0,0,90,36
+New Hampshire,Merrimack,2020,213,209,4,0,0,0,0,74,38
+New Hampshire,Rockingham,2020,366,328,38,0,0,0,0,90,38
+New Jersey,Atlantic,2020,359,330,29,0,0,0,0,90,34
+New Jersey,Bergen,2020,364,292,69,3,0,0,0,119,39
+New Jersey,Camden,2020,366,292,74,0,0,0,0,87,40
+New Jersey,Cumberland,2020,365,319,46,0,0,0,0,71,38
+New Jersey,Essex,2020,366,294,71,1,0,0,0,127,39
+New Jersey,Gloucester,2020,253,231,21,1,0,0,0,101,36
+New Jersey,Hudson,2020,366,308,58,0,0,0,0,90,37
+New Jersey,Hunterdon,2020,364,320,44,0,0,0,0,85,38
+New Jersey,Mercer,2020,366,311,52,3,0,0,0,112,38
+New Jersey,Middlesex,2020,366,313,52,1,0,0,0,112,37
+New Jersey,Monmouth,2020,226,209,17,0,0,0,0,93,37
+New Jersey,Morris,2020,366,347,19,0,0,0,0,84,35
+New Jersey,Ocean,2020,356,327,29,0,0,0,0,84,35
+New Jersey,Passaic,2020,262,247,15,0,0,0,0,100,36
+New Jersey,Union,2020,366,291,74,1,0,0,0,111,38
+New Jersey,Warren,2020,361,327,34,0,0,0,0,100,34
+New Mexico,Bernalillo,2020,366,135,222,7,1,1,0,214,54
+New Mexico,Catron,2020,115,111,4,0,0,0,0,79,10
+New Mexico,Chaves,2020,119,116,3,0,0,0,0,75,17
+New Mexico,Dona Ana,2020,366,168,177,15,3,1,2,400,53
+New Mexico,Eddy,2020,364,248,105,11,0,0,0,115,46
+New Mexico,Lea,2020,366,334,32,0,0,0,0,76,39
+New Mexico,Lincoln,2020,115,114,1,0,0,0,0,51,11
+New Mexico,Los Alamos,2020,117,116,1,0,0,0,0,53,10
+New Mexico,Luna,2020,354,335,18,0,0,0,1,360,19
+New Mexico,Rio Arriba,2020,362,314,48,0,0,0,0,90,44
+New Mexico,San Juan,2020,366,265,96,5,0,0,0,109,45
+New Mexico,Sandoval,2020,358,271,82,5,0,0,0,119,44
+New Mexico,Santa Fe,2020,366,297,68,1,0,0,0,101,44
+New Mexico,Socorro,2020,111,111,0,0,0,0,0,49,11
+New Mexico,Taos,2020,360,337,23,0,0,0,0,64,20
+New Mexico,Valencia,2020,359,283,74,2,0,0,0,105,44
+New York,Albany,2020,365,306,56,3,0,0,0,143,38
+New York,Bronx,2020,366,291,74,1,0,0,0,108,39
+New York,Chautauqua,2020,363,338,25,0,0,0,0,93,35
+New York,Dutchess,2020,331,322,9,0,0,0,0,87,35
+New York,Erie,2020,366,317,47,0,2,0,0,155,37
+New York,Essex,2020,365,350,15,0,0,0,0,80,38
+New York,Hamilton,2020,357,354,3,0,0,0,0,54,34
+New York,Jefferson,2020,360,345,15,0,0,0,0,90,33
+New York,Kings,2020,365,338,27,0,0,0,0,77,23
+New York,Monroe,2020,366,323,43,0,0,0,0,80,36
+New York,Nassau,2020,361,344,17,0,0,0,0,72,20
+New York,New York,2020,366,311,54,1,0,0,0,108,37
+New York,Niagara,2020,359,340,19,0,0,0,0,87,34
+New York,Oneida,2020,349,334,15,0,0,0,0,78,16
+New York,Onondaga,2020,364,336,28,0,0,0,0,74,35
+New York,Orange,2020,366,342,24,0,0,0,0,97,36
+New York,Oswego,2020,359,349,10,0,0,0,0,58,33
+New York,Putnam,2020,314,308,6,0,0,0,0,64,33
+New York,Queens,2020,366,298,65,3,0,0,0,140,38
+New York,Richmond,2020,364,319,43,2,0,0,0,108,36
+New York,Rockland,2020,366,340,26,0,0,0,0,93,34
+New York,Saratoga,2020,319,315,4,0,0,0,0,61,33
+New York,Steuben,2020,365,356,9,0,0,0,0,79,34
+New York,Suffolk,2020,366,309,51,6,0,0,0,133,37
+New York,Tompkins,2020,364,359,5,0,0,0,0,64,34
+New York,Wayne,2020,327,305,22,0,0,0,0,80,34
+New York,Westchester,2020,363,327,35,1,0,0,0,105,36
+North Carolina,Alexander,2020,300,297,3,0,0,0,0,54,33
+North Carolina,Avery,2020,366,352,14,0,0,0,0,80,37
+North Carolina,Buncombe,2020,363,353,10,0,0,0,0,97,31
+North Carolina,Caldwell,2020,243,243,0,0,0,0,0,50,34
+North Carolina,Carteret,2020,362,359,3,0,0,0,0,61,34
+North Carolina,Caswell,2020,354,349,5,0,0,0,0,61,31
+North Carolina,Catawba,2020,357,312,45,0,0,0,0,94,31
+North Carolina,Cumberland,2020,363,329,34,0,0,0,0,81,35
+North Carolina,Davidson,2020,329,265,64,0,0,0,0,95,32
+North Carolina,Durham,2020,364,334,30,0,0,0,0,97,35
+North Carolina,Edgecombe,2020,336,319,17,0,0,0,0,94,32
+North Carolina,Forsyth,2020,366,298,68,0,0,0,0,97,40
+North Carolina,Graham,2020,238,223,15,0,0,0,0,97,40
+North Carolina,Granville,2020,238,237,1,0,0,0,0,51,36
+North Carolina,Guilford,2020,365,335,30,0,0,0,0,87,36
+North Carolina,Haywood,2020,272,244,28,0,0,0,0,93,41
+North Carolina,Hyde,2020,114,112,2,0,0,0,0,53,15
+North Carolina,Jackson,2020,111,107,4,0,0,0,0,68,24
+North Carolina,Johnston,2020,339,318,21,0,0,0,0,72,36
+North Carolina,Lenoir,2020,296,290,6,0,0,0,0,58,32
+North Carolina,Lincoln,2020,243,241,2,0,0,0,0,71,35
+North Carolina,Macon,2020,360,358,2,0,0,0,0,64,29
+North Carolina,Martin,2020,240,240,0,0,0,0,0,49,33
+North Carolina,Mecklenburg,2020,366,296,68,2,0,0,0,112,40
+North Carolina,Mitchell,2020,356,347,8,1,0,0,0,103,20
+North Carolina,Montgomery,2020,366,342,24,0,0,0,0,83,35
+North Carolina,New Hanover,2020,357,344,13,0,0,0,0,74,31
+North Carolina,Northampton,2020,360,346,14,0,0,0,0,88,22
+North Carolina,Person,2020,240,240,0,0,0,0,0,50,34
+North Carolina,Pitt,2020,361,344,17,0,0,0,0,95,33
+North Carolina,Rockingham,2020,243,238,5,0,0,0,0,54,36
+North Carolina,Rowan,2020,365,318,47,0,0,0,0,88,39
+North Carolina,Swain,2020,362,340,21,1,0,0,0,119,33
+North Carolina,Union,2020,242,242,0,0,0,0,0,50,31
+North Carolina,Wake,2020,365,284,80,1,0,0,0,101,38
+North Carolina,Yancey,2020,244,204,39,1,0,0,0,105,44
+North Dakota,Billings,2020,366,359,7,0,0,0,0,61,34
+North Dakota,Burke,2020,366,353,13,0,0,0,0,69,33
+North Dakota,Burleigh,2020,366,336,30,0,0,0,0,74,33
+North Dakota,Cass,2020,363,336,27,0,0,0,0,80,34
+North Dakota,Dunn,2020,366,360,6,0,0,0,0,58,33
+North Dakota,McKenzie,2020,363,357,6,0,0,0,0,62,33
+North Dakota,Mercer,2020,366,357,9,0,0,0,0,75,33
+North Dakota,Oliver,2020,366,350,16,0,0,0,0,74,35
+North Dakota,Ward,2020,366,357,9,0,0,0,0,69,33
+Ohio,Adams,2020,287,268,19,0,0,0,0,81,29
+Ohio,Allen,2020,360,318,41,1,0,0,0,105,36
+Ohio,Ashtabula,2020,241,224,17,0,0,0,0,93,37
+Ohio,Athens,2020,86,83,3,0,0,0,0,61,24
+Ohio,Belmont,2020,366,357,9,0,0,0,0,66,12
+Ohio,Butler,2020,366,307,56,3,0,0,0,126,38
+Ohio,Clark,2020,343,274,68,1,0,0,0,108,40
+Ohio,Clermont,2020,361,325,36,0,0,0,0,100,35
+Ohio,Clinton,2020,229,205,24,0,0,0,0,97,39
+Ohio,Columbiana,2020,48,48,0,0,0,0,0,31,10
+Ohio,Cuyahoga,2020,366,226,130,9,1,0,0,152,46
+Ohio,Delaware,2020,244,222,21,1,0,0,0,101,38
+Ohio,Fayette,2020,341,318,23,0,0,0,0,80,35
+Ohio,Franklin,2020,366,296,68,2,0,0,0,102,40
+Ohio,Geauga,2020,245,214,31,0,0,0,0,100,41
+Ohio,Greene,2020,245,220,25,0,0,0,0,93,39
+Ohio,Hamilton,2020,366,211,148,7,0,0,0,126,48
+Ohio,Harrison,2020,304,304,0,0,0,0,0,49,1
+Ohio,Jefferson,2020,359,292,66,1,0,0,0,112,37
+Ohio,Knox,2020,245,226,19,0,0,0,0,80,38
+Ohio,Lake,2020,366,322,38,6,0,0,0,140,37
+Ohio,Lawrence,2020,354,316,38,0,0,0,0,77,36
+Ohio,Licking,2020,245,230,15,0,0,0,0,77,37
+Ohio,Lorain,2020,358,322,35,0,1,0,0,154,35
+Ohio,Lucas,2020,354,291,55,8,0,0,0,136,38
+Ohio,Madison,2020,245,220,25,0,0,0,0,84,39
+Ohio,Mahoning,2020,365,320,44,1,0,0,0,142,38
+Ohio,Medina,2020,360,321,39,0,0,0,0,93,35
+Ohio,Miami,2020,229,217,12,0,0,0,0,93,39
+Ohio,Montgomery,2020,361,246,111,4,0,0,0,112,44
+Ohio,Noble,2020,356,334,22,0,0,0,0,87,36
+Ohio,Portage,2020,262,229,32,1,0,0,0,101,39
+Ohio,Preble,2020,366,315,50,1,0,0,0,101,38
+Ohio,Scioto,2020,366,361,5,0,0,0,0,92,14
+Ohio,Stark,2020,358,262,92,4,0,0,0,119,42
+Ohio,Summit,2020,361,276,82,3,0,0,0,114,39
+Ohio,Trumbull,2020,357,315,39,2,1,0,0,153,37
+Ohio,Warren,2020,361,293,64,4,0,0,0,115,39
+Ohio,Washington,2020,245,233,11,1,0,0,0,108,38
+Ohio,Wood,2020,229,216,13,0,0,0,0,80,34
+Oklahoma,Adair,2020,363,337,25,0,1,0,0,151,33
+Oklahoma,Canadian,2020,358,332,26,0,0,0,0,84,36
+Oklahoma,Carter,2020,345,247,97,1,0,0,0,147,43
+Oklahoma,Cleveland,2020,354,253,99,2,0,0,0,121,43
+Oklahoma,Comanche,2020,366,306,59,1,0,0,0,107,40
+Oklahoma,Creek,2020,363,350,13,0,0,0,0,93,35
+Oklahoma,Dewey,2020,365,307,58,0,0,0,0,99,39
+Oklahoma,Grant,2020,106,102,4,0,0,0,0,65,19
+Oklahoma,Johnston,2020,289,267,22,0,0,0,0,97,38
+Oklahoma,Kay,2020,366,266,98,2,0,0,0,113,42
+Oklahoma,Mayes,2020,258,255,3,0,0,0,0,51,34
+Oklahoma,Oklahoma,2020,366,235,127,4,0,0,0,112,45
+Oklahoma,Osage,2020,350,322,28,0,0,0,0,90,36
+Oklahoma,Ottawa,2020,352,271,79,1,1,0,0,154,37
+Oklahoma,Pittsburg,2020,366,303,62,1,0,0,0,141,39
+Oklahoma,Sequoyah,2020,362,336,25,1,0,0,0,141,33
+Oklahoma,Tulsa,2020,366,278,86,2,0,0,0,129,42
+Oklahoma,Washington,2020,344,299,44,1,0,0,0,101,40
+Oregon,Baker,2020,366,327,32,2,5,0,0,200,25
+Oregon,Benton,2020,366,330,25,0,3,5,3,396,18
+Oregon,Clackamas,2020,272,249,14,3,2,1,3,366,30
+Oregon,Columbia,2020,363,342,12,1,4,4,0,268,25
+Oregon,Crook,2020,365,297,61,0,2,2,3,561,21
+Oregon,Deschutes,2020,366,317,35,4,2,1,7,583,18
+Oregon,Douglas,2020,366,313,43,1,1,2,6,518,22
+Oregon,Grant,2020,364,248,109,1,5,0,1,322,33
+Oregon,Harney,2020,366,248,107,2,8,0,1,304,32
+Oregon,Jackson,2020,366,262,89,2,5,4,4,517,40
+Oregon,Jefferson,2020,361,297,53,3,0,3,5,595,21
+Oregon,Josephine,2020,366,273,67,4,15,0,7,472,26
+Oregon,Klamath,2020,366,210,110,23,20,1,2,679,41
+Oregon,Lake,2020,365,285,62,14,4,0,0,165,23
+Oregon,Lane,2020,366,246,106,4,0,2,8,550,40
+Oregon,Linn,2020,366,283,72,0,1,3,7,502,27
+Oregon,Marion,2020,365,302,52,1,1,0,9,641,32
+Oregon,Multnomah,2020,366,308,49,1,0,3,5,477,33
+Oregon,Umatilla,2020,366,311,47,0,1,3,4,463,35
+Oregon,Union,2020,366,330,27,1,5,3,0,288,20
+Oregon,Wallowa,2020,366,322,37,0,7,0,0,198,20
+Oregon,Wasco,2020,355,322,30,0,0,0,3,417,18
+Oregon,Washington,2020,366,308,48,2,0,3,5,416,31
+Pennsylvania,Adams,2020,366,320,46,0,0,0,0,86,40
+Pennsylvania,Allegheny,2020,366,218,138,10,0,0,0,128,47
+Pennsylvania,Armstrong,2020,366,309,54,3,0,0,0,122,39
+Pennsylvania,Beaver,2020,366,279,86,1,0,0,0,142,42
+Pennsylvania,Berks,2020,362,280,81,1,0,0,0,102,40
+Pennsylvania,Blair,2020,360,309,51,0,0,0,0,87,38
+Pennsylvania,Bradford,2020,358,337,21,0,0,0,0,81,37
+Pennsylvania,Bucks,2020,351,331,16,4,0,0,0,115,33
+Pennsylvania,Cambria,2020,366,309,57,0,0,0,0,89,38
+Pennsylvania,Centre,2020,366,324,42,0,0,0,0,90,38
+Pennsylvania,Chester,2020,355,296,58,1,0,0,0,143,39
+Pennsylvania,Clearfield,2020,343,341,2,0,0,0,0,54,31
+Pennsylvania,Cumberland,2020,363,292,69,2,0,0,0,137,33
+Pennsylvania,Dauphin,2020,366,277,86,3,0,0,0,116,40
+Pennsylvania,Delaware,2020,366,249,114,3,0,0,0,129,43
+Pennsylvania,Elk,2020,358,356,2,0,0,0,0,67,34
+Pennsylvania,Erie,2020,363,329,34,0,0,0,0,87,34
+Pennsylvania,Fayette,2020,363,324,39,0,0,0,0,100,37
+Pennsylvania,Franklin,2020,363,363,0,0,0,0,0,50,32
+Pennsylvania,Greene,2020,359,335,23,1,0,0,0,101,36
+Pennsylvania,Indiana,2020,351,325,25,1,0,0,0,112,36
+Pennsylvania,Lackawanna,2020,366,333,33,0,0,0,0,81,38
+Pennsylvania,Lancaster,2020,366,258,103,4,1,0,0,153,43
+Pennsylvania,Lawrence,2020,363,354,9,0,0,0,0,93,31
+Pennsylvania,Lebanon,2020,170,144,25,1,0,0,0,115,30
+Pennsylvania,Lehigh,2020,359,316,43,0,0,0,0,93,37
+Pennsylvania,Luzerne,2020,356,354,2,0,0,0,0,54,31
+Pennsylvania,Lycoming,2020,366,329,36,1,0,0,0,109,37
+Pennsylvania,Mercer,2020,366,319,46,1,0,0,0,105,38
+Pennsylvania,Monroe,2020,357,355,2,0,0,0,0,80,33
+Pennsylvania,Montgomery,2020,366,313,53,0,0,0,0,99,38
+Pennsylvania,Northampton,2020,365,313,51,1,0,0,0,117,38
+Pennsylvania,Philadelphia,2020,366,281,80,5,0,0,0,119,41
+Pennsylvania,Somerset,2020,365,357,8,0,0,0,0,71,34
+Pennsylvania,Susquehanna,2020,365,351,14,0,0,0,0,71,23
+Pennsylvania,Tioga,2020,352,334,18,0,0,0,0,79,37
+Pennsylvania,Washington,2020,366,299,67,0,0,0,0,100,41
+Pennsylvania,Westmoreland,2020,362,331,31,0,0,0,0,81,35
+Pennsylvania,Wyoming,2020,361,341,20,0,0,0,0,76,25
+Pennsylvania,York,2020,366,301,65,0,0,0,0,97,40
+Puerto Rico,Adjuntas,2020,57,53,4,0,0,0,0,58,14
+Puerto Rico,Bayamon,2020,270,262,8,0,0,0,0,66,19
+Puerto Rico,Caguas,2020,318,312,6,0,0,0,0,69,10
+Puerto Rico,Catano,2020,271,219,40,5,6,0,1,336,26
+Puerto Rico,Fajardo,2020,52,46,6,0,0,0,0,80,20
+Puerto Rico,Guayama,2020,34,28,6,0,0,0,0,80,23
+Puerto Rico,Guaynabo,2020,83,73,10,0,0,0,0,72,24
+Puerto Rico,Juncos,2020,348,338,4,5,1,0,0,174,9
+Puerto Rico,Mayagnez,2020,319,287,28,1,1,1,1,396,20
+Puerto Rico,Ponce,2020,360,324,36,0,0,0,0,81,22
+Puerto Rico,San Juan,2020,216,216,0,0,0,0,0,39,9
+Rhode Island,Kent,2020,358,339,18,1,0,0,0,133,31
+Rhode Island,Providence,2020,366,304,60,2,0,0,0,112,40
+Rhode Island,Washington,2020,366,336,28,1,1,0,0,154,32
+South Carolina,Aiken,2020,259,258,1,0,0,0,0,71,32
+South Carolina,Anderson,2020,265,257,8,0,0,0,0,71,35
+South Carolina,Berkeley,2020,220,219,1,0,0,0,0,51,31
+South Carolina,Charleston,2020,366,328,37,1,0,0,0,117,35
+South Carolina,Chesterfield,2020,346,321,25,0,0,0,0,89,34
+South Carolina,Darlington,2020,253,253,0,0,0,0,0,49,32
+South Carolina,Edgefield,2020,366,348,17,1,0,0,0,115,33
+South Carolina,Florence,2020,352,334,18,0,0,0,0,95,28
+South Carolina,Greenville,2020,366,294,71,1,0,0,0,116,39
+South Carolina,Horry,2020,214,214,0,0,0,0,0,50,32
+South Carolina,Lexington,2020,365,333,31,1,0,0,0,111,29
+South Carolina,Richland,2020,366,335,30,1,0,0,0,117,35
+South Carolina,Spartanburg,2020,366,303,61,2,0,0,0,112,40
+South Carolina,York,2020,366,346,20,0,0,0,0,92,35
+South Dakota,Brookings,2020,366,311,55,0,0,0,0,87,38
+South Dakota,Brown,2020,364,333,31,0,0,0,0,75,23
+South Dakota,Codington,2020,366,321,44,1,0,0,0,101,36
+South Dakota,Custer,2020,366,324,40,2,0,0,0,119,41
+South Dakota,Hughes,2020,355,345,10,0,0,0,0,76,14
+South Dakota,Jackson,2020,366,329,37,0,0,0,0,90,39
+South Dakota,Meade,2020,364,342,22,0,0,0,0,84,38
+South Dakota,Minnehaha,2020,366,324,42,0,0,0,0,90,35
+South Dakota,Pennington,2020,366,291,75,0,0,0,0,91,31
+South Dakota,Union,2020,366,324,41,1,0,0,0,141,36
+Tennessee,Anderson,2020,245,238,7,0,0,0,0,64,35
+Tennessee,Blount,2020,366,323,43,0,0,0,0,92,38
+Tennessee,Claiborne,2020,345,343,2,0,0,0,0,51,32
+Tennessee,Davidson,2020,366,283,81,2,0,0,0,116,41
+Tennessee,DeKalb,2020,341,336,5,0,0,0,0,61,33
+Tennessee,Dyer,2020,351,332,18,1,0,0,0,117,23
+Tennessee,Hamilton,2020,364,290,73,0,1,0,0,151,40
+Tennessee,Jefferson,2020,240,232,8,0,0,0,0,74,37
+Tennessee,Knox,2020,366,299,67,0,0,0,0,90,38
+Tennessee,Lawrence,2020,359,347,12,0,0,0,0,72,20
+Tennessee,Loudon,2020,366,337,29,0,0,0,0,97,34
+Tennessee,Madison,2020,354,334,19,1,0,0,0,108,25
+Tennessee,Maury,2020,351,339,12,0,0,0,0,91,22
+Tennessee,McMinn,2020,358,327,31,0,0,0,0,88,28
+Tennessee,Montgomery,2020,359,340,17,2,0,0,0,116,26
+Tennessee,Putnam,2020,359,345,13,1,0,0,0,105,23
+Tennessee,Roane,2020,338,316,22,0,0,0,0,91,26
+Tennessee,Sevier,2020,363,336,26,1,0,0,0,105,40
+Tennessee,Shelby,2020,366,263,102,0,1,0,0,152,44
+Tennessee,Sullivan,2020,366,350,16,0,0,0,0,80,34
+Tennessee,Sumner,2020,360,316,43,1,0,0,0,121,37
+Tennessee,Williamson,2020,241,231,10,0,0,0,0,71,37
+Tennessee,Wilson,2020,245,240,5,0,0,0,0,64,33
+Texas,Atascosa,2020,214,179,34,0,1,0,0,156,29
+Texas,Bell,2020,366,293,72,1,0,0,0,135,40
+Texas,Bexar,2020,366,198,158,9,1,0,0,158,49
+Texas,Bowie,2020,358,270,87,1,0,0,0,127,36
+Texas,Brazoria,2020,365,328,34,2,1,0,0,182,33
+Texas,Brazos,2020,303,263,40,0,0,0,0,99,30
+Texas,Brewster,2020,360,331,29,0,0,0,0,80,40
+Texas,Cameron,2020,366,237,120,6,3,0,0,176,43
+Texas,Collin,2020,365,317,45,2,1,0,0,154,37
+Texas,Culberson,2020,201,129,65,7,0,0,0,112,45
+Texas,Dallas,2020,366,272,88,6,0,0,0,135,42
+Texas,Denton,2020,366,277,81,8,0,0,0,142,40
+Texas,Ector,2020,346,311,35,0,0,0,0,95,27
+Texas,El Paso,2020,366,143,204,17,2,0,0,192,55
+Texas,Ellis,2020,366,299,66,1,0,0,0,125,39
+Texas,Galveston,2020,360,275,82,3,0,0,0,143,40
+Texas,Gregg,2020,363,357,6,0,0,0,0,74,31
+Texas,Harris,2020,366,184,165,15,2,0,0,179,50
+Texas,Harrison,2020,363,322,41,0,0,0,0,100,35
+Texas,Hidalgo,2020,366,270,91,3,2,0,0,155,37
+Texas,Hood,2020,357,330,27,0,0,0,0,100,33
+Texas,Hunt,2020,366,351,15,0,0,0,0,87,32
+Texas,Jefferson,2020,363,269,92,2,0,0,0,122,40
+Texas,Johnson,2020,349,320,27,2,0,0,0,105,34
+Texas,Karnes,2020,363,363,0,0,0,0,0,32,6
+Texas,Kaufman,2020,366,312,53,1,0,0,0,134,37
+Texas,Kleberg,2020,330,240,84,4,2,0,0,168,35
+Texas,Lubbock,2020,352,329,23,0,0,0,0,81,20
+Texas,Maverick,2020,347,292,54,0,1,0,0,160,27
+Texas,McLennan,2020,366,330,36,0,0,0,0,97,38
+Texas,Montgomery,2020,366,281,77,8,0,0,0,129,40
+Texas,Navarro,2020,366,311,53,2,0,0,0,113,37
+Texas,Nueces,2020,366,277,87,0,2,0,0,159,40
+Texas,Orange,2020,362,284,76,2,0,0,0,103,39
+Texas,Parker,2020,362,331,30,1,0,0,0,115,35
+Texas,Polk,2020,360,351,9,0,0,0,0,71,31
+Texas,Potter,2020,341,324,17,0,0,0,0,84,20
+Texas,Randall,2020,357,277,80,0,0,0,0,90,42
+Texas,Rockwall,2020,363,345,17,1,0,0,0,133,32
+Texas,Smith,2020,366,352,14,0,0,0,0,84,33
+Texas,Tarrant,2020,366,238,112,13,3,0,0,159,45
+Texas,Travis,2020,366,260,104,1,1,0,0,153,44
+Texas,Victoria,2020,329,308,21,0,0,0,0,100,31
+Texas,Webb,2020,366,268,95,2,1,0,0,160,41
+Texas,Wilson,2020,365,365,0,0,0,0,0,34,7
+Utah,Box Elder,2020,355,316,36,3,0,0,0,147,40
+Utah,Cache,2020,366,252,105,5,4,0,0,159,44
+Utah,Carbon,2020,350,308,42,0,0,0,0,93,43
+Utah,Davis,2020,366,242,110,13,1,0,0,155,44
+Utah,Duchesne,2020,366,266,95,5,0,0,0,125,45
+Utah,Garfield,2020,365,332,33,0,0,0,0,74,42
+Utah,Iron,2020,366,332,34,0,0,0,0,86,40
+Utah,Salt Lake,2020,366,192,154,18,2,0,0,194,50
+Utah,San Juan,2020,352,306,44,2,0,0,0,108,43
+Utah,Tooele,2020,366,278,83,4,1,0,0,159,42
+Utah,Uintah,2020,366,255,108,3,0,0,0,119,45
+Utah,Utah,2020,366,237,124,5,0,0,0,150,45
+Utah,Washington,2020,366,292,71,3,0,0,0,112,44
+Utah,Wayne,2020,116,113,3,0,0,0,0,66,8
+Utah,Weber,2020,366,258,102,6,0,0,0,140,44
+Vermont,Bennington,2020,366,348,18,0,0,0,0,70,35
+Vermont,Chittenden,2020,366,336,30,0,0,0,0,98,36
+Vermont,Rutland,2020,366,329,37,0,0,0,0,96,37
+Vermont,Windham,2020,113,113,0,0,0,0,0,31,9
+Virgin Islands,St Croix,2020,59,53,6,0,0,0,0,82,19
+Virgin Islands,St John,2020,111,102,9,0,0,0,0,82,16
+Virgin Islands,St Thomas,2020,75,65,10,0,0,0,0,72,23
+Virginia,Albemarle,2020,363,347,16,0,0,0,0,66,35
+Virginia,Arlington,2020,366,343,23,0,0,0,0,90,33
+Virginia,Bristol City,2020,116,112,4,0,0,0,0,55,24
+Virginia,Caroline,2020,235,232,3,0,0,0,0,64,34
+Virginia,Carroll,2020,56,56,0,0,0,0,0,15,7
+Virginia,Charles,2020,364,361,3,0,0,0,0,67,31
+Virginia,Chesterfield,2020,279,277,2,0,0,0,0,61,32
+Virginia,Fairfax,2020,366,313,53,0,0,0,0,100,38
+Virginia,Fauquier,2020,242,241,1,0,0,0,0,61,31
+Virginia,Frederick,2020,304,286,18,0,0,0,0,78,35
+Virginia,Giles,2020,342,337,5,0,0,0,0,67,36
+Virginia,Hampton City,2020,366,353,13,0,0,0,0,64,34
+Virginia,Hanover,2020,245,243,2,0,0,0,0,64,34
+Virginia,Henrico,2020,366,338,28,0,0,0,0,71,36
+Virginia,Hopewell City,2020,48,48,0,0,0,0,0,15,6
+Virginia,Loudoun,2020,366,353,12,1,0,0,0,108,33
+Virginia,Lynchburg City,2020,110,109,1,0,0,0,0,54,21
+Virginia,Madison,2020,363,361,2,0,0,0,0,54,37
+Virginia,Norfolk City,2020,365,362,3,0,0,0,0,60,17
+Virginia,Prince Edward,2020,361,361,0,0,0,0,0,49,30
+Virginia,Prince William,2020,364,357,7,0,0,0,0,74,32
+Virginia,Richmond City,2020,364,345,19,0,0,0,0,77,29
+Virginia,Roanoke,2020,366,338,28,0,0,0,0,69,35
+Virginia,Rockbridge,2020,284,284,0,0,0,0,0,49,30
+Virginia,Rockingham,2020,363,356,7,0,0,0,0,74,32
+Virginia,Salem City,2020,110,106,4,0,0,0,0,66,23
+Virginia,Stafford,2020,362,357,5,0,0,0,0,84,32
+Virginia,Suffolk City,2020,245,242,3,0,0,0,0,67,36
+Virginia,Virginia Beach City,2020,109,103,6,0,0,0,0,71,23
+Virginia,Winchester City,2020,58,58,0,0,0,0,0,18,6
+Virginia,Wythe,2020,235,233,2,0,0,0,0,61,34
+Washington,Adams,2020,364,354,2,0,6,2,0,241,13
+Washington,Asotin,2020,350,263,78,2,5,2,0,289,29
+Washington,Benton,2020,365,317,36,3,3,1,5,908,33
+Washington,Chelan,2020,366,311,43,1,7,2,2,489,21
+Washington,Clallam,2020,366,335,24,1,1,4,1,309,33
+Washington,Clark,2020,366,312,45,1,1,2,5,509,27
+Washington,Columbia,2020,365,349,8,0,6,2,0,233,18
+Washington,Cowlitz,2020,366,348,9,1,5,3,0,257,16
+Washington,Franklin,2020,336,321,7,0,5,3,0,260,14
+Washington,Garfield,2020,335,316,10,2,5,2,0,228,15
+Washington,Grant,2020,366,346,10,2,4,4,0,283,16
+Washington,Grays Harbor,2020,366,346,12,1,2,5,0,218,20
+Washington,Jefferson,2020,340,329,3,2,5,1,0,208,18
+Washington,King,2020,366,297,57,3,4,5,0,275,36
+Washington,Kitsap,2020,361,340,12,3,3,3,0,221,18
+Washington,Kittitas,2020,365,320,34,2,3,3,3,459,18
+Washington,Klickitat,2020,318,302,7,0,2,1,6,669,17
+Washington,Lewis,2020,335,324,10,0,0,1,0,233,19
+Washington,Mason,2020,357,330,18,2,2,4,1,324,18
+Washington,Okanogan,2020,366,240,113,1,6,4,2,423,35
+Washington,Pend Oreille,2020,20,18,2,0,0,0,0,59,35
+Washington,Pierce,2020,366,294,61,4,3,4,0,231,40
+Washington,Skagit,2020,272,269,3,0,0,0,0,52,16
+Washington,Snohomish,2020,366,292,64,3,6,1,0,225,30
+Washington,Spokane,2020,366,323,36,0,2,1,4,479,33
+Washington,Stevens,2020,366,269,88,1,4,0,4,536,32
+Washington,Thurston,2020,366,340,19,0,4,3,0,217,25
+Washington,Walla Walla,2020,366,330,27,0,2,1,6,819,22
+Washington,Whatcom,2020,366,353,4,2,6,1,0,212,21
+Washington,Whitman,2020,366,352,6,1,6,1,0,212,15
+Washington,Yakima,2020,366,248,103,6,2,3,4,465,35
+West Virginia,Berkeley,2020,278,261,17,0,0,0,0,95,36
+West Virginia,Brooke,2020,366,342,24,0,0,0,0,75,17
+West Virginia,Cabell,2020,284,270,14,0,0,0,0,100,36
+West Virginia,Gilmer,2020,363,363,0,0,0,0,0,49,29
+West Virginia,Greenbrier,2020,234,232,2,0,0,0,0,54,34
+West Virginia,Hancock,2020,307,276,30,1,0,0,0,133,36
+West Virginia,Harrison,2020,118,110,8,0,0,0,0,78,26
+West Virginia,Kanawha,2020,366,342,24,0,0,0,0,84,37
+West Virginia,Marion,2020,74,69,5,0,0,0,0,67,26
+West Virginia,Marshall,2020,118,106,12,0,0,0,0,68,31
+West Virginia,Monongalia,2020,274,260,14,0,0,0,0,90,37
+West Virginia,Ohio,2020,274,244,29,1,0,0,0,101,38
+West Virginia,Tucker,2020,359,357,2,0,0,0,0,51,33
+West Virginia,Wood,2020,283,264,19,0,0,0,0,80,35
+Wisconsin,Ashland,2020,366,354,12,0,0,0,0,71,32
+Wisconsin,Brown,2020,366,312,53,1,0,0,0,119,35
+Wisconsin,Columbia,2020,203,187,12,4,0,0,0,115,38
+Wisconsin,Dane,2020,366,286,78,2,0,0,0,112,39
+Wisconsin,Dodge,2020,366,297,67,2,0,0,0,136,38
+Wisconsin,Door,2020,205,184,17,4,0,0,0,150,36
+Wisconsin,Eau Claire,2020,366,312,54,0,0,0,0,93,37
+Wisconsin,Fond du Lac,2020,205,194,9,2,0,0,0,115,36
+Wisconsin,Forest,2020,366,338,28,0,0,0,0,93,35
+Wisconsin,Grant,2020,361,305,56,0,0,0,0,82,30
+Wisconsin,Jefferson,2020,210,189,17,4,0,0,0,136,38
+Wisconsin,Kenosha,2020,361,279,71,10,1,0,0,197,40
+Wisconsin,Kewaunee,2020,207,195,12,0,0,0,0,97,34
+Wisconsin,La Crosse,2020,364,304,60,0,0,0,0,93,37
+Wisconsin,Manitowoc,2020,192,169,19,4,0,0,0,136,36
+Wisconsin,Marathon,2020,199,193,6,0,0,0,0,74,31
+Wisconsin,Milwaukee,2020,366,268,93,4,1,0,0,169,40
+Wisconsin,Outagamie,2020,366,307,57,2,0,0,0,126,36
+Wisconsin,Ozaukee,2020,365,303,57,4,1,0,0,164,35
+Wisconsin,Racine,2020,199,162,29,7,1,0,0,172,38
+Wisconsin,Rock,2020,210,192,15,3,0,0,0,105,38
+Wisconsin,Sauk,2020,366,314,51,1,0,0,0,112,36
+Wisconsin,Sheboygan,2020,207,170,31,4,2,0,0,159,39
+Wisconsin,Taylor,2020,366,336,30,0,0,0,0,78,35
+Wisconsin,Vilas,2020,366,351,15,0,0,0,0,84,30
+Wisconsin,Walworth,2020,198,180,14,4,0,0,0,136,39
+Wisconsin,Waukesha,2020,359,274,83,2,0,0,0,129,39
+Wyoming,Albany,2020,366,253,104,7,2,0,0,177,46
+Wyoming,Big Horn,2020,359,349,8,2,0,0,0,126,38
+Wyoming,Campbell,2020,366,247,116,3,0,0,0,124,44
+Wyoming,Carbon,2020,304,304,0,0,0,0,0,31,8
+Wyoming,Converse,2020,366,304,58,4,0,0,0,129,42
+Wyoming,Fremont,2020,366,296,64,5,1,0,0,158,45
+Wyoming,Johnson,2020,364,337,27,0,0,0,0,93,40
+Wyoming,Laramie,2020,366,322,39,3,2,0,0,157,39
+Wyoming,Lincoln,2020,366,357,9,0,0,0,0,71,15
+Wyoming,Natrona,2020,366,321,41,4,0,0,0,124,41
+Wyoming,Park,2020,122,115,5,2,0,0,0,113,11
+Wyoming,Platte,2020,224,202,20,1,0,1,0,283,19
+Wyoming,Sheridan,2020,366,344,22,0,0,0,0,100,39
+Wyoming,Sublette,2020,366,297,64,4,1,0,0,151,44
+Wyoming,Sweetwater,2020,366,238,116,7,4,0,1,1250,46
+Wyoming,Teton,2020,366,318,36,7,5,0,0,161,42
+Wyoming,Uinta,2020,366,323,41,2,0,0,0,122,40
+Wyoming,Weston,2020,353,323,29,1,0,0,0,119,40

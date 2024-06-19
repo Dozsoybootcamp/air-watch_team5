@@ -1,0 +1,1001 @@
+State,County,Year,Days with AQI,Good Days,Moderate Days,Unhealthy for Sensitive Groups Days,Unhealthy Days,Very Unhealthy Days,Hazardous Days,Max AQI,Median AQI
+Alabama,Baldwin,2022,281,256,25,0,0,0,0,96,37
+Alabama,Clay,2022,115,104,11,0,0,0,0,64,26
+Alabama,DeKalb,2022,364,341,23,0,0,0,0,97,37
+Alabama,Elmore,2022,240,232,8,0,0,0,0,74,33
+Alabama,Etowah,2022,359,294,65,0,0,0,0,93,39
+Alabama,Jefferson,2022,365,198,165,2,0,0,0,105,49
+Alabama,Lawrence,2022,102,98,4,0,0,0,0,53,22
+Alabama,Madison,2022,365,289,76,0,0,0,0,97,40
+Alabama,Mobile,2022,363,313,50,0,0,0,0,93,37
+Alabama,Montgomery,2022,363,319,44,0,0,0,0,95,37
+Alabama,Morgan,2022,365,289,75,1,0,0,0,111,40
+Alabama,Russell,2022,364,297,67,0,0,0,0,96,40
+Alabama,Shelby,2022,245,225,19,1,0,0,0,105,37
+Alabama,Sumter,2022,355,325,30,0,0,0,0,79,33
+Alabama,Tuscaloosa,2022,280,253,27,0,0,0,0,87,34
+Alaska,Aleutians East ,2022,121,120,1,0,0,0,0,71,9
+Alaska,Anchorage ,2022,365,323,41,1,0,0,0,125,19
+Alaska,Denali ,2022,338,330,8,0,0,0,0,80,34
+Alaska,Fairbanks North Star ,2022,365,239,79,18,28,1,0,280,38
+Alaska,Juneau ,2022,342,308,34,0,0,0,0,95,15
+Alaska,Kenai Peninsula ,2022,120,119,1,0,0,0,0,70,7
+Alaska,Matanuska-Susitna ,2022,341,307,34,0,0,0,0,88,10
+Alaska,North Slope ,2022,100,97,2,0,1,0,0,165,5
+Arizona,Apache,2022,363,361,2,0,0,0,0,57,11
+Arizona,Cochise,2022,365,291,73,1,0,0,0,101,44
+Arizona,Coconino,2022,365,283,81,1,0,0,0,101,44
+Arizona,Gila,2022,365,246,101,16,2,0,0,177,45
+Arizona,La Paz,2022,359,279,79,1,0,0,0,130,44
+Arizona,Maricopa,2022,365,42,227,73,17,6,0,264,74
+Arizona,Mohave,2022,357,340,16,1,0,0,0,115,17
+Arizona,Navajo,2022,364,307,57,0,0,0,0,93,43
+Arizona,Pima,2022,365,189,163,13,0,0,0,142,50
+Arizona,Pinal,2022,365,107,225,30,1,0,2,670,61
+Arizona,Santa Cruz,2022,357,273,83,1,0,0,0,138,34
+Arizona,Yavapai,2022,365,341,24,0,0,0,0,87,40
+Arizona,Yuma,2022,365,251,105,9,0,0,0,142,44
+Arkansas,Arkansas,2022,115,100,15,0,0,0,0,88,30
+Arkansas,Ashley,2022,117,106,11,0,0,0,0,99,29
+Arkansas,Clark,2022,363,350,13,0,0,0,0,90,35
+Arkansas,Crittenden,2022,365,291,70,3,1,0,0,156,40
+Arkansas,Garland,2022,112,99,13,0,0,0,0,89,33
+Arkansas,Jackson,2022,115,97,18,0,0,0,0,79,30
+Arkansas,Newton,2022,365,343,21,1,0,0,0,105,37
+Arkansas,Polk,2022,350,329,19,2,0,0,0,105,33
+Arkansas,Pulaski,2022,365,251,113,1,0,0,0,115,43
+Arkansas,Union,2022,115,92,23,0,0,0,0,100,35
+Arkansas,Washington,2022,365,296,66,3,0,0,0,119,43
+California,Alameda,2022,365,245,115,5,0,0,0,122,41
+California,Amador,2022,364,333,30,1,0,0,0,112,36
+California,Butte,2022,365,225,137,3,0,0,0,119,46
+California,Calaveras,2022,364,315,48,1,0,0,0,115,39
+California,Colusa,2022,363,300,62,1,0,0,0,105,41
+California,Contra Costa,2022,365,256,107,2,0,0,0,129,43
+California,Del Norte,2022,344,322,22,0,0,0,0,70,22
+California,El Dorado,2022,365,260,91,12,2,0,0,177,43
+California,Fresno,2022,365,97,198,67,3,0,0,159,71
+California,Glenn,2022,360,291,68,1,0,0,0,104,41
+California,Humboldt,2022,365,349,16,0,0,0,0,70,24
+California,Imperial,2022,365,114,204,34,5,2,6,762,58
+California,Inyo,2022,365,140,194,18,4,4,5,1445,57
+California,Kern,2022,365,65,178,109,12,1,0,289,80
+California,Kings,2022,365,90,225,48,2,0,0,187,67
+California,Lake,2022,363,362,1,0,0,0,0,73,32
+California,Los Angeles,2022,365,40,231,65,28,1,0,209,72
+California,Madera,2022,365,171,181,13,0,0,0,136,51
+California,Marin,2022,365,326,39,0,0,0,0,90,33
+California,Mariposa,2022,365,227,109,8,21,0,0,185,46
+California,Mendocino,2022,365,216,147,2,0,0,0,103,45
+California,Merced,2022,365,168,184,13,0,0,0,143,52
+California,Mono,2022,365,296,41,5,7,1,15,7577,21
+California,Monterey,2022,365,337,28,0,0,0,0,77,37
+California,Nevada,2022,365,215,132,12,4,2,0,268,48
+California,Orange,2022,365,224,134,5,2,0,0,156,47
+California,Placer,2022,365,184,157,15,4,4,1,346,50
+California,Plumas,2022,345,183,133,25,4,0,0,168,48
+California,Riverside,2022,365,60,179,86,31,2,7,1564,77
+California,Sacramento,2022,365,189,157,17,2,0,0,160,50
+California,San Benito,2022,365,320,45,0,0,0,0,97,41
+California,San Bernardino,2022,365,48,187,67,56,7,0,225,77
+California,San Diego,2022,365,92,247,25,1,0,0,156,59
+California,San Francisco,2022,364,313,51,0,0,0,0,87,33
+California,San Joaquin,2022,365,222,134,8,0,1,0,208,46
+California,San Luis Obispo,2022,365,178,184,3,0,0,0,115,51
+California,San Mateo,2022,365,313,52,0,0,0,0,83,33
+California,Santa Barbara,2022,365,286,79,0,0,0,0,93,43
+California,Santa Clara,2022,365,249,111,5,0,0,0,119,44
+California,Santa Cruz,2022,365,332,33,0,0,0,0,92,32
+California,Shasta,2022,365,268,91,6,0,0,0,119,44
+California,Siskiyou,2022,362,307,48,2,4,0,1,353,39
+California,Solano,2022,365,280,85,0,0,0,0,93,40
+California,Sonoma,2022,365,331,34,0,0,0,0,79,32
+California,Stanislaus,2022,365,163,179,22,1,0,0,166,54
+California,Sutter,2022,364,196,163,5,0,0,0,119,48
+California,Tehama,2022,365,260,102,3,0,0,0,108,43
+California,Trinity,2022,353,258,80,5,7,3,0,296,26
+California,Tulare,2022,365,84,167,106,8,0,0,182,76
+California,Tuolumne,2022,358,344,13,1,0,0,0,108,37
+California,Ventura,2022,365,223,131,11,0,0,0,140,47
+California,Yolo,2022,365,301,62,2,0,0,0,101,40
+Colorado,Adams,2022,365,202,149,14,0,0,0,126,49
+Colorado,Alamosa,2022,116,110,5,1,0,0,0,134,8
+Colorado,Arapahoe,2022,365,242,111,12,0,0,0,129,46
+Colorado,Archuleta,2022,365,313,48,3,0,1,0,227,42
+Colorado,Boulder,2022,365,249,109,7,0,0,0,129,45
+Colorado,Clear Creek,2022,357,255,99,3,0,0,0,108,47
+Colorado,Delta,2022,143,126,17,0,0,0,0,80,44
+Colorado,Denver,2022,365,207,151,7,0,0,0,112,49
+Colorado,Douglas,2022,365,251,96,17,1,0,0,169,45
+Colorado,El Paso,2022,365,259,104,2,0,0,0,115,45
+Colorado,Fremont,2022,118,115,3,0,0,0,0,77,12
+Colorado,Garfield,2022,364,340,24,0,0,0,0,84,40
+Colorado,Gilpin,2022,365,286,75,4,0,0,0,112,45
+Colorado,Gunnison,2022,364,315,48,1,0,0,0,108,45
+Colorado,Jackson,2022,236,217,19,0,0,0,0,71,40
+Colorado,Jefferson,2022,365,234,100,30,1,0,0,166,47
+Colorado,La Plata,2022,365,269,95,1,0,0,0,108,46
+Colorado,Larimer,2022,365,213,144,8,0,0,0,126,49
+Colorado,Mesa,2022,365,305,59,1,0,0,0,108,43
+Colorado,Montezuma,2022,365,304,61,0,0,0,0,87,44
+Colorado,Pitkin,2022,122,119,3,0,0,0,0,68,13
+Colorado,Prowers,2022,354,330,22,0,1,0,1,334,18
+Colorado,Pueblo,2022,349,329,17,3,0,0,0,121,20
+Colorado,Rio Blanco,2022,365,269,94,2,0,0,0,122,46
+Colorado,Routt,2022,356,356,0,0,0,0,0,43,13
+Colorado,San Juan,2022,119,117,2,0,0,0,0,72,8
+Colorado,San Miguel,2022,121,120,1,0,0,0,0,68,13
+Colorado,Weld,2022,365,202,153,10,0,0,0,133,49
+Connecticut,Fairfield,2022,365,255,88,20,2,0,0,156,42
+Connecticut,Hartford,2022,365,295,66,4,0,0,0,136,38
+Connecticut,Litchfield,2022,365,318,44,3,0,0,0,108,39
+Connecticut,Middlesex,2022,212,173,33,6,0,0,0,147,40
+Connecticut,New Haven,2022,365,268,90,7,0,0,0,133,41
+Connecticut,New London,2022,365,322,39,4,0,0,0,108,35
+Connecticut,Tolland,2022,208,187,19,2,0,0,0,122,39
+Connecticut,Windham,2022,355,338,17,0,0,0,0,93,35
+Country Of Mexico,BAJA CALIFORNIA NORTE,2022,273,68,159,29,17,0,0,167,61
+Country Of Mexico,SONORA,2022,365,199,160,6,0,0,0,115,48
+Delaware,Kent,2022,120,102,18,0,0,0,0,71,39
+Delaware,New Castle,2022,121,89,32,0,0,0,0,78,43
+Delaware,Sussex,2022,120,103,17,0,0,0,0,72,40
+District Of Columbia,District of Columbia,2022,365,279,82,4,0,0,0,128,42
+Florida,Alachua,2022,362,338,24,0,0,0,0,84,36
+Florida,Baker,2022,365,329,36,0,0,0,0,87,36
+Florida,Bay,2022,365,302,63,0,0,0,0,99,39
+Florida,Brevard,2022,365,326,39,0,0,0,0,80,39
+Florida,Broward,2022,365,300,65,0,0,0,0,100,41
+Florida,Citrus,2022,342,315,27,0,0,0,0,75,34
+Florida,Collier,2022,347,326,21,0,0,0,0,79,36
+Florida,Columbia,2022,363,303,60,0,0,0,0,90,38
+Florida,Duval,2022,365,252,113,0,0,0,0,93,44
+Florida,Escambia,2022,365,274,90,1,0,0,0,133,43
+Florida,Flagler,2022,361,352,9,0,0,0,0,100,34
+Florida,Hamilton,2022,294,257,37,0,0,0,0,70,35
+Florida,Highlands,2022,349,337,11,1,0,0,0,112,33
+Florida,Hillsborough,2022,365,271,93,1,0,0,0,126,43
+Florida,Holmes,2022,365,287,78,0,0,0,0,90,39
+Florida,Indian River,2022,357,349,8,0,0,0,0,67,33
+Florida,Lake,2022,364,349,15,0,0,0,0,87,35
+Florida,Lee,2022,302,269,33,0,0,0,0,80,37
+Florida,Leon,2022,364,295,69,0,0,0,0,92,39
+Florida,Liberty,2022,355,346,9,0,0,0,0,74,32
+Florida,Manatee,2022,349,336,13,0,0,0,0,80,33
+Florida,Marion,2022,363,326,37,0,0,0,0,93,38
+Florida,Martin,2022,356,331,24,1,0,0,0,108,36
+Florida,Miami-Dade,2022,365,317,46,2,0,0,0,136,38
+Florida,Okaloosa,2022,170,155,15,0,0,0,0,84,39
+Florida,Orange,2022,365,329,36,0,0,0,0,97,38
+Florida,Osceola,2022,364,348,16,0,0,0,0,80,34
+Florida,Palm Beach,2022,365,323,42,0,0,0,0,89,37
+Florida,Pasco,2022,361,332,29,0,0,0,0,87,37
+Florida,Pinellas,2022,365,310,55,0,0,0,0,87,41
+Florida,Polk,2022,363,321,42,0,0,0,0,87,38
+Florida,Putnam,2022,323,321,2,0,0,0,0,58,16
+Florida,Santa Rosa,2022,365,302,62,1,0,0,0,109,39
+Florida,Sarasota,2022,358,302,56,0,0,0,0,100,40
+Florida,Seminole,2022,363,330,33,0,0,0,0,87,37
+Florida,St. Lucie,2022,358,352,6,0,0,0,0,77,33
+Florida,Volusia,2022,365,322,43,0,0,0,0,93,39
+Florida,Wakulla,2022,365,331,34,0,0,0,0,96,36
+Georgia,Bibb,2022,365,295,70,0,0,0,0,90,38
+Georgia,Charlton,2022,122,120,2,0,0,0,0,73,19
+Georgia,Chatham,2022,335,273,62,0,0,0,0,97,39
+Georgia,Chattooga,2022,245,236,9,0,0,0,0,77,35
+Georgia,Clarke,2022,362,271,91,0,0,0,0,87,43
+Georgia,Clayton,2022,121,105,16,0,0,0,0,69,31
+Georgia,Cobb,2022,285,251,33,1,0,0,0,105,38
+Georgia,Coffee,2022,119,111,8,0,0,0,0,71,27
+Georgia,Columbia,2022,245,238,7,0,0,0,0,71,34
+Georgia,Dawson,2022,245,238,6,1,0,0,0,136,35
+Georgia,DeKalb,2022,365,264,99,2,0,0,0,147,42
+Georgia,Dougherty,2022,358,253,100,4,1,0,0,151,38
+Georgia,Douglas,2022,243,215,27,1,0,0,0,133,38
+Georgia,Floyd,2022,356,320,36,0,0,0,0,81,28
+Georgia,Fulton,2022,365,254,108,2,1,0,0,169,44
+Georgia,Glynn,2022,356,292,63,1,0,0,0,106,38
+Georgia,Gwinnett,2022,365,290,75,0,0,0,0,97,40
+Georgia,Hall,2022,364,295,69,0,0,0,0,76,35
+Georgia,Henry,2022,351,301,47,3,0,0,0,105,36
+Georgia,Houston,2022,362,293,68,1,0,0,0,102,34
+Georgia,Lowndes,2022,354,269,85,0,0,0,0,100,36
+Georgia,Murray,2022,279,251,27,1,0,0,0,105,38
+Georgia,Muscogee,2022,365,290,73,2,0,0,0,149,40
+Georgia,Pike,2022,340,311,29,0,0,0,0,100,35
+Georgia,Richmond,2022,365,277,88,0,0,0,0,99,40
+Georgia,Rockdale,2022,243,214,29,0,0,0,0,90,39
+Georgia,Sumter,2022,238,224,14,0,0,0,0,93,35
+Georgia,Walker,2022,352,226,126,0,0,0,0,87,43
+Georgia,Washington,2022,362,246,113,3,0,0,0,112,41
+Hawaii,Hawaii,2022,365,359,6,0,0,0,0,67,25
+Hawaii,Honolulu,2022,365,363,2,0,0,0,0,80,27
+Hawaii,Kauai,2022,90,90,0,0,0,0,0,34,10
+Hawaii,Maui,2022,361,360,1,0,0,0,0,53,15
+Idaho,Ada,2022,365,225,133,6,1,0,0,162,45
+Idaho,Bannock,2022,365,287,76,2,0,0,0,140,39
+Idaho,Benewah,2022,365,254,100,8,3,0,0,170,37
+Idaho,Blaine,2022,355,338,12,2,3,0,0,174,17
+Idaho,Boise,2022,365,305,56,2,2,0,0,178,30
+Idaho,Bonner,2022,364,294,62,5,3,0,0,195,26
+Idaho,Bonneville,2022,357,338,18,1,0,0,0,109,20
+Idaho,Butte,2022,365,337,28,0,0,0,0,76,42
+Idaho,Canyon,2022,364,245,111,7,1,0,0,154,37
+Idaho,Custer,2022,105,101,4,0,0,0,0,97,5
+Idaho,Franklin,2022,365,331,33,1,0,0,0,103,17
+Idaho,Idaho,2022,365,297,58,4,4,2,0,238,38
+Idaho,Kootenai,2022,359,299,53,4,3,0,0,177,22
+Idaho,Latah,2022,361,336,20,1,4,0,0,181,10
+Idaho,Lemhi,2022,365,237,98,18,12,0,0,193,33
+Idaho,Nez Perce,2022,365,302,57,2,4,0,0,183,26
+Idaho,Shoshone,2022,365,263,95,4,3,0,0,167,32
+Idaho,Twin Falls,2022,353,326,25,1,1,0,0,154,23
+Idaho,Valley,2022,351,271,72,6,2,0,0,164,28
+Illinois,Adams,2022,237,230,7,0,0,0,0,71,39
+Illinois,Champaign,2022,365,295,69,1,0,0,0,126,40
+Illinois,Clark,2022,312,296,15,1,0,0,0,101,34
+Illinois,Cook,2022,365,198,159,7,1,0,0,151,48
+Illinois,DuPage,2022,365,266,98,1,0,0,0,129,41
+Illinois,Effingham,2022,239,215,24,0,0,0,0,100,38
+Illinois,Hamilton,2022,365,296,69,0,0,0,0,87,39
+Illinois,Jersey,2022,365,295,65,5,0,0,0,112,40
+Illinois,Jo Daviess,2022,343,328,15,0,0,0,0,84,34
+Illinois,Kane,2022,285,214,68,3,0,0,0,129,40
+Illinois,Lake,2022,243,199,41,2,1,0,0,159,39
+Illinois,Macon,2022,365,285,78,2,0,0,0,115,41
+Illinois,Macoupin,2022,363,352,9,2,0,0,0,108,33
+Illinois,Madison,2022,363,228,126,9,0,0,0,147,46
+Illinois,McHenry,2022,365,271,91,3,0,0,0,126,40
+Illinois,McLean,2022,365,276,87,2,0,0,0,129,42
+Illinois,Peoria,2022,319,242,77,0,0,0,0,100,42
+Illinois,Randolph,2022,365,298,65,2,0,0,0,108,41
+Illinois,Rock Island,2022,360,283,77,0,0,0,0,89,40
+Illinois,Saint Clair,2022,365,241,123,1,0,0,0,105,44
+Illinois,Sangamon,2022,362,287,71,4,0,0,0,126,40
+Illinois,Will,2022,365,270,93,2,0,0,0,101,41
+Illinois,Winnebago,2022,363,300,63,0,0,0,0,97,39
+Indiana,Allen,2022,351,326,23,2,0,0,0,115,35
+Indiana,Bartholomew,2022,365,317,47,1,0,0,0,105,38
+Indiana,Boone,2022,362,331,30,1,0,0,0,115,36
+Indiana,Brown,2022,358,348,10,0,0,0,0,97,35
+Indiana,Carroll,2022,364,343,21,0,0,0,0,93,34
+Indiana,Clark,2022,363,246,116,1,0,0,0,119,43
+Indiana,Delaware,2022,359,321,37,1,0,0,0,115,37
+Indiana,Dubois,2022,123,108,15,0,0,0,0,86,32
+Indiana,Elkhart,2022,362,303,56,3,0,0,0,127,38
+Indiana,Floyd,2022,354,337,17,0,0,0,0,87,33
+Indiana,Greene,2022,351,311,38,2,0,0,0,101,37
+Indiana,Hamilton,2022,365,294,71,0,0,0,0,100,39
+Indiana,Hendricks,2022,352,338,14,0,0,0,0,87,34
+Indiana,Henry,2022,111,101,10,0,0,0,0,94,25
+Indiana,Howard,2022,364,290,70,4,0,0,0,108,40
+Indiana,Knox,2022,344,321,23,0,0,0,0,87,36
+Indiana,LaPorte,2022,365,324,38,3,0,0,0,133,36
+Indiana,Lake,2022,365,250,110,5,0,0,0,143,44
+Indiana,Madison,2022,365,278,83,4,0,0,0,133,42
+Indiana,Marion,2022,365,185,167,12,1,0,0,153,50
+Indiana,Monroe,2022,347,317,30,0,0,0,0,96,28
+Indiana,Perry,2022,365,344,20,1,0,0,0,119,36
+Indiana,Porter,2022,365,292,67,5,1,0,0,188,40
+Indiana,Posey,2022,364,349,15,0,0,0,0,97,33
+Indiana,Shelby,2022,364,336,26,2,0,0,0,115,36
+Indiana,Spencer,2022,111,98,13,0,0,0,0,77,32
+Indiana,St. Joseph,2022,365,244,115,6,0,0,0,122,44
+Indiana,Tippecanoe,2022,350,316,34,0,0,0,0,95,27
+Indiana,Vanderburgh,2022,365,256,109,0,0,0,0,100,44
+Indiana,Vigo,2022,365,265,98,2,0,0,0,115,41
+Indiana,Wabash,2022,362,334,27,1,0,0,0,112,37
+Indiana,Warrick,2022,365,326,38,1,0,0,0,101,37
+Indiana,Whitley,2022,360,288,71,1,0,0,0,109,33
+Iowa,Black Hawk,2022,364,309,55,0,0,0,0,82,33
+Iowa,Bremer,2022,243,235,8,0,0,0,0,67,37
+Iowa,Cerro Gordo,2022,117,116,1,0,0,0,0,61,17
+Iowa,Clinton,2022,364,240,123,1,0,0,0,107,42
+Iowa,Harrison,2022,237,210,27,0,0,0,0,84,40
+Iowa,Johnson,2022,365,303,61,1,0,0,0,108,33
+Iowa,Lee,2022,106,95,11,0,0,0,0,86,30
+Iowa,Linn,2022,365,277,88,0,0,0,0,81,41
+Iowa,Montgomery,2022,363,335,28,0,0,0,0,76,36
+Iowa,Muscatine,2022,365,316,49,0,0,0,0,87,32
+Iowa,Palo Alto,2022,365,328,37,0,0,0,0,77,37
+Iowa,Polk,2022,365,319,46,0,0,0,0,87,38
+Iowa,Pottawattamie,2022,121,109,12,0,0,0,0,68,28
+Iowa,Scott,2022,365,273,92,0,0,0,0,96,41
+Iowa,Van Buren,2022,365,330,34,1,0,0,0,102,38
+Iowa,Woodbury,2022,113,104,9,0,0,0,0,73,27
+Kansas,Chase,2022,121,116,5,0,0,0,0,62,19
+Kansas,Ford,2022,362,339,21,1,1,0,0,169,19
+Kansas,Johnson,2022,365,284,80,1,0,0,0,115,40
+Kansas,Leavenworth,2022,365,341,24,0,0,0,0,80,37
+Kansas,Neosho,2022,360,261,99,0,0,0,0,94,44
+Kansas,Sedgwick,2022,365,239,122,4,0,0,0,119,46
+Kansas,Shawnee,2022,350,281,69,0,0,0,0,87,41
+Kansas,Sherman,2022,360,338,18,3,0,0,1,495,18
+Kansas,Sumner,2022,365,254,108,3,0,0,0,115,44
+Kansas,Trego,2022,360,293,64,2,1,0,0,154,38
+Kansas,Wyandotte,2022,365,254,109,2,0,0,0,112,43
+Kentucky,Bell,2022,365,266,99,0,0,0,0,90,42
+Kentucky,Boone,2022,199,173,26,0,0,0,0,97,41
+Kentucky,Boyd,2022,365,319,46,0,0,0,0,80,38
+Kentucky,Bullitt,2022,239,212,26,1,0,0,0,101,40
+Kentucky,Campbell,2022,362,310,51,1,0,0,0,105,38
+Kentucky,Carter,2022,361,340,21,0,0,0,0,68,34
+Kentucky,Christian,2022,365,282,83,0,0,0,0,83,40
+Kentucky,Daviess,2022,365,304,61,0,0,0,0,98,40
+Kentucky,Edmonson,2022,365,340,25,0,0,0,0,84,37
+Kentucky,Fayette,2022,365,306,58,1,0,0,0,106,40
+Kentucky,Greenup,2022,243,230,13,0,0,0,0,71,36
+Kentucky,Hancock,2022,243,219,23,1,0,0,0,108,40
+Kentucky,Hardin,2022,362,303,59,0,0,0,0,84,39
+Kentucky,Jefferson,2022,365,233,125,7,0,0,0,136,46
+Kentucky,Jessamine,2022,243,215,28,0,0,0,0,87,40
+Kentucky,Livingston,2022,243,207,34,2,0,0,0,119,41
+Kentucky,McCracken,2022,345,274,68,3,0,0,0,143,40
+Kentucky,Morgan,2022,364,347,17,0,0,0,0,74,35
+Kentucky,Oldham,2022,245,221,22,2,0,0,0,112,41
+Kentucky,Perry,2022,348,288,57,1,2,0,0,166,39
+Kentucky,Pike,2022,365,347,18,0,0,0,0,91,33
+Kentucky,Pulaski,2022,359,319,40,0,0,0,0,79,38
+Kentucky,Simpson,2022,241,217,24,0,0,0,0,93,39
+Kentucky,Trigg,2022,126,116,10,0,0,0,0,80,39
+Kentucky,Warren,2022,363,311,52,0,0,0,0,84,39
+Kentucky,Washington,2022,364,340,24,0,0,0,0,77,37
+Louisiana,Ascension,2022,364,336,28,0,0,0,0,90,32
+Louisiana,Bossier,2022,358,259,99,0,0,0,0,99,42
+Louisiana,Caddo,2022,363,317,45,1,0,0,0,108,38
+Louisiana,Calcasieu,2022,365,247,118,0,0,0,0,100,43
+Louisiana,East Baton Rouge,2022,365,270,92,3,0,0,0,141,41
+Louisiana,Iberville,2022,365,278,80,6,1,0,0,156,41
+Louisiana,Jefferson,2022,362,291,71,0,0,0,0,95,40
+Louisiana,Lafayette,2022,364,273,89,2,0,0,0,103,40
+Louisiana,Lafourche,2022,351,296,54,1,0,0,0,109,37
+Louisiana,Livingston,2022,361,261,97,3,0,0,0,117,42
+Louisiana,Orleans,2022,365,330,33,2,0,0,0,102,29
+Louisiana,Ouachita,2022,359,329,29,1,0,0,0,105,36
+Louisiana,Pointe Coupee,2022,346,323,22,1,0,0,0,112,34
+Louisiana,Rapides,2022,119,106,12,1,0,0,0,105,29
+Louisiana,St. Bernard,2022,365,284,80,1,0,0,0,108,41
+Louisiana,St. James,2022,361,345,16,0,0,0,0,93,32
+Louisiana,St. John the Baptist,2022,351,335,16,0,0,0,0,80,33
+Louisiana,St. Martin,2022,338,296,42,0,0,0,0,97,34
+Louisiana,St. Tammany,2022,365,314,50,1,0,0,0,103,36
+Louisiana,Tangipahoa,2022,124,111,13,0,0,0,0,96,29
+Louisiana,Terrebonne,2022,121,112,9,0,0,0,0,96,28
+Louisiana,West Baton Rouge,2022,364,278,82,4,0,0,0,105,40
+Maine,Androscoggin,2022,358,340,18,0,0,0,0,97,30
+Maine,Aroostook,2022,364,340,24,0,0,0,0,77,32
+Maine,Cumberland,2022,362,338,21,3,0,0,0,109,35
+Maine,Hancock,2022,361,334,26,1,0,0,0,112,36
+Maine,Kennebec,2022,203,198,5,0,0,0,0,84,29
+Maine,Knox,2022,212,206,6,0,0,0,0,80,35
+Maine,Oxford,2022,358,342,16,0,0,0,0,96,31
+Maine,Penobscot,2022,361,345,16,0,0,0,0,87,30
+Maine,Sagadahoc,2022,169,159,10,0,0,0,0,93,32
+Maine,Washington,2022,364,361,3,0,0,0,0,58,33
+Maine,York,2022,246,230,14,2,0,0,0,126,38
+Maryland,Anne Arundel,2022,263,247,16,0,0,0,0,93,38
+Maryland,Baltimore,2022,365,278,86,1,0,0,0,122,42
+Maryland,Baltimore (City),2022,353,279,72,2,0,0,0,112,40
+Maryland,Calvert,2022,239,225,14,0,0,0,0,74,39
+Maryland,Carroll,2022,243,210,32,1,0,0,0,112,42
+Maryland,Cecil,2022,361,300,60,1,0,0,0,101,39
+Maryland,Charles,2022,245,225,20,0,0,0,0,87,41
+Maryland,Dorchester,2022,365,320,45,0,0,0,0,93,40
+Maryland,Frederick,2022,236,212,23,1,0,0,0,115,41
+Maryland,Garrett,2022,365,347,18,0,0,0,0,97,37
+Maryland,Harford,2022,360,285,75,0,0,0,0,97,40
+Maryland,Howard,2022,365,344,21,0,0,0,0,66,30
+Maryland,Kent,2022,361,322,39,0,0,0,0,93,38
+Maryland,Montgomery,2022,355,293,61,1,0,0,0,119,40
+Maryland,Prince George's,2022,365,320,44,1,0,0,0,101,38
+Maryland,Washington,2022,344,314,30,0,0,0,0,87,38
+Massachusetts,Barnstable,2022,360,342,18,0,0,0,0,93,36
+Massachusetts,Berkshire,2022,365,324,41,0,0,0,0,87,38
+Massachusetts,Bristol,2022,365,333,31,1,0,0,0,115,37
+Massachusetts,Dukes,2022,359,341,17,1,0,0,0,126,37
+Massachusetts,Essex,2022,365,320,40,5,0,0,0,113,38
+Massachusetts,Franklin,2022,365,310,54,1,0,0,0,108,35
+Massachusetts,Hampden,2022,365,307,57,1,0,0,0,115,38
+Massachusetts,Hampshire,2022,365,320,45,0,0,0,0,97,38
+Massachusetts,Middlesex,2022,365,337,28,0,0,0,0,90,35
+Massachusetts,Norfolk,2022,365,325,39,1,0,0,0,105,38
+Massachusetts,Plymouth,2022,360,309,51,0,0,0,0,93,38
+Massachusetts,Suffolk,2022,365,310,53,2,0,0,0,112,35
+Massachusetts,Worcester,2022,365,310,55,0,0,0,0,100,38
+Michigan,Allegan,2022,344,281,55,6,2,0,0,195,37
+Michigan,Bay,2022,354,320,34,0,0,0,0,83,24
+Michigan,Benzie,2022,243,218,22,2,1,0,0,151,36
+Michigan,Berrien,2022,232,197,30,4,1,0,0,156,39
+Michigan,Cass,2022,233,212,19,2,0,0,0,119,38
+Michigan,Clinton,2022,235,213,22,0,0,0,0,90,38
+Michigan,Genesee,2022,364,291,71,2,0,0,0,112,39
+Michigan,Huron,2022,243,227,15,1,0,0,0,122,35
+Michigan,Ingham,2022,360,288,72,0,0,0,0,93,37
+Michigan,Kalamazoo,2022,352,245,104,3,0,0,0,134,43
+Michigan,Kent,2022,365,264,97,4,0,0,0,136,40
+Michigan,Keweenaw,2022,122,121,1,0,0,0,0,52,9
+Michigan,Lenawee,2022,365,289,76,0,0,0,0,97,39
+Michigan,Macomb,2022,365,273,90,2,0,0,0,126,40
+Michigan,Manistee,2022,267,241,23,2,1,0,0,156,35
+Michigan,Mason,2022,236,219,15,1,1,0,0,161,36
+Michigan,Missaukee,2022,363,312,49,2,0,0,0,144,38
+Michigan,Monroe,2022,61,51,8,1,0,0,1,596,26
+Michigan,Muskegon,2022,243,211,25,5,2,0,0,187,37
+Michigan,Oakland,2022,282,245,37,0,0,0,0,100,38
+Michigan,Ottawa,2022,332,244,84,2,2,0,0,164,39
+Michigan,Schoolcraft,2022,362,330,31,1,0,0,0,126,31
+Michigan,St. Clair,2022,359,278,79,2,0,0,0,133,38
+Michigan,Tuscola,2022,361,334,26,1,0,0,0,105,34
+Michigan,Washtenaw,2022,365,276,88,1,0,0,0,101,41
+Michigan,Wayne,2022,365,151,197,17,0,0,0,133,53
+Michigan,Wexford,2022,359,331,24,4,0,0,0,136,35
+Minnesota,Anoka,2022,365,327,38,0,0,0,0,93,38
+Minnesota,Becker,2022,354,338,15,1,0,0,0,125,32
+Minnesota,Beltrami,2022,346,342,4,0,0,0,0,60,18
+Minnesota,Carlton,2022,355,354,1,0,0,0,0,51,23
+Minnesota,Cass,2022,348,340,8,0,0,0,0,60,24
+Minnesota,Cook,2022,330,330,0,0,0,0,0,44,3
+Minnesota,Crow Wing,2022,365,344,21,0,0,0,0,67,34
+Minnesota,Dakota,2022,365,335,30,0,0,0,0,79,27
+Minnesota,Goodhue,2022,220,210,10,0,0,0,0,71,38
+Minnesota,Hennepin,2022,365,294,71,0,0,0,0,95,36
+Minnesota,Lake,2022,357,350,7,0,0,0,0,76,29
+Minnesota,Lyon,2022,356,324,30,0,2,0,0,167,36
+Minnesota,Mille Lacs,2022,151,151,0,0,0,0,0,48,35
+Minnesota,Olmsted,2022,359,314,44,1,0,0,0,110,37
+Minnesota,Ramsey,2022,365,322,43,0,0,0,0,83,28
+Minnesota,Saint Louis,2022,365,344,21,0,0,0,0,72,34
+Minnesota,Scott,2022,365,321,44,0,0,0,0,88,37
+Minnesota,Stearns,2022,277,246,31,0,0,0,0,75,36
+Minnesota,Washington,2022,227,212,15,0,0,0,0,90,36
+Minnesota,Winona,2022,121,118,3,0,0,0,0,61,17
+Minnesota,Wright,2022,356,315,41,0,0,0,0,88,38
+Mississippi,Bolivar,2022,365,296,69,0,0,0,0,92,38
+Mississippi,DeSoto,2022,365,288,71,6,0,0,0,133,40
+Mississippi,Forrest,2022,365,266,98,1,0,0,0,105,38
+Mississippi,Hancock,2022,359,303,56,0,0,0,0,88,37
+Mississippi,Harrison,2022,365,283,82,0,0,0,0,100,39
+Mississippi,Hinds,2022,365,259,104,2,0,0,0,105,43
+Mississippi,Jackson,2022,365,302,62,1,0,0,0,101,38
+Mississippi,Lauderdale,2022,240,230,10,0,0,0,0,77,36
+Mississippi,Lee,2022,245,226,19,0,0,0,0,100,40
+Mississippi,Yalobusha,2022,340,327,13,0,0,0,0,100,34
+Missouri,Andrew,2022,245,213,31,1,0,0,0,101,43
+Missouri,Boone,2022,245,235,10,0,0,0,0,67,38
+Missouri,Buchanan,2022,365,306,57,2,0,0,0,106,34
+Missouri,Callaway,2022,244,222,22,0,0,0,0,74,40
+Missouri,Cass,2022,360,322,38,0,0,0,0,87,38
+Missouri,Cedar,2022,349,294,55,0,0,0,0,100,39
+Missouri,Clay,2022,365,302,59,4,0,0,0,112,39
+Missouri,Clinton,2022,245,211,33,1,0,0,0,101,41
+Missouri,Greene,2022,365,279,86,0,0,0,0,100,43
+Missouri,Jackson,2022,365,258,107,0,0,0,0,93,42
+Missouri,Jasper,2022,363,283,79,1,0,0,0,108,41
+Missouri,Jefferson,2022,360,278,79,3,0,0,0,108,41
+Missouri,Lincoln,2022,245,214,30,1,0,0,0,112,41
+Missouri,Monroe,2022,365,364,1,0,0,0,0,52,34
+Missouri,Perry,2022,245,211,34,0,0,0,0,97,42
+Missouri,Saint Charles,2022,245,206,32,7,0,0,0,129,42
+Missouri,Saint Louis,2022,365,295,68,2,0,0,0,140,40
+Missouri,Sainte Genevieve,2022,244,215,29,0,0,0,0,100,41
+Missouri,St. Louis City,2022,365,202,158,5,0,0,0,117,48
+Missouri,Stoddard,2022,114,107,7,0,0,0,0,77,23
+Missouri,Taney,2022,118,112,6,0,0,0,0,67,19
+Montana,Cascade,2022,359,340,17,2,0,0,0,128,17
+Montana,Custer,2022,364,341,23,0,0,0,0,80,38
+Montana,Fergus,2022,365,348,15,2,0,0,0,122,40
+Montana,Flathead,2022,365,284,78,2,1,0,0,152,39
+Montana,Gallatin,2022,365,322,39,4,0,0,0,148,24
+Montana,Lake,2022,97,94,2,1,0,0,0,120,8
+Montana,Lewis and Clark,2022,365,299,59,4,3,0,0,163,43
+Montana,Lincoln,2022,365,228,131,4,2,0,0,168,37
+Montana,Missoula,2022,365,207,143,11,4,0,0,179,45
+Montana,Phillips,2022,365,353,12,0,0,0,0,87,35
+Montana,Powder River,2022,365,311,51,3,0,0,0,108,38
+Montana,Powell,2022,114,107,6,1,0,0,0,104,9
+Montana,Ravalli,2022,363,316,35,2,8,2,0,238,20
+Montana,Richland,2022,361,344,17,0,0,0,0,76,37
+Montana,Roosevelt,2022,101,99,2,0,0,0,0,59,10
+Montana,Rosebud,2022,20,20,0,0,0,0,0,22,6
+Montana,Sanders,2022,365,318,42,2,3,0,0,178,28
+Montana,Sheridan,2022,89,86,3,0,0,0,0,62,12
+Montana,Silver Bow,2022,365,298,57,8,2,0,0,159,22
+Montana,Yellowstone,2022,365,339,24,1,1,0,0,154,24
+Nebraska,Cass,2022,356,337,19,0,0,0,0,87,19
+Nebraska,Douglas,2022,365,307,57,1,0,0,0,108,40
+Nebraska,Gage,2022,278,268,10,0,0,0,0,78,17
+Nebraska,Hall,2022,350,331,19,0,0,0,0,81,20
+Nebraska,Knox,2022,355,319,36,0,0,0,0,100,37
+Nebraska,Lancaster,2022,277,267,10,0,0,0,0,61,37
+Nebraska,Sarpy,2022,331,308,23,0,0,0,0,93,24
+Nebraska,Scotts Bluff,2022,339,334,5,0,0,0,0,77,12
+Nebraska,Thomas,2022,89,89,0,0,0,0,0,47,13
+Nebraska,Washington,2022,299,290,9,0,0,0,0,60,14
+Nevada,Carson City,2022,364,310,45,5,3,1,0,202,43
+Nevada,Churchill,2022,349,330,19,0,0,0,0,100,39
+Nevada,Clark,2022,365,104,235,20,3,1,2,482,63
+Nevada,Douglas,2022,356,319,31,1,5,0,0,183,15
+Nevada,Elko,2022,363,341,20,2,0,0,0,149,18
+Nevada,Lyon,2022,355,329,25,1,0,0,0,105,39
+Nevada,Nye,2022,358,306,41,6,4,1,0,294,22
+Nevada,Washoe,2022,365,229,127,1,6,2,0,234,47
+Nevada,White Pine,2022,346,291,55,0,0,0,0,87,44
+New Hampshire,Belknap,2022,358,349,9,0,0,0,0,64,29
+New Hampshire,Cheshire,2022,365,331,34,0,0,0,0,81,34
+New Hampshire,Coos,2022,359,350,9,0,0,0,0,64,40
+New Hampshire,Grafton,2022,365,354,11,0,0,0,0,84,34
+New Hampshire,Hillsborough,2022,365,341,24,0,0,0,0,100,39
+New Hampshire,Merrimack,2022,212,205,7,0,0,0,0,84,36
+New Hampshire,Rockingham,2022,365,324,39,2,0,0,0,122,38
+New Jersey,Atlantic,2022,365,346,18,0,1,0,0,176,33
+New Jersey,Bergen,2022,365,304,61,0,0,0,0,90,38
+New Jersey,Camden,2022,365,271,93,1,0,0,0,108,43
+New Jersey,Cumberland,2022,362,334,28,0,0,0,0,84,36
+New Jersey,Essex,2022,269,213,56,0,0,0,0,97,40
+New Jersey,Gloucester,2022,288,227,58,3,0,0,0,126,41
+New Jersey,Hudson,2022,365,290,73,2,0,0,0,115,39
+New Jersey,Hunterdon,2022,364,296,68,0,0,0,0,93,39
+New Jersey,Mercer,2022,365,293,69,3,0,0,0,119,41
+New Jersey,Middlesex,2022,365,310,54,1,0,0,0,101,38
+New Jersey,Monmouth,2022,248,226,20,1,1,0,0,161,38
+New Jersey,Morris,2022,360,330,30,0,0,0,0,84,35
+New Jersey,Ocean,2022,358,312,43,3,0,0,0,105,37
+New Jersey,Passaic,2022,304,279,25,0,0,0,0,89,36
+New Jersey,Union,2022,365,260,105,0,0,0,0,80,40
+New Jersey,Warren,2022,363,299,64,0,0,0,0,85,37
+New Mexico,Bernalillo,2022,365,104,228,28,2,1,2,792,60
+New Mexico,Catron,2022,114,113,1,0,0,0,0,61,9
+New Mexico,Chaves,2022,121,117,4,0,0,0,0,59,20
+New Mexico,Dona Ana,2022,365,181,155,24,1,2,2,375,51
+New Mexico,Eddy,2022,365,209,128,27,1,0,0,151,48
+New Mexico,Lea,2022,365,262,98,5,0,0,0,126,44
+New Mexico,Lincoln,2022,109,108,1,0,0,0,0,77,12
+New Mexico,Los Alamos,2022,118,114,3,1,0,0,0,103,10
+New Mexico,Luna,2022,358,317,32,6,2,0,1,775,17
+New Mexico,Rio Arriba,2022,331,305,25,1,0,0,0,105,40
+New Mexico,San Juan,2022,365,238,116,9,1,1,0,220,45
+New Mexico,Sandoval,2022,360,295,64,1,0,0,0,101,43
+New Mexico,Santa Fe,2022,365,291,74,0,0,0,0,97,44
+New Mexico,Socorro,2022,115,112,3,0,0,0,0,68,11
+New Mexico,Taos,2022,359,340,19,0,0,0,0,84,14
+New Mexico,Valencia,2022,361,317,44,0,0,0,0,93,41
+New York,Albany,2022,365,323,42,0,0,0,0,87,36
+New York,Bronx,2022,365,290,74,1,0,0,0,101,40
+New York,Chautauqua,2022,355,329,22,4,0,0,0,140,36
+New York,Dutchess,2022,341,321,20,0,0,0,0,97,35
+New York,Erie,2022,365,295,68,2,0,0,0,150,39
+New York,Essex,2022,365,348,15,2,0,0,0,115,40
+New York,Hamilton,2022,350,345,5,0,0,0,0,71,34
+New York,Jefferson,2022,360,352,8,0,0,0,0,84,32
+New York,Kings,2022,364,305,59,0,0,0,0,83,32
+New York,Monroe,2022,365,313,50,2,0,0,0,126,37
+New York,Nassau,2022,361,349,12,0,0,0,0,64,22
+New York,New York,2022,365,287,77,1,0,0,0,105,38
+New York,Niagara,2022,358,339,18,1,0,0,0,133,35
+New York,Oneida,2022,332,321,11,0,0,0,0,81,20
+New York,Onondaga,2022,365,353,12,0,0,0,0,67,35
+New York,Orange,2022,363,336,27,0,0,0,0,69,33
+New York,Oswego,2022,354,349,5,0,0,0,0,58,32
+New York,Putnam,2022,333,311,22,0,0,0,0,100,34
+New York,Queens,2022,365,275,87,3,0,0,0,126,41
+New York,Richmond,2022,365,321,43,1,0,0,0,105,36
+New York,Rockland,2022,365,337,28,0,0,0,0,90,35
+New York,Saratoga,2022,362,354,8,0,0,0,0,74,32
+New York,Steuben,2022,365,348,17,0,0,0,0,67,35
+New York,Suffolk,2022,365,311,46,8,0,0,0,133,40
+New York,Tompkins,2022,361,349,12,0,0,0,0,67,36
+New York,Wayne,2022,343,333,9,1,0,0,0,101,33
+New York,Westchester,2022,365,324,41,0,0,0,0,100,36
+North Carolina,Alexander,2022,300,280,20,0,0,0,0,90,37
+North Carolina,Avery,2022,321,300,21,0,0,0,0,77,38
+North Carolina,Buncombe,2022,365,346,19,0,0,0,0,74,35
+North Carolina,Caldwell,2022,245,224,21,0,0,0,0,74,40
+North Carolina,Carteret,2022,359,346,13,0,0,0,0,77,35
+North Carolina,Caswell,2022,264,253,11,0,0,0,0,64,39
+North Carolina,Catawba,2022,355,307,48,0,0,0,0,78,33
+North Carolina,Cumberland,2022,360,298,61,1,0,0,0,115,41
+North Carolina,Davidson,2022,354,287,67,0,0,0,0,84,35
+North Carolina,Durham,2022,365,339,26,0,0,0,0,93,38
+North Carolina,Edgecombe,2022,356,337,19,0,0,0,0,93,35
+North Carolina,Forsyth,2022,365,281,83,1,0,0,0,137,43
+North Carolina,Graham,2022,244,200,41,3,0,0,0,112,43
+North Carolina,Granville,2022,244,223,20,1,0,0,0,112,42
+North Carolina,Guilford,2022,365,286,79,0,0,0,0,84,42
+North Carolina,Haywood,2022,280,235,44,1,0,0,0,108,43
+North Carolina,Hyde,2022,115,113,2,0,0,0,0,56,16
+North Carolina,Johnston,2022,365,329,35,1,0,0,0,140,37
+North Carolina,Lenoir,2022,241,217,23,1,0,0,0,108,39
+North Carolina,Lincoln,2022,243,202,40,1,0,0,0,108,43
+North Carolina,Macon,2022,360,349,11,0,0,0,0,97,31
+North Carolina,Martin,2022,289,282,7,0,0,0,0,80,34
+North Carolina,Mecklenburg,2022,365,270,93,2,0,0,0,119,44
+North Carolina,Mitchell,2022,346,335,11,0,0,0,0,65,23
+North Carolina,Montgomery,2022,363,312,51,0,0,0,0,80,39
+North Carolina,New Hanover,2022,361,335,26,0,0,0,0,80,36
+North Carolina,Northampton,2022,362,338,24,0,0,0,0,67,25
+North Carolina,Person,2022,243,229,14,0,0,0,0,90,40
+North Carolina,Pitt,2022,365,345,20,0,0,0,0,97,34
+North Carolina,Rockingham,2022,239,219,20,0,0,0,0,80,41
+North Carolina,Rowan,2022,364,298,66,0,0,0,0,87,43
+North Carolina,Swain,2022,365,326,39,0,0,0,0,87,37
+North Carolina,Union,2022,244,218,26,0,0,0,0,100,41
+North Carolina,Wake,2022,365,293,71,1,0,0,0,122,42
+North Carolina,Yancey,2022,242,200,42,0,0,0,0,93,44
+North Dakota,Billings,2022,363,349,14,0,0,0,0,76,37
+North Dakota,Burke,2022,363,336,27,0,0,0,0,77,37
+North Dakota,Burleigh,2022,365,307,58,0,0,0,0,99,32
+North Dakota,Cass,2022,365,313,51,1,0,0,0,111,36
+North Dakota,Dunn,2022,362,337,25,0,0,0,0,80,36
+North Dakota,McKenzie,2022,331,317,14,0,0,0,0,72,34
+North Dakota,Mercer,2022,365,346,19,0,0,0,0,71,34
+North Dakota,Oliver,2022,364,311,53,0,0,0,0,85,38
+North Dakota,Ward,2022,359,342,17,0,0,0,0,77,35
+Ohio,Allen,2022,365,312,53,0,0,0,0,97,38
+Ohio,Ashtabula,2022,239,211,23,5,0,0,0,133,38
+Ohio,Athens,2022,119,116,3,0,0,0,0,63,20
+Ohio,Belmont,2022,360,349,11,0,0,0,0,61,15
+Ohio,Butler,2022,365,224,137,4,0,0,0,119,45
+Ohio,Clark,2022,338,259,78,1,0,0,0,129,41
+Ohio,Clermont,2022,360,300,59,1,0,0,0,129,39
+Ohio,Clinton,2022,245,216,28,1,0,0,0,140,40
+Ohio,Columbiana,2022,61,61,0,0,0,0,0,40,12
+Ohio,Cuyahoga,2022,365,216,141,6,2,0,0,156,45
+Ohio,Delaware,2022,244,230,14,0,0,0,0,100,37
+Ohio,Fayette,2022,128,126,2,0,0,0,0,64,35
+Ohio,Franklin,2022,365,274,89,2,0,0,0,143,42
+Ohio,Geauga,2022,239,210,27,2,0,0,0,119,40
+Ohio,Greene,2022,242,209,32,1,0,0,0,119,40
+Ohio,Hamilton,2022,365,210,151,3,1,0,0,151,47
+Ohio,Harrison,2022,42,39,3,0,0,0,0,67,25
+Ohio,Jefferson,2022,365,234,131,0,0,0,0,97,45
+Ohio,Knox,2022,245,225,19,1,0,0,0,119,39
+Ohio,Lake,2022,365,310,51,4,0,0,0,150,38
+Ohio,Lawrence,2022,361,309,52,0,0,0,0,74,38
+Ohio,Licking,2022,245,226,17,2,0,0,0,115,39
+Ohio,Lorain,2022,243,228,14,1,0,0,0,115,35
+Ohio,Lucas,2022,362,295,62,5,0,0,0,119,39
+Ohio,Madison,2022,244,218,26,0,0,0,0,90,39
+Ohio,Mahoning,2022,349,278,68,3,0,0,0,129,40
+Ohio,Medina,2022,362,309,51,2,0,0,0,126,38
+Ohio,Miami,2022,245,214,29,2,0,0,0,122,39
+Ohio,Montgomery,2022,365,266,97,2,0,0,0,126,41
+Ohio,Noble,2022,353,322,31,0,0,0,0,93,37
+Ohio,Portage,2022,282,238,40,3,1,0,0,159,40
+Ohio,Preble,2022,365,294,69,2,0,0,0,136,40
+Ohio,Scioto,2022,365,351,14,0,0,0,0,71,17
+Ohio,Stark,2022,365,274,89,2,0,0,0,136,43
+Ohio,Summit,2022,362,280,79,3,0,0,0,133,40
+Ohio,Trumbull,2022,360,301,57,2,0,0,0,136,39
+Ohio,Warren,2022,356,287,66,3,0,0,0,133,40
+Ohio,Washington,2022,245,222,23,0,0,0,0,84,39
+Ohio,Wood,2022,242,220,22,0,0,0,0,97,38
+Oklahoma,Adair,2022,361,311,46,4,0,0,0,122,41
+Oklahoma,Canadian,2022,284,218,63,3,0,0,0,108,43
+Oklahoma,Carter,2022,343,310,32,0,1,0,0,157,28
+Oklahoma,Cleveland,2022,348,230,114,4,0,0,0,105,44
+Oklahoma,Comanche,2022,353,252,99,2,0,0,0,126,44
+Oklahoma,Creek,2022,279,220,57,2,0,0,0,112,43
+Oklahoma,Dewey,2022,346,249,94,3,0,0,0,129,43
+Oklahoma,Grant,2022,119,116,3,0,0,0,0,70,21
+Oklahoma,Kay,2022,361,310,51,0,0,0,0,92,32
+Oklahoma,Kiowa,2022,259,187,70,2,0,0,0,115,44
+Oklahoma,Love,2022,281,196,77,8,0,0,0,150,45
+Oklahoma,Mayes,2022,266,246,19,1,0,0,0,112,39
+Oklahoma,McClain,2022,278,204,71,3,0,0,0,119,45
+Oklahoma,Nowata,2022,349,171,171,7,0,0,0,139,51
+Oklahoma,Oklahoma,2022,365,223,136,6,0,0,0,129,47
+Oklahoma,Osage,2022,292,221,64,5,2,0,0,172,44
+Oklahoma,Ottawa,2022,365,225,129,6,4,1,0,238,45
+Oklahoma,Pittsburg,2022,348,269,75,4,0,0,0,139,42
+Oklahoma,Pontotoc,2022,152,139,12,1,0,0,0,101,36
+Oklahoma,Sequoyah,2022,364,319,43,2,0,0,0,122,38
+Oklahoma,Tulsa,2022,365,225,128,10,2,0,0,185,47
+Oregon,Baker,2022,365,320,42,3,0,0,0,124,24
+Oregon,Benton,2022,206,195,11,0,0,0,0,64,15
+Oregon,Clackamas,2022,364,311,48,3,2,0,0,164,30
+Oregon,Columbia,2022,362,326,33,1,2,0,0,159,27
+Oregon,Crook,2022,359,320,37,2,0,0,0,128,18
+Oregon,Deschutes,2022,365,312,47,2,4,0,0,189,18
+Oregon,Douglas,2022,46,31,15,0,0,0,0,64,42
+Oregon,Grant,2022,365,246,118,1,0,0,0,108,35
+Oregon,Harney,2022,365,272,91,2,0,0,0,114,30
+Oregon,Jackson,2022,365,264,93,5,3,0,0,161,39
+Oregon,Jefferson,2022,365,305,59,1,0,0,0,108,19
+Oregon,Josephine,2022,365,244,106,8,6,1,0,227,29
+Oregon,Klamath,2022,365,267,94,2,2,0,0,160,29
+Oregon,Lake,2022,365,304,57,4,0,0,0,129,19
+Oregon,Lane,2022,365,227,99,5,15,9,10,385,38
+Oregon,Linn,2022,365,296,67,2,0,0,0,127,25
+Oregon,Marion,2022,365,278,80,5,2,0,0,164,33
+Oregon,Multnomah,2022,365,299,61,3,2,0,0,161,34
+Oregon,Umatilla,2022,365,291,71,3,0,0,0,141,37
+Oregon,Union,2022,361,321,36,4,0,0,0,130,21
+Oregon,Wallowa,2022,343,304,31,3,5,0,0,183,20
+Oregon,Wasco,2022,161,161,0,0,0,0,0,38,12
+Oregon,Washington,2022,365,275,87,1,2,0,0,161,32
+Pennsylvania,Adams,2022,365,292,73,0,0,0,0,97,41
+Pennsylvania,Allegheny,2022,365,186,168,10,1,0,0,151,49
+Pennsylvania,Armstrong,2022,365,268,95,2,0,0,0,122,41
+Pennsylvania,Beaver,2022,364,245,118,1,0,0,0,112,44
+Pennsylvania,Berks,2022,365,285,78,2,0,0,0,101,41
+Pennsylvania,Blair,2022,363,296,67,0,0,0,0,97,39
+Pennsylvania,Bradford,2022,303,279,24,0,0,0,0,80,37
+Pennsylvania,Bucks,2022,237,196,39,2,0,0,0,119,41
+Pennsylvania,Cambria,2022,363,252,110,1,0,0,0,119,43
+Pennsylvania,Centre,2022,365,309,56,0,0,0,0,88,40
+Pennsylvania,Chester,2022,364,307,57,0,0,0,0,80,37
+Pennsylvania,Clearfield,2022,219,215,4,0,0,0,0,97,35
+Pennsylvania,Cumberland,2022,360,292,67,1,0,0,0,113,33
+Pennsylvania,Dauphin,2022,365,263,99,3,0,0,0,127,42
+Pennsylvania,Delaware,2022,365,278,87,0,0,0,0,94,39
+Pennsylvania,Elk,2022,363,353,9,1,0,0,0,101,35
+Pennsylvania,Erie,2022,365,325,40,0,0,0,0,90,34
+Pennsylvania,Fayette,2022,302,259,43,0,0,0,0,87,40
+Pennsylvania,Franklin,2022,237,225,12,0,0,0,0,84,39
+Pennsylvania,Greene,2022,294,260,34,0,0,0,0,100,38
+Pennsylvania,Indiana,2022,365,328,36,1,0,0,0,105,38
+Pennsylvania,Lackawanna,2022,363,315,48,0,0,0,0,71,38
+Pennsylvania,Lancaster,2022,365,153,205,6,1,0,0,152,54
+Pennsylvania,Lawrence,2022,243,223,18,2,0,0,0,126,37
+Pennsylvania,Lebanon,2022,364,289,73,2,0,0,0,108,38
+Pennsylvania,Lehigh,2022,359,295,64,0,0,0,0,99,38
+Pennsylvania,Luzerne,2022,235,224,11,0,0,0,0,74,37
+Pennsylvania,Lycoming,2022,304,271,33,0,0,0,0,78,38
+Pennsylvania,Mercer,2022,365,324,38,3,0,0,0,136,38
+Pennsylvania,Monroe,2022,202,184,18,0,0,0,0,93,39
+Pennsylvania,Montgomery,2022,362,289,72,1,0,0,0,108,40
+Pennsylvania,Northampton,2022,358,262,94,2,0,0,0,118,42
+Pennsylvania,Philadelphia,2022,365,228,133,4,0,0,0,113,46
+Pennsylvania,Somerset,2022,360,351,9,0,0,0,0,90,34
+Pennsylvania,Susquehanna,2022,279,267,12,0,0,0,0,63,25
+Pennsylvania,Tioga,2022,302,278,24,0,0,0,0,77,37
+Pennsylvania,Washington,2022,365,261,104,0,0,0,0,87,44
+Pennsylvania,Westmoreland,2022,304,268,36,0,0,0,0,73,35
+Pennsylvania,Wyoming,2022,270,258,12,0,0,0,0,60,26
+Pennsylvania,York,2022,365,277,87,1,0,0,0,105,42
+Puerto Rico,Bayamon,2022,358,345,13,0,0,0,0,75,14
+Puerto Rico,Caguas,2022,307,291,14,0,0,2,0,231,9
+Puerto Rico,Catano,2022,309,251,58,0,0,0,0,84,28
+Puerto Rico,Fajardo,2022,84,76,8,0,0,0,0,75,19
+Puerto Rico,Guayama,2022,67,65,2,0,0,0,0,63,14
+Puerto Rico,Guaynabo,2022,94,85,9,0,0,0,0,77,22
+Puerto Rico,Mayagnez,2022,321,280,36,4,1,0,0,154,31
+Puerto Rico,Ponce,2022,295,271,24,0,0,0,0,99,16
+Rhode Island,Kent,2022,358,341,17,0,0,0,0,100,31
+Rhode Island,Providence,2022,365,309,55,1,0,0,0,108,38
+Rhode Island,Washington,2022,356,323,29,3,1,0,0,164,34
+South Carolina,Aiken,2022,271,246,25,0,0,0,0,87,37
+South Carolina,Anderson,2022,246,230,16,0,0,0,0,74,39
+South Carolina,Berkeley,2022,234,221,13,0,0,0,0,80,36
+South Carolina,Charleston,2022,365,299,66,0,0,0,0,84,39
+South Carolina,Chesterfield,2022,343,305,38,0,0,0,0,97,36
+South Carolina,Darlington,2022,265,249,16,0,0,0,0,84,36
+South Carolina,Edgefield,2022,364,322,42,0,0,0,0,71,38
+South Carolina,Florence,2022,333,282,51,0,0,0,0,76,33
+South Carolina,Greenville,2022,365,253,112,0,0,0,0,97,43
+South Carolina,Horry,2022,263,247,16,0,0,0,0,93,38
+South Carolina,Lexington,2022,363,331,32,0,0,0,0,72,29
+South Carolina,Richland,2022,365,321,44,0,0,0,0,93,39
+South Carolina,Spartanburg,2022,363,280,83,0,0,0,0,87,43
+South Carolina,York,2022,363,301,61,1,0,0,0,126,39
+South Dakota,Brookings,2022,364,323,41,0,0,0,0,87,35
+South Dakota,Brown,2022,350,332,18,0,0,0,0,93,20
+South Dakota,Clay,2022,365,342,23,0,0,0,0,87,36
+South Dakota,Codington,2022,365,311,53,1,0,0,0,101,37
+South Dakota,Custer,2022,362,303,57,2,0,0,0,130,41
+South Dakota,Hughes,2022,362,357,5,0,0,0,0,58,5
+South Dakota,Jackson,2022,365,317,48,0,0,0,0,97,39
+South Dakota,Meade,2022,364,347,17,0,0,0,0,71,39
+South Dakota,Minnehaha,2022,365,313,51,1,0,0,0,105,37
+South Dakota,Pennington,2022,363,257,104,2,0,0,0,116,33
+Tennessee,Anderson,2022,245,228,17,0,0,0,0,80,39
+Tennessee,Blount,2022,365,306,58,1,0,0,0,115,42
+Tennessee,Claiborne,2022,363,355,8,0,0,0,0,74,34
+Tennessee,Davidson,2022,365,240,123,2,0,0,0,143,43
+Tennessee,DeKalb,2022,359,348,11,0,0,0,0,100,35
+Tennessee,Dyer,2022,356,322,33,1,0,0,0,102,29
+Tennessee,Hamilton,2022,341,242,98,1,0,0,0,105,43
+Tennessee,Jefferson,2022,244,219,25,0,0,0,0,87,41
+Tennessee,Knox,2022,365,267,98,0,0,0,0,74,41
+Tennessee,Lawrence,2022,351,337,14,0,0,0,0,80,20
+Tennessee,Loudon,2022,365,342,23,0,0,0,0,77,34
+Tennessee,Madison,2022,359,315,43,1,0,0,0,102,30
+Tennessee,Maury,2022,344,325,19,0,0,0,0,79,25
+Tennessee,McMinn,2022,357,325,32,0,0,0,0,70,30
+Tennessee,Montgomery,2022,359,331,28,0,0,0,0,85,27
+Tennessee,Putnam,2022,347,334,13,0,0,0,0,79,24
+Tennessee,Roane,2022,340,318,21,0,1,0,0,159,27
+Tennessee,Sevier,2022,362,314,48,0,0,0,0,93,42
+Tennessee,Shelby,2022,365,267,88,8,2,0,0,159,42
+Tennessee,Sullivan,2022,364,331,33,0,0,0,0,87,36
+Tennessee,Sumner,2022,358,299,58,1,0,0,0,147,38
+Tennessee,Williamson,2022,244,209,33,2,0,0,0,122,41
+Tennessee,Wilson,2022,242,221,20,1,0,0,0,122,39
+Texas,Atascosa,2022,356,285,69,2,0,0,0,115,33
+Texas,Bell,2022,365,272,90,3,0,0,0,129,43
+Texas,Bexar,2022,365,192,160,12,1,0,0,194,49
+Texas,Bowie,2022,349,254,95,0,0,0,0,99,41
+Texas,Brazoria,2022,365,311,46,8,0,0,0,119,35
+Texas,Brazos,2022,345,316,29,0,0,0,0,93,30
+Texas,Brewster,2022,357,300,57,0,0,0,0,87,41
+Texas,Cameron,2022,365,259,103,3,0,0,0,120,42
+Texas,Collin,2022,359,289,63,7,0,0,0,143,40
+Texas,Culberson,2022,175,111,60,4,0,0,0,119,32
+Texas,Dallas,2022,365,235,113,17,0,0,0,148,45
+Texas,Denton,2022,365,231,114,19,1,0,0,187,44
+Texas,Ector,2022,360,315,45,0,0,0,0,93,28
+Texas,El Paso,2022,365,134,211,19,1,0,0,163,54
+Texas,Ellis,2022,364,327,37,0,0,0,0,97,37
+Texas,Galveston,2022,365,287,71,6,1,0,0,159,40
+Texas,Gregg,2022,365,329,35,1,0,0,0,143,35
+Texas,Harris,2022,365,128,210,22,5,0,0,179,55
+Texas,Harrison,2022,328,237,86,4,1,0,0,173,43
+Texas,Hidalgo,2022,365,264,98,3,0,0,0,136,41
+Texas,Hood,2022,360,295,54,11,0,0,0,150,38
+Texas,Hunt,2022,358,330,28,0,0,0,0,97,36
+Texas,Jefferson,2022,365,275,85,5,0,0,0,129,43
+Texas,Johnson,2022,362,281,67,13,1,0,0,156,41
+Texas,Karnes,2022,349,349,0,0,0,0,0,34,6
+Texas,Kaufman,2022,365,288,74,3,0,0,0,112,42
+Texas,Kleberg,2022,347,254,89,4,0,0,0,133,35
+Texas,Lubbock,2022,347,321,24,2,0,0,0,138,20
+Texas,Maverick,2022,349,297,51,1,0,0,0,107,27
+Texas,McLennan,2022,364,285,79,0,0,0,0,100,41
+Texas,Montgomery,2022,364,249,109,6,0,0,0,126,44
+Texas,Navarro,2022,364,287,76,1,0,0,0,101,42
+Texas,Nueces,2022,365,273,90,2,0,0,0,106,41
+Texas,Orange,2022,365,307,56,2,0,0,0,108,38
+Texas,Parker,2022,358,290,54,14,0,0,0,147,40
+Texas,Polk,2022,328,313,15,0,0,0,0,97,32
+Texas,Potter,2022,359,340,18,1,0,0,0,108,23
+Texas,Randall,2022,338,251,83,4,0,0,0,122,44
+Texas,Rockwall,2022,360,339,21,0,0,0,0,100,34
+Texas,Smith,2022,363,289,68,6,0,0,0,122,40
+Texas,Tarrant,2022,365,208,135,20,2,0,0,172,48
+Texas,Travis,2022,365,246,112,7,0,0,0,129,44
+Texas,Victoria,2022,354,342,12,0,0,0,0,74,30
+Texas,Webb,2022,361,276,83,2,0,0,0,114,35
+Texas,Wilson,2022,300,300,0,0,0,0,0,44,8
+Utah,Box Elder,2022,281,266,15,0,0,0,0,90,35
+Utah,Cache,2022,365,268,90,6,1,0,0,154,44
+Utah,Carbon,2022,364,326,38,0,0,0,0,74,42
+Utah,Davis,2022,365,232,123,10,0,0,0,147,44
+Utah,Duchesne,2022,365,231,130,3,1,0,0,177,47
+Utah,Garfield,2022,293,247,46,0,0,0,0,93,44
+Utah,Iron,2022,365,318,47,0,0,0,0,80,41
+Utah,Salt Lake,2022,365,184,159,22,0,0,0,147,50
+Utah,San Juan,2022,364,311,53,0,0,0,0,84,44
+Utah,Tooele,2022,365,267,92,6,0,0,0,119,43
+Utah,Uintah,2022,365,259,106,0,0,0,0,93,46
+Utah,Utah,2022,365,245,115,5,0,0,0,119,45
+Utah,Washington,2022,365,293,72,0,0,0,0,97,44
+Utah,Wayne,2022,122,121,1,0,0,0,0,57,9
+Utah,Weber,2022,365,228,132,5,0,0,0,121,45
+Vermont,Bennington,2022,365,349,16,0,0,0,0,74,35
+Vermont,Chittenden,2022,365,340,25,0,0,0,0,89,38
+Vermont,Rutland,2022,365,324,41,0,0,0,0,71,35
+Vermont,Windham,2022,71,71,0,0,0,0,0,33,8
+Virgin Islands,St Croix,2022,26,23,3,0,0,0,0,63,22
+Virgin Islands,St John,2022,120,107,13,0,0,0,0,76,15
+Virginia,Albemarle,2022,361,328,33,0,0,0,0,67,38
+Virginia,Arlington,2022,365,335,30,0,0,0,0,100,36
+Virginia,Bristol City,2022,116,112,4,0,0,0,0,62,24
+Virginia,Caroline,2022,243,236,7,0,0,0,0,67,36
+Virginia,Carroll,2022,56,56,0,0,0,0,0,23,7
+Virginia,Charles,2022,356,343,13,0,0,0,0,74,32
+Virginia,Chesterfield,2022,286,275,11,0,0,0,0,80,37
+Virginia,Fairfax,2022,365,309,56,0,0,0,0,87,40
+Virginia,Fauquier,2022,244,237,7,0,0,0,0,71,34
+Virginia,Frederick,2022,334,287,47,0,0,0,0,88,37
+Virginia,Giles,2022,358,329,29,0,0,0,0,100,38
+Virginia,Hampton City,2022,363,332,31,0,0,0,0,77,38
+Virginia,Hanover,2022,239,226,13,0,0,0,0,77,39
+Virginia,Henrico,2022,364,315,48,1,0,0,0,112,40
+Virginia,Hopewell City,2022,51,51,0,0,0,0,0,23,7
+Virginia,Loudoun,2022,364,338,24,2,0,0,0,112,36
+Virginia,Lynchburg City,2022,116,115,1,0,0,0,0,55,22
+Virginia,Madison,2022,358,335,23,0,0,0,0,93,40
+Virginia,Norfolk City,2022,361,358,3,0,0,0,0,62,17
+Virginia,Pittsylvania,2022,363,363,0,0,0,0,0,28,3
+Virginia,Prince Edward,2022,347,340,7,0,0,0,0,54,34
+Virginia,Prince William,2022,350,337,13,0,0,0,0,93,35
+Virginia,Richmond City,2022,365,330,35,0,0,0,0,63,33
+Virginia,Roanoke,2022,365,324,41,0,0,0,0,80,38
+Virginia,Rockbridge,2022,285,280,5,0,0,0,0,71,32
+Virginia,Rockingham,2022,365,354,11,0,0,0,0,74,34
+Virginia,Salem City,2022,121,116,5,0,0,0,0,62,25
+Virginia,Stafford,2022,362,351,11,0,0,0,0,74,35
+Virginia,Suffolk City,2022,245,234,10,1,0,0,0,115,38
+Virginia,Virginia Beach City,2022,109,103,6,0,0,0,0,63,25
+Virginia,Wythe,2022,245,232,13,0,0,0,0,77,39
+Washington,Adams,2022,365,336,25,2,2,0,0,159,14
+Washington,Asotin,2022,358,248,103,3,4,0,0,187,34
+Washington,Benton,2022,365,305,57,2,1,0,0,151,36
+Washington,Chelan,2022,365,287,55,8,13,2,0,265,25
+Washington,Clallam,2022,365,322,41,2,0,0,0,124,35
+Washington,Clark,2022,365,295,65,2,3,0,0,169,32
+Washington,Columbia,2022,365,336,25,4,0,0,0,135,36
+Washington,Cowlitz,2022,363,335,26,2,0,0,0,144,16
+Washington,Franklin,2022,328,299,26,0,3,0,0,165,18
+Washington,Garfield,2022,301,281,16,2,2,0,0,159,15
+Washington,Grant,2022,365,315,47,0,3,0,0,161,23
+Washington,Grays Harbor,2022,365,356,8,1,0,0,0,112,16
+Washington,Jefferson,2022,349,338,11,0,0,0,0,89,16
+Washington,King,2022,365,260,86,14,4,1,0,212,38
+Washington,Kitsap,2022,359,328,28,3,0,0,0,143,21
+Washington,Kittitas,2022,364,281,78,3,2,0,0,161,21
+Washington,Klickitat,2022,117,110,7,0,0,0,0,95,14
+Washington,Lewis,2022,365,310,45,7,3,0,0,186,19
+Washington,Mason,2022,365,323,39,3,0,0,0,125,17
+Washington,Okanogan,2022,365,227,133,4,0,1,0,224,39
+Washington,Pend Oreille,2022,234,225,9,0,0,0,0,78,20
+Washington,Pierce,2022,365,281,73,9,2,0,0,171,43
+Washington,Skagit,2022,365,339,21,4,1,0,0,175,29
+Washington,Snohomish,2022,362,256,83,13,6,3,1,306,30
+Washington,Spokane,2022,365,293,66,3,3,0,0,176,38
+Washington,Stevens,2022,365,253,104,7,1,0,0,152,34
+Washington,Thurston,2022,348,327,18,1,2,0,0,155,24
+Washington,Walla Walla,2022,365,313,49,2,1,0,0,151,20
+Washington,Whatcom,2022,343,310,24,3,5,1,0,218,31
+Washington,Whitman,2022,365,329,32,0,4,0,0,180,18
+Washington,Yakima,2022,365,233,126,5,1,0,0,156,38
+West Virginia,Berkeley,2022,275,252,23,0,0,0,0,87,37
+West Virginia,Brooke,2022,363,351,12,0,0,0,0,73,17
+West Virginia,Cabell,2022,282,260,22,0,0,0,0,93,37
+West Virginia,Gilmer,2022,110,108,2,0,0,0,0,71,37
+West Virginia,Greenbrier,2022,240,236,4,0,0,0,0,71,34
+West Virginia,Hancock,2022,365,334,31,0,0,0,0,100,33
+West Virginia,Harrison,2022,113,106,7,0,0,0,0,64,25
+West Virginia,Kanawha,2022,353,315,38,0,0,0,0,90,37
+West Virginia,Marion,2022,117,107,10,0,0,0,0,69,27
+West Virginia,Marshall,2022,361,250,111,0,0,0,0,99,40
+West Virginia,Monongalia,2022,280,264,16,0,0,0,0,77,36
+West Virginia,Ohio,2022,283,266,17,0,0,0,0,66,35
+West Virginia,Tucker,2022,364,352,12,0,0,0,0,77,35
+West Virginia,Wood,2022,281,258,22,1,0,0,0,108,37
+Wisconsin,Ashland,2022,364,347,17,0,0,0,0,74,34
+Wisconsin,Brown,2022,359,313,44,2,0,0,0,112,35
+Wisconsin,Columbia,2022,202,191,11,0,0,0,0,80,38
+Wisconsin,Dane,2022,365,300,65,0,0,0,0,90,38
+Wisconsin,Dodge,2022,365,313,52,0,0,0,0,93,38
+Wisconsin,Door,2022,205,176,24,5,0,0,0,147,36
+Wisconsin,Eau Claire,2022,365,318,47,0,0,0,0,79,36
+Wisconsin,Fond du Lac,2022,203,193,9,1,0,0,0,108,36
+Wisconsin,Forest,2022,363,337,26,0,0,0,0,74,36
+Wisconsin,Grant,2022,359,310,49,0,0,0,0,77,30
+Wisconsin,Jackson,2022,359,339,19,1,0,0,0,118,23
+Wisconsin,Jefferson,2022,200,185,15,0,0,0,0,87,38
+Wisconsin,Kenosha,2022,365,279,81,4,1,0,0,164,40
+Wisconsin,Kewaunee,2022,201,172,25,3,1,0,0,161,39
+Wisconsin,La Crosse,2022,365,320,45,0,0,0,0,83,35
+Wisconsin,Manitowoc,2022,198,167,25,4,2,0,0,182,38
+Wisconsin,Marathon,2022,205,197,8,0,0,0,0,64,35
+Wisconsin,Milwaukee,2022,365,250,109,6,0,0,0,143,43
+Wisconsin,Monroe,2022,364,337,26,1,0,0,0,132,24
+Wisconsin,Outagamie,2022,365,305,59,1,0,0,0,122,38
+Wisconsin,Ozaukee,2022,307,257,45,4,1,0,0,159,38
+Wisconsin,Racine,2022,202,165,34,2,1,0,0,164,40
+Wisconsin,Rock,2022,202,184,18,0,0,0,0,97,39
+Wisconsin,Sauk,2022,360,315,45,0,0,0,0,76,36
+Wisconsin,Sheboygan,2022,203,172,24,6,1,0,0,177,40
+Wisconsin,Taylor,2022,365,338,27,0,0,0,0,75,35
+Wisconsin,Vilas,2022,363,340,23,0,0,0,0,67,30
+Wisconsin,Walworth,2022,200,181,16,3,0,0,0,105,39
+Wisconsin,Waukesha,2022,363,279,80,4,0,0,0,126,40
+Wyoming,Albany,2022,365,226,135,2,2,0,0,159,48
+Wyoming,Big Horn,2022,362,356,6,0,0,0,0,64,38
+Wyoming,Campbell,2022,365,212,144,7,1,0,1,576,48
+Wyoming,Carbon,2022,361,361,0,0,0,0,0,27,9
+Wyoming,Converse,2022,365,314,51,0,0,0,0,90,40
+Wyoming,Fremont,2022,365,285,80,0,0,0,0,100,45
+Wyoming,Johnson,2022,365,350,14,1,0,0,0,101,39
+Wyoming,Laramie,2022,363,304,59,0,0,0,0,90,42
+Wyoming,Lincoln,2022,365,323,41,1,0,0,0,118,43
+Wyoming,Natrona,2022,365,320,45,0,0,0,0,97,42
+Wyoming,Park,2022,344,336,8,0,0,0,0,81,15
+Wyoming,Platte,2022,355,311,29,8,3,0,4,673,17
+Wyoming,Sheridan,2022,365,312,53,0,0,0,0,88,42
+Wyoming,Sublette,2022,365,306,58,1,0,0,0,105,44
+Wyoming,Sweetwater,2022,365,286,77,1,1,0,0,157,44
+Wyoming,Teton,2022,365,344,21,0,0,0,0,100,42
+Wyoming,Uinta,2022,365,363,2,0,0,0,0,55,7
+Wyoming,Weston,2022,363,344,19,0,0,0,0,64,40

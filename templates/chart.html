@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chart</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"></script>
+    <style>
+        body {
+            opacity: 0;
+            transition: opacity 1s ease-in-out;
+            font-family: calibri, sans-serif;
+            background-color: rgb(140, 205, 255);
+            overflow: hidden;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        canvas {
+            max-width: 100%;
+            height: auto;
+        }
+
+        body.loaded {
+            opacity: 1;
+        }
+
+        .logo-container {
+            position: absolute;
+            top: 40px;
+            right: 40px;
+            width: 200px;
+            height: 200px;
+            background-color: rgba(0, 0, 0, 0.384); 
+            border-radius: 50%; 
+            z-index: 1001; 
+            display: flex; 
+            justify-content: center; 
+            align-items: center;
+        }
+        .logo-container img {
+            width: 90%;
+            height: 90%;
+            display: block;
+            margin: 0 auto;
+            object-fit: cover; 
+            border-radius: 50%;
+            border: 5px solid #ffffff;
+        }
+        .text-center {
+            font-size: 30px;
+            text-align: center;
+        }
+        .button-container {
+            margin-top: 20px;
+            text-align: center;
+        }
+        #myChartContainer {
+            background-color: #ffffff;
+            border: 4px solid #13375e;
+            border-radius: 10px;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="logo-container">
+        <img src="/static/fullLogo.png" alt="AirWatch Logo">
+    </div>
+    <div class="container mt-5">
+        <p class="text-center"><b>Air Quality Chart for {{ chart_data2.county_name }} County, {{ chart_data2.state_name }}</b></p>
+        <p class="text-center">GEOID: {{geoid}}</p>
+
+        <div id="myChartContainer" class="mt-5">
+            <canvas id="myChart"></canvas>
+        </div>
+    </div>
+    <div class="button-container mt-5">
+        <button type="button" class="btn btn-primary" onclick="window.location.href='http://127.0.0.1:5000/'">Back to Main Page</button>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            document.body.classList.add('loaded');
+        });
+
+        document.addEventListener('DOMContentLoaded', function () {
+            let ctx = document.getElementById('myChart').getContext('2d');
+            let chartData = {{ chart_data|tojson }};
+            
+            let myChart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: chartData.years,
+                    datasets: [{
+                        label: 'Max AQI',
+                        data: chartData.max_aqi_values,
+                        borderColor: 'rgba(75, 192, 192, 1)',
+                        backgroundColor: 'rgba(75, 192, 192, 0.1)',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    scales: {
+                        x: {
+                            display: true,
+                            title: {
+                                display: true,
+                                text: 'Years',
+                                color: '#333',
+                                font: {
+                                    size: 16,
+                                    weight: 'bold'
+                                }
+                            }
+                        },
+                        y: {
+                            display: true,
+                            title: {
+                                display: true,
+                                text: 'Max AQI',
+                                color: '#333',
+                                font: {
+                                    size: 16,
+                                    weight: 'bold'
+                                }
+                            },
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+        });
+    </script>
+</body>
+</html>

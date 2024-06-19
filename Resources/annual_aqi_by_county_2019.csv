@@ -1,0 +1,1021 @@
+State,County,Year,Days with AQI,Good Days,Moderate Days,Unhealthy for Sensitive Groups Days,Unhealthy Days,Very Unhealthy Days,Hazardous Days,Max AQI,Median AQI
+Alabama,Baldwin,2019,271,237,34,0,0,0,0,80,37
+Alabama,Clay,2019,107,97,10,0,0,0,0,67,30
+Alabama,Colbert,2019,263,252,11,0,0,0,0,61,37
+Alabama,DeKalb,2019,361,324,37,0,0,0,0,90,39
+Alabama,Elmore,2019,228,208,20,0,0,0,0,100,39
+Alabama,Etowah,2019,279,232,47,0,0,0,0,90,43
+Alabama,Houston,2019,280,256,24,0,0,0,0,77,35
+Alabama,Jefferson,2019,365,160,192,13,0,0,0,150,53
+Alabama,Lawrence,2019,112,111,1,0,0,0,0,53,24
+Alabama,Madison,2019,361,255,106,0,0,0,0,93,44
+Alabama,Mobile,2019,352,246,106,0,0,0,0,80,43
+Alabama,Montgomery,2019,365,171,193,1,0,0,0,122,52
+Alabama,Morgan,2019,365,306,59,0,0,0,0,93,41
+Alabama,Russell,2019,363,268,95,0,0,0,0,84,40
+Alabama,Shelby,2019,244,202,39,3,0,0,0,119,42
+Alabama,Sumter,2019,354,328,26,0,0,0,0,64,33
+Alabama,Tuscaloosa,2019,264,240,24,0,0,0,0,87,35
+Alaska,Aleutians East ,2019,121,121,0,0,0,0,0,47,10
+Alaska,Anchorage ,2019,365,289,67,5,4,0,0,160,27
+Alaska,Bethel ,2019,317,304,11,1,1,0,0,176,10
+Alaska,Denali ,2019,360,356,4,0,0,0,0,80,36
+Alaska,Fairbanks North Star ,2019,365,230,96,18,16,1,4,377,38
+Alaska,Juneau ,2019,362,308,51,3,0,0,0,145,20
+Alaska,Kenai Peninsula ,2019,118,115,2,1,0,0,0,140,8
+Alaska,Matanuska-Susitna ,2019,361,295,63,3,0,0,0,127,19
+Alaska,North Slope ,2019,110,109,1,0,0,0,0,65,5
+Arizona,Apache,2019,359,358,1,0,0,0,0,59,10
+Arizona,Cochise,2019,365,266,99,0,0,0,0,97,45
+Arizona,Coconino,2019,365,289,76,0,0,0,0,80,45
+Arizona,Gila,2019,365,210,139,16,0,0,0,146,48
+Arizona,La Paz,2019,364,304,60,0,0,0,0,77,44
+Arizona,Maricopa,2019,365,66,261,38,0,0,0,147,65
+Arizona,Mohave,2019,365,358,7,0,0,0,0,69,14
+Arizona,Navajo,2019,365,294,70,1,0,0,0,112,44
+Arizona,Pima,2019,365,225,138,2,0,0,0,103,47
+Arizona,Pinal,2019,365,122,210,21,2,3,7,886,63
+Arizona,Santa Cruz,2019,362,280,80,2,0,0,0,120,31
+Arizona,Yavapai,2019,357,299,58,0,0,0,0,87,43
+Arizona,Yuma,2019,365,265,97,3,0,0,0,129,45
+Arkansas,Arkansas,2019,118,101,17,0,0,0,0,77,30
+Arkansas,Ashley,2019,120,103,17,0,0,0,0,67,33
+Arkansas,Benton,2019,146,120,26,0,0,0,0,83,35
+Arkansas,Clark,2019,355,347,8,0,0,0,0,67,32
+Arkansas,Craighead,2019,49,43,6,0,0,0,0,61,30
+Arkansas,Crittenden,2019,365,290,74,1,0,0,0,101,40
+Arkansas,Garland,2019,121,93,28,0,0,0,0,75,38
+Arkansas,Jackson,2019,117,102,15,0,0,0,0,74,34
+Arkansas,Newton,2019,365,347,18,0,0,0,0,90,36
+Arkansas,Polk,2019,361,312,48,1,0,0,0,119,39
+Arkansas,Pulaski,2019,365,235,130,0,0,0,0,79,45
+Arkansas,Union,2019,241,196,45,0,0,0,0,98,35
+Arkansas,Washington,2019,365,284,81,0,0,0,0,96,43
+California,Alameda,2019,365,260,97,8,0,0,0,150,41
+California,Amador,2019,355,308,45,2,0,0,0,115,39
+California,Butte,2019,365,224,136,3,2,0,0,173,46
+California,Calaveras,2019,360,299,60,1,0,0,0,108,42
+California,Colusa,2019,365,294,71,0,0,0,0,83,39
+California,Contra Costa,2019,365,292,69,4,0,0,0,129,40
+California,Del Norte,2019,248,236,12,0,0,0,0,71,20
+California,El Dorado,2019,365,273,86,6,0,0,0,122,43
+California,Fresno,2019,365,139,160,64,2,0,0,187,60
+California,Glenn,2019,362,302,60,0,0,0,0,86,40
+California,Humboldt,2019,363,353,10,0,0,0,0,65,27
+California,Imperial,2019,365,125,219,19,2,0,0,185,58
+California,Inyo,2019,365,232,121,6,2,1,3,638,47
+California,Kern,2019,365,119,151,87,6,1,1,548,67
+California,Kings,2019,365,152,172,37,2,0,2,507,56
+California,Lake,2019,360,360,0,0,0,0,0,50,31
+California,Los Angeles,2019,365,66,213,57,28,1,0,201,71
+California,Madera,2019,365,189,163,13,0,0,0,140,50
+California,Marin,2019,363,337,25,1,0,0,0,133,33
+California,Mariposa,2019,365,221,130,9,5,0,0,176,47
+California,Mendocino,2019,361,334,27,0,0,0,0,77,33
+California,Merced,2019,365,213,145,7,0,0,0,119,48
+California,Mono,2019,365,270,80,6,0,0,9,3852,27
+California,Monterey,2019,365,330,34,1,0,0,0,144,37
+California,Napa,2019,363,330,31,2,0,0,0,119,35
+California,Nevada,2019,361,273,83,5,0,0,0,122,44
+California,Orange,2019,365,213,136,15,1,0,0,172,48
+California,Placer,2019,365,239,117,9,0,0,0,136,45
+California,Plumas,2019,341,248,88,5,0,0,0,138,25
+California,Riverside,2019,365,75,170,91,29,0,0,185,77
+California,Sacramento,2019,365,213,142,10,0,0,0,140,46
+California,San Benito,2019,365,326,39,0,0,0,0,90,38
+California,San Bernardino,2019,365,55,177,71,54,8,0,213,80
+California,San Diego,2019,365,87,253,23,2,0,0,169,64
+California,San Francisco,2019,365,313,51,1,0,0,0,108,36
+California,San Joaquin,2019,365,231,122,11,1,0,0,190,44
+California,San Luis Obispo,2019,365,230,132,3,0,0,0,108,46
+California,San Mateo,2019,365,327,36,2,0,0,0,122,35
+California,Santa Barbara,2019,365,286,78,1,0,0,0,105,43
+California,Santa Clara,2019,365,271,90,4,0,0,0,136,41
+California,Santa Cruz,2019,365,347,18,0,0,0,0,70,35
+California,Shasta,2019,364,311,53,0,0,0,0,100,42
+California,Siskiyou,2019,365,332,29,2,2,0,0,161,36
+California,Solano,2019,365,290,74,1,0,0,0,119,40
+California,Sonoma,2019,365,348,17,0,0,0,0,87,33
+California,Stanislaus,2019,365,201,141,22,1,0,0,177,49
+California,Sutter,2019,365,239,124,2,0,0,0,110,44
+California,Tehama,2019,365,282,83,0,0,0,0,93,41
+California,Trinity,2019,269,246,21,2,0,0,0,113,18
+California,Tulare,2019,365,127,157,78,2,1,0,280,66
+California,Tuolumne,2019,358,273,83,2,0,0,0,108,43
+California,Ventura,2019,365,214,142,9,0,0,0,126,46
+California,Yolo,2019,365,284,80,1,0,0,0,136,41
+Colorado,Adams,2019,365,223,141,1,0,0,0,132,47
+Colorado,Alamosa,2019,107,107,0,0,0,0,0,21,9
+Colorado,Arapahoe,2019,365,227,132,6,0,0,0,140,46
+Colorado,Archuleta,2019,363,331,30,2,0,0,0,124,31
+Colorado,Boulder,2019,365,227,133,5,0,0,0,119,47
+Colorado,Clear Creek,2019,290,205,84,1,0,0,0,112,46
+Colorado,Delta,2019,365,339,26,0,0,0,0,80,41
+Colorado,Denver,2019,365,180,182,2,1,0,0,153,51
+Colorado,Douglas,2019,361,236,114,10,1,0,0,154,46
+Colorado,El Paso,2019,365,259,106,0,0,0,0,100,45
+Colorado,Fremont,2019,32,32,0,0,0,0,0,29,13
+Colorado,Garfield,2019,365,309,56,0,0,0,0,97,44
+Colorado,Gilpin,2019,143,117,25,1,0,0,0,115,45
+Colorado,Gunnison,2019,358,279,78,1,0,0,0,101,45
+Colorado,Jackson,2019,102,102,0,0,0,0,0,25,6
+Colorado,Jefferson,2019,365,238,111,16,0,0,0,129,46
+Colorado,La Plata,2019,365,274,91,0,0,0,0,87,44
+Colorado,Larimer,2019,365,208,151,6,0,0,0,129,48
+Colorado,Mesa,2019,364,289,75,0,0,0,0,87,44
+Colorado,Montezuma,2019,365,279,86,0,0,0,0,97,46
+Colorado,Pitkin,2019,121,121,0,0,0,0,0,46,10
+Colorado,Prowers,2019,346,343,3,0,0,0,0,76,14
+Colorado,Pueblo,2019,126,125,1,0,0,0,0,68,20
+Colorado,Rio Blanco,2019,365,311,54,0,0,0,0,100,44
+Colorado,Routt,2019,356,353,2,1,0,0,0,137,13
+Colorado,San Juan,2019,116,116,0,0,0,0,0,24,7
+Colorado,San Miguel,2019,113,112,1,0,0,0,0,54,11
+Colorado,Weld,2019,365,252,110,3,0,0,0,125,45
+Connecticut,Fairfield,2019,365,262,82,18,3,0,0,161,43
+Connecticut,Hartford,2019,365,301,59,5,0,0,0,122,39
+Connecticut,Litchfield,2019,365,342,23,0,0,0,0,97,37
+Connecticut,Middlesex,2019,205,175,23,6,1,0,0,154,41
+Connecticut,New Haven,2019,365,280,71,12,2,0,0,159,41
+Connecticut,New London,2019,364,323,34,7,0,0,0,129,37
+Connecticut,Tolland,2019,212,187,20,5,0,0,0,126,42
+Connecticut,Windham,2019,360,344,15,1,0,0,0,105,36
+Country Of Mexico,BAJA CALIFORNIA NORTE,2019,32,5,19,8,0,0,0,144,72
+Country Of Mexico,SONORA,2019,358,288,65,5,0,0,0,126,43
+Delaware,Kent,2019,365,293,72,0,0,0,0,83,42
+Delaware,New Castle,2019,365,259,103,3,0,0,0,136,43
+Delaware,Sussex,2019,365,299,66,0,0,0,0,93,42
+District Of Columbia,District of Columbia,2019,365,242,118,4,1,0,0,157,44
+Florida,Alachua,2019,364,329,35,0,0,0,0,80,35
+Florida,Baker,2019,361,341,20,0,0,0,0,77,33
+Florida,Bay,2019,357,308,49,0,0,0,0,85,38
+Florida,Brevard,2019,351,336,15,0,0,0,0,90,36
+Florida,Broward,2019,363,303,60,0,0,0,0,90,40
+Florida,Citrus,2019,357,329,28,0,0,0,0,80,30
+Florida,Collier,2019,362,331,31,0,0,0,0,90,34
+Florida,Columbia,2019,363,294,69,0,0,0,0,90,38
+Florida,Duval,2019,361,248,112,1,0,0,0,114,43
+Florida,Escambia,2019,365,290,74,1,0,0,0,101,40
+Florida,Flagler,2019,270,265,5,0,0,0,0,74,34
+Florida,Hamilton,2019,316,280,36,0,0,0,0,79,33
+Florida,Highlands,2019,233,224,9,0,0,0,0,84,36
+Florida,Hillsborough,2019,365,282,78,5,0,0,0,126,42
+Florida,Holmes,2019,362,289,73,0,0,0,0,84,40
+Florida,Indian River,2019,335,324,11,0,0,0,0,90,36
+Florida,Lake,2019,330,301,28,1,0,0,0,101,35
+Florida,Lee,2019,365,328,36,1,0,0,0,108,36
+Florida,Leon,2019,360,275,84,1,0,0,0,119,38
+Florida,Liberty,2019,351,339,12,0,0,0,0,74,33
+Florida,Manatee,2019,365,333,30,2,0,0,0,108,36
+Florida,Marion,2019,365,311,54,0,0,0,0,87,38
+Florida,Martin,2019,352,323,29,0,0,0,0,84,35
+Florida,Miami-Dade,2019,363,317,44,2,0,0,0,146,38
+Florida,Nassau,2019,270,249,21,0,0,0,0,71,30
+Florida,Okaloosa,2019,363,335,28,0,0,0,0,84,36
+Florida,Orange,2019,360,321,39,0,0,0,0,93,36
+Florida,Osceola,2019,364,338,22,4,0,0,0,122,34
+Florida,Palm Beach,2019,357,320,37,0,0,0,0,93,35
+Florida,Pasco,2019,365,336,29,0,0,0,0,97,36
+Florida,Pinellas,2019,365,296,69,0,0,0,0,100,40
+Florida,Polk,2019,365,314,51,0,0,0,0,100,36
+Florida,Putnam,2019,351,346,5,0,0,0,0,54,17
+Florida,Santa Rosa,2019,364,307,57,0,0,0,0,93,39
+Florida,Sarasota,2019,365,323,42,0,0,0,0,100,37
+Florida,Seminole,2019,365,322,42,1,0,0,0,110,37
+Florida,St. Lucie,2019,352,342,10,0,0,0,0,77,34
+Florida,Volusia,2019,350,316,34,0,0,0,0,80,37
+Florida,Wakulla,2019,361,314,47,0,0,0,0,84,35
+Georgia,Bibb,2019,362,275,84,3,0,0,0,137,39
+Georgia,Charlton,2019,103,100,3,0,0,0,0,61,20
+Georgia,Chatham,2019,335,277,58,0,0,0,0,87,38
+Georgia,Chattooga,2019,244,231,13,0,0,0,0,71,40
+Georgia,Clarke,2019,365,245,120,0,0,0,0,87,44
+Georgia,Clayton,2019,119,98,21,0,0,0,0,70,36
+Georgia,Cobb,2019,282,224,57,1,0,0,0,119,42
+Georgia,Coffee,2019,121,107,14,0,0,0,0,66,26
+Georgia,Columbia,2019,245,229,16,0,0,0,0,74,39
+Georgia,Dawson,2019,244,225,18,1,0,0,0,126,37
+Georgia,DeKalb,2019,365,251,110,3,1,0,0,159,44
+Georgia,Dougherty,2019,356,236,118,2,0,0,0,107,40
+Georgia,Douglas,2019,245,212,28,5,0,0,0,126,40
+Georgia,Floyd,2019,363,215,148,0,0,0,0,89,45
+Georgia,Fulton,2019,365,192,166,6,1,0,0,172,49
+Georgia,Glynn,2019,279,254,25,0,0,0,0,80,36
+Georgia,Gwinnett,2019,355,221,132,2,0,0,0,112,45
+Georgia,Hall,2019,340,259,81,0,0,0,0,88,37
+Georgia,Henry,2019,363,283,73,7,0,0,0,150,37
+Georgia,Houston,2019,354,246,106,1,1,0,0,152,38
+Georgia,Lowndes,2019,309,255,54,0,0,0,0,68,35
+Georgia,Murray,2019,269,230,39,0,0,0,0,93,42
+Georgia,Muscogee,2019,364,274,90,0,0,0,0,90,40
+Georgia,Pike,2019,353,307,43,3,0,0,0,147,37
+Georgia,Richmond,2019,364,238,124,2,0,0,0,101,45
+Georgia,Rockdale,2019,241,186,50,5,0,0,0,129,43
+Georgia,Sumter,2019,238,211,27,0,0,0,0,97,39
+Georgia,Walker,2019,356,269,87,0,0,0,0,82,37
+Georgia,Washington,2019,211,176,34,1,0,0,0,116,29
+Hawaii,Hawaii,2019,365,361,4,0,0,0,0,79,16
+Hawaii,Honolulu,2019,365,362,3,0,0,0,0,61,27
+Hawaii,Kauai,2019,363,362,1,0,0,0,0,66,13
+Hawaii,Maui,2019,362,347,11,3,1,0,0,166,15
+Idaho,Ada,2019,365,317,48,0,0,0,0,100,38
+Idaho,Bannock,2019,365,351,14,0,0,0,0,60,20
+Idaho,Benewah,2019,364,242,111,9,2,0,0,154,37
+Idaho,Blaine,2019,314,313,1,0,0,0,0,51,15
+Idaho,Boise,2019,365,290,72,2,1,0,0,165,33
+Idaho,Bonner,2019,365,316,48,1,0,0,0,115,21
+Idaho,Bonneville,2019,357,342,15,0,0,0,0,63,29
+Idaho,Butte,2019,361,348,13,0,0,0,0,71,40
+Idaho,Canyon,2019,365,311,54,0,0,0,0,95,25
+Idaho,Custer,2019,96,96,0,0,0,0,0,38,6
+Idaho,Franklin,2019,364,333,28,3,0,0,0,112,18
+Idaho,Idaho,2019,365,297,68,0,0,0,0,88,40
+Idaho,Jerome,2019,353,353,0,0,0,0,0,48,15
+Idaho,Kootenai,2019,355,318,37,0,0,0,0,86,23
+Idaho,Latah,2019,350,350,0,0,0,0,0,48,10
+Idaho,Lemhi,2019,360,269,87,4,0,0,0,133,23
+Idaho,Nez Perce,2019,360,309,51,0,0,0,0,89,24
+Idaho,Shoshone,2019,365,260,102,3,0,0,0,117,29
+Idaho,Twin Falls,2019,365,361,4,0,0,0,0,71,19
+Idaho,Valley,2019,357,290,67,0,0,0,0,91,22
+Illinois,Adams,2019,241,208,33,0,0,0,0,93,41
+Illinois,Champaign,2019,365,281,84,0,0,0,0,100,42
+Illinois,Clark,2019,327,314,13,0,0,0,0,74,34
+Illinois,Cook,2019,365,150,206,9,0,0,0,133,53
+Illinois,DuPage,2019,352,257,92,2,1,0,0,174,42
+Illinois,Effingham,2019,245,224,21,0,0,0,0,84,40
+Illinois,Hamilton,2019,344,269,74,1,0,0,0,105,43
+Illinois,Jersey,2019,347,284,61,2,0,0,0,119,42
+Illinois,Jo Daviess,2019,363,351,12,0,0,0,0,74,34
+Illinois,Kane,2019,284,229,51,4,0,0,0,112,40
+Illinois,Lake,2019,245,210,33,2,0,0,0,115,40
+Illinois,Macon,2019,364,260,104,0,0,0,0,93,43
+Illinois,Macoupin,2019,357,340,17,0,0,0,0,87,33
+Illinois,Madison,2019,363,190,170,1,2,0,0,156,49
+Illinois,McHenry,2019,340,230,108,2,0,0,0,126,44
+Illinois,McLean,2019,364,256,108,0,0,0,0,100,44
+Illinois,Peoria,2019,364,284,78,2,0,0,0,101,41
+Illinois,Randolph,2019,324,264,60,0,0,0,0,97,40
+Illinois,Rock Island,2019,361,281,78,2,0,0,0,115,42
+Illinois,Saint Clair,2019,365,272,92,1,0,0,0,108,43
+Illinois,Sangamon,2019,360,287,73,0,0,0,0,87,40
+Illinois,Will,2019,365,260,105,0,0,0,0,84,43
+Illinois,Winnebago,2019,341,240,100,1,0,0,0,102,42
+Indiana,Allen,2019,365,262,102,1,0,0,0,101,43
+Indiana,Bartholomew,2019,364,298,66,0,0,0,0,77,41
+Indiana,Boone,2019,351,320,31,0,0,0,0,90,35
+Indiana,Brown,2019,365,349,16,0,0,0,0,74,35
+Indiana,Carroll,2019,358,333,25,0,0,0,0,84,35
+Indiana,Clark,2019,365,287,77,1,0,0,0,101,41
+Indiana,Delaware,2019,352,319,33,0,0,0,0,71,35
+Indiana,Dubois,2019,120,102,18,0,0,0,0,70,33
+Indiana,Elkhart,2019,365,294,71,0,0,0,0,81,37
+Indiana,Floyd,2019,361,336,25,0,0,0,0,87,35
+Indiana,Greene,2019,355,318,37,0,0,0,0,87,39
+Indiana,Hamilton,2019,365,268,95,2,0,0,0,119,41
+Indiana,Hendricks,2019,361,348,13,0,0,0,0,93,34
+Indiana,Henry,2019,119,106,13,0,0,0,0,63,28
+Indiana,Howard,2019,361,289,71,1,0,0,0,108,40
+Indiana,Huntington,2019,355,345,10,0,0,0,0,84,31
+Indiana,Jackson,2019,360,340,20,0,0,0,0,80,35
+Indiana,Knox,2019,359,328,31,0,0,0,0,87,36
+Indiana,LaPorte,2019,364,305,55,4,0,0,0,126,37
+Indiana,Lake,2019,365,227,137,1,0,0,0,101,44
+Indiana,Madison,2019,365,286,78,1,0,0,0,101,41
+Indiana,Marion,2019,365,153,208,4,0,0,0,112,53
+Indiana,Monroe,2019,346,296,50,0,0,0,0,69,33
+Indiana,Morgan,2019,364,344,20,0,0,0,0,87,35
+Indiana,Perry,2019,358,322,36,0,0,0,0,80,37
+Indiana,Porter,2019,365,271,90,4,0,0,0,115,40
+Indiana,Posey,2019,364,341,23,0,0,0,0,80,35
+Indiana,Shelby,2019,365,338,27,0,0,0,0,84,36
+Indiana,Spencer,2019,117,101,16,0,0,0,0,73,31
+Indiana,St. Joseph,2019,365,276,89,0,0,0,0,100,41
+Indiana,Sullivan,2019,116,99,17,0,0,0,0,78,31
+Indiana,Tippecanoe,2019,351,284,67,0,0,0,0,75,33
+Indiana,Vanderburgh,2019,365,296,69,0,0,0,0,90,41
+Indiana,Vigo,2019,365,238,126,1,0,0,0,102,45
+Indiana,Wabash,2019,351,319,32,0,0,0,0,97,37
+Indiana,Warrick,2019,365,337,28,0,0,0,0,93,36
+Indiana,Whitley,2019,352,285,67,0,0,0,0,90,33
+Iowa,Black Hawk,2019,363,296,67,0,0,0,0,83,31
+Iowa,Bremer,2019,243,228,15,0,0,0,0,90,37
+Iowa,Cerro Gordo,2019,118,118,0,0,0,0,0,38,15
+Iowa,Clinton,2019,364,268,96,0,0,0,0,89,42
+Iowa,Harrison,2019,241,222,19,0,0,0,0,97,38
+Iowa,Johnson,2019,364,278,86,0,0,0,0,91,35
+Iowa,Lee,2019,120,101,19,0,0,0,0,70,29
+Iowa,Linn,2019,365,287,78,0,0,0,0,84,39
+Iowa,Montgomery,2019,364,312,52,0,0,0,0,77,37
+Iowa,Muscatine,2019,365,302,63,0,0,0,0,92,32
+Iowa,Palo Alto,2019,364,305,59,0,0,0,0,93,38
+Iowa,Polk,2019,365,306,59,0,0,0,0,100,39
+Iowa,Pottawattamie,2019,130,111,19,0,0,0,0,70,29
+Iowa,Scott,2019,365,222,141,2,0,0,0,112,45
+Iowa,Van Buren,2019,361,310,51,0,0,0,0,97,37
+Iowa,Woodbury,2019,118,105,13,0,0,0,0,81,28
+Kansas,Chase,2019,118,112,5,1,0,0,0,113,20
+Kansas,Ford,2019,304,301,3,0,0,0,0,54,15
+Kansas,Johnson,2019,362,336,26,0,0,0,0,77,36
+Kansas,Leavenworth,2019,362,347,15,0,0,0,0,97,33
+Kansas,Neosho,2019,365,282,82,1,0,0,0,119,40
+Kansas,Sedgwick,2019,365,313,52,0,0,0,0,97,39
+Kansas,Shawnee,2019,365,294,70,0,1,0,0,158,41
+Kansas,Sherman,2019,358,354,4,0,0,0,0,58,12
+Kansas,Sumner,2019,365,317,48,0,0,0,0,97,39
+Kansas,Trego,2019,364,342,22,0,0,0,0,99,36
+Kansas,Wyandotte,2019,365,291,73,1,0,0,0,137,41
+Kentucky,Bell,2019,263,243,20,0,0,0,0,77,39
+Kentucky,Boone,2019,239,222,17,0,0,0,0,80,39
+Kentucky,Boyd,2019,365,313,52,0,0,0,0,74,39
+Kentucky,Bullitt,2019,243,214,29,0,0,0,0,93,41
+Kentucky,Campbell,2019,362,298,63,1,0,0,0,108,40
+Kentucky,Carter,2019,285,278,7,0,0,0,0,67,36
+Kentucky,Christian,2019,278,251,27,0,0,0,0,77,39
+Kentucky,Daviess,2019,364,284,79,1,0,0,0,101,43
+Kentucky,Edmonson,2019,365,290,75,0,0,0,0,77,41
+Kentucky,Fayette,2019,364,307,57,0,0,0,0,80,42
+Kentucky,Greenup,2019,242,237,5,0,0,0,0,58,37
+Kentucky,Hancock,2019,245,208,37,0,0,0,0,84,42
+Kentucky,Hardin,2019,363,318,45,0,0,0,0,71,39
+Kentucky,Henderson,2019,59,38,21,0,0,0,0,68,43
+Kentucky,Jefferson,2019,365,200,163,2,0,0,0,136,49
+Kentucky,Jessamine,2019,245,221,24,0,0,0,0,67,43
+Kentucky,Livingston,2019,261,237,24,0,0,0,0,77,41
+Kentucky,McCracken,2019,361,260,101,0,0,0,0,97,44
+Kentucky,Morgan,2019,356,341,15,0,0,0,0,80,36
+Kentucky,Oldham,2019,242,203,38,1,0,0,0,105,42
+Kentucky,Perry,2019,353,306,47,0,0,0,0,87,39
+Kentucky,Pike,2019,361,341,20,0,0,0,0,67,36
+Kentucky,Pulaski,2019,282,267,15,0,0,0,0,63,40
+Kentucky,Simpson,2019,244,222,22,0,0,0,0,67,40
+Kentucky,Trigg,2019,353,328,25,0,0,0,0,87,37
+Kentucky,Warren,2019,348,295,53,0,0,0,0,73,40
+Kentucky,Washington,2019,364,331,33,0,0,0,0,80,39
+Louisiana,Ascension,2019,361,319,41,1,0,0,0,101,33
+Louisiana,Bossier,2019,357,324,33,0,0,0,0,84,34
+Louisiana,Caddo,2019,356,296,60,0,0,0,0,80,37
+Louisiana,Calcasieu,2019,365,239,126,0,0,0,0,90,44
+Louisiana,East Baton Rouge,2019,365,260,103,2,0,0,0,108,42
+Louisiana,Iberville,2019,365,306,55,4,0,0,0,119,37
+Louisiana,Jefferson,2019,365,310,55,0,0,0,0,84,38
+Louisiana,Lafayette,2019,365,283,82,0,0,0,0,84,41
+Louisiana,Lafourche,2019,360,273,85,2,0,0,0,126,41
+Louisiana,Livingston,2019,365,279,86,0,0,0,0,97,41
+Louisiana,Orleans,2019,365,327,38,0,0,0,0,89,29
+Louisiana,Ouachita,2019,363,335,28,0,0,0,0,71,34
+Louisiana,Pointe Coupee,2019,351,322,26,3,0,0,0,112,33
+Louisiana,Rapides,2019,119,107,12,0,0,0,0,71,30
+Louisiana,St. Bernard,2019,365,254,110,1,0,0,0,112,43
+Louisiana,St. James,2019,359,344,15,0,0,0,0,97,29
+Louisiana,St. John the Baptist,2019,364,334,30,0,0,0,0,93,33
+Louisiana,St. Martin,2019,355,330,25,0,0,0,0,80,34
+Louisiana,St. Tammany,2019,363,306,57,0,0,0,0,84,37
+Louisiana,Tangipahoa,2019,117,104,13,0,0,0,0,64,30
+Louisiana,Terrebonne,2019,120,108,12,0,0,0,0,70,28
+Louisiana,West Baton Rouge,2019,364,288,76,0,0,0,0,100,39
+Maine,Androscoggin,2019,361,345,16,0,0,0,0,72,31
+Maine,Aroostook,2019,365,333,30,1,1,0,0,174,34
+Maine,Cumberland,2019,365,314,51,0,0,0,0,100,39
+Maine,Hancock,2019,365,347,17,1,0,0,0,105,36
+Maine,Kennebec,2019,361,356,5,0,0,0,0,67,28
+Maine,Knox,2019,213,204,9,0,0,0,0,84,36
+Maine,Oxford,2019,334,323,11,0,0,0,0,68,30
+Maine,Penobscot,2019,362,349,13,0,0,0,0,72,31
+Maine,Washington,2019,363,360,3,0,0,0,0,71,34
+Maine,York,2019,231,216,14,1,0,0,0,115,38
+Maryland,Anne Arundel,2019,264,179,78,7,0,0,0,143,45
+Maryland,Baltimore,2019,365,263,93,9,0,0,0,150,43
+Maryland,Baltimore (City),2019,363,268,89,6,0,0,0,126,42
+Maryland,Calvert,2019,232,214,18,0,0,0,0,71,39
+Maryland,Carroll,2019,241,205,35,1,0,0,0,101,43
+Maryland,Cecil,2019,361,290,68,3,0,0,0,150,39
+Maryland,Charles,2019,221,202,19,0,0,0,0,77,40
+Maryland,Dorchester,2019,365,304,58,3,0,0,0,126,41
+Maryland,Frederick,2019,243,198,44,1,0,0,0,112,44
+Maryland,Garrett,2019,365,345,20,0,0,0,0,71,37
+Maryland,Harford,2019,359,261,89,9,0,0,0,133,44
+Maryland,Howard,2019,365,319,46,0,0,0,0,79,30
+Maryland,Kent,2019,360,298,61,1,0,0,0,101,40
+Maryland,Montgomery,2019,361,313,48,0,0,0,0,86,39
+Maryland,Prince George's,2019,365,268,91,6,0,0,0,122,43
+Maryland,Washington,2019,360,313,47,0,0,0,0,92,40
+Massachusetts,Barnstable,2019,359,348,11,0,0,0,0,93,36
+Massachusetts,Berkshire,2019,364,320,44,0,0,0,0,87,37
+Massachusetts,Bristol,2019,364,323,41,0,0,0,0,97,40
+Massachusetts,Dukes,2019,352,331,17,4,0,0,0,126,38
+Massachusetts,Essex,2019,364,329,34,1,0,0,0,122,37
+Massachusetts,Franklin,2019,364,326,38,0,0,0,0,87,37
+Massachusetts,Hampden,2019,364,308,56,0,0,0,0,93,39
+Massachusetts,Hampshire,2019,364,332,32,0,0,0,0,93,38
+Massachusetts,Middlesex,2019,364,337,27,0,0,0,0,80,37
+Massachusetts,Norfolk,2019,362,352,10,0,0,0,0,100,34
+Massachusetts,Plymouth,2019,363,336,27,0,0,0,0,90,37
+Massachusetts,Suffolk,2019,365,310,55,0,0,0,0,87,38
+Massachusetts,Worcester,2019,365,314,51,0,0,0,0,93,40
+Michigan,Allegan,2019,276,227,45,4,0,0,0,115,38
+Michigan,Bay,2019,316,288,28,0,0,0,0,83,26
+Michigan,Benzie,2019,247,232,15,0,0,0,0,93,36
+Michigan,Berrien,2019,260,232,26,2,0,0,0,112,39
+Michigan,Cass,2019,255,229,26,0,0,0,0,90,39
+Michigan,Chippewa,2019,58,53,5,0,0,0,0,62,32
+Michigan,Clinton,2019,248,243,5,0,0,0,0,67,35
+Michigan,Genesee,2019,340,282,58,0,0,0,0,74,38
+Michigan,Huron,2019,259,250,9,0,0,0,0,90,36
+Michigan,Ingham,2019,365,331,34,0,0,0,0,75,35
+Michigan,Kalamazoo,2019,362,312,50,0,0,0,0,85,38
+Michigan,Kent,2019,365,310,55,0,0,0,0,90,36
+Michigan,Keweenaw,2019,117,116,1,0,0,0,0,70,9
+Michigan,Lenawee,2019,358,286,72,0,0,0,0,90,39
+Michigan,Macomb,2019,292,251,40,1,0,0,0,101,38
+Michigan,Manistee,2019,269,249,19,1,0,0,0,101,35
+Michigan,Mason,2019,254,244,10,0,0,0,0,64,35
+Michigan,Missaukee,2019,363,334,29,0,0,0,0,71,35
+Michigan,Monroe,2019,61,57,4,0,0,0,0,76,16
+Michigan,Muskegon,2019,262,236,25,1,0,0,0,133,38
+Michigan,Oakland,2019,293,246,45,2,0,0,0,122,38
+Michigan,Ottawa,2019,360,308,52,0,0,0,0,100,35
+Michigan,Schoolcraft,2019,364,347,17,0,0,0,0,90,31
+Michigan,St. Clair,2019,365,311,51,3,0,0,0,108,37
+Michigan,Tuscola,2019,355,345,10,0,0,0,0,77,33
+Michigan,Washtenaw,2019,365,294,71,0,0,0,0,88,39
+Michigan,Wayne,2019,365,157,199,9,0,0,0,142,53
+Michigan,Wexford,2019,340,322,18,0,0,0,0,74,34
+Minnesota,Anoka,2019,364,315,48,1,0,0,0,122,37
+Minnesota,Becker,2019,360,336,23,1,0,0,0,105,28
+Minnesota,Beltrami,2019,352,332,18,1,1,0,0,181,20
+Minnesota,Carlton,2019,356,346,10,0,0,0,0,80,27
+Minnesota,Cass,2019,350,332,17,1,0,0,0,125,13
+Minnesota,Cook,2019,334,325,9,0,0,0,0,78,17
+Minnesota,Crow Wing,2019,359,334,24,1,0,0,0,101,28
+Minnesota,Dakota,2019,365,306,59,0,0,0,0,89,28
+Minnesota,Goodhue,2019,216,203,13,0,0,0,0,97,37
+Minnesota,Hennepin,2019,365,245,120,0,0,0,0,94,42
+Minnesota,Lake,2019,363,343,20,0,0,0,0,81,27
+Minnesota,Lyon,2019,362,327,35,0,0,0,0,85,32
+Minnesota,Mille Lacs,2019,247,239,8,0,0,0,0,90,32
+Minnesota,Olmsted,2019,364,313,51,0,0,0,0,84,36
+Minnesota,Ramsey,2019,365,296,69,0,0,0,0,90,30
+Minnesota,Saint Louis,2019,365,327,37,1,0,0,0,101,34
+Minnesota,Scott,2019,365,314,51,0,0,0,0,93,36
+Minnesota,Stearns,2019,344,313,31,0,0,0,0,93,32
+Minnesota,Washington,2019,260,212,48,0,0,0,0,85,34
+Minnesota,Winona,2019,115,108,7,0,0,0,0,61,15
+Minnesota,Wright,2019,362,322,40,0,0,0,0,90,34
+Mississippi,Bolivar,2019,364,270,94,0,0,0,0,96,43
+Mississippi,DeSoto,2019,364,296,67,1,0,0,0,136,39
+Mississippi,Forrest,2019,358,298,60,0,0,0,0,75,35
+Mississippi,Hancock,2019,365,316,49,0,0,0,0,80,37
+Mississippi,Harrison,2019,363,284,79,0,0,0,0,97,41
+Mississippi,Hinds,2019,365,256,109,0,0,0,0,100,44
+Mississippi,Jackson,2019,365,289,75,1,0,0,0,105,39
+Mississippi,Lauderdale,2019,245,229,16,0,0,0,0,77,36
+Mississippi,Lee,2019,241,222,19,0,0,0,0,84,39
+Mississippi,Yalobusha,2019,348,334,14,0,0,0,0,71,33
+Missouri,Andrew,2019,245,227,18,0,0,0,0,80,40
+Missouri,Boone,2019,245,239,6,0,0,0,0,71,38
+Missouri,Buchanan,2019,365,295,70,0,0,0,0,82,33
+Missouri,Callaway,2019,245,238,7,0,0,0,0,71,39
+Missouri,Cass,2019,365,319,46,0,0,0,0,93,37
+Missouri,Cedar,2019,351,285,66,0,0,0,0,80,39
+Missouri,Clay,2019,365,295,70,0,0,0,0,90,40
+Missouri,Clinton,2019,245,213,32,0,0,0,0,87,42
+Missouri,Greene,2019,365,322,43,0,0,0,0,77,39
+Missouri,Jackson,2019,365,265,100,0,0,0,0,93,38
+Missouri,Jasper,2019,365,324,40,1,0,0,0,108,37
+Missouri,Jefferson,2019,361,290,69,2,0,0,0,105,39
+Missouri,Lincoln,2019,245,223,22,0,0,0,0,100,40
+Missouri,Monroe,2019,365,357,8,0,0,0,0,71,35
+Missouri,Perry,2019,245,224,21,0,0,0,0,87,40
+Missouri,Saint Charles,2019,244,202,38,3,1,0,0,151,42
+Missouri,Saint Louis,2019,365,264,98,3,0,0,0,143,43
+Missouri,Sainte Genevieve,2019,244,229,15,0,0,0,0,87,38
+Missouri,St. Louis City,2019,365,215,145,5,0,0,0,129,47
+Missouri,Stoddard,2019,107,103,4,0,0,0,0,56,23
+Missouri,Taney,2019,120,117,3,0,0,0,0,54,20
+Montana,Cascade,2019,363,350,12,1,0,0,0,106,21
+Montana,Fergus,2019,365,348,17,0,0,0,0,84,37
+Montana,Flathead,2019,365,302,62,1,0,0,0,103,37
+Montana,Gallatin,2019,365,337,28,0,0,0,0,91,25
+Montana,Lake,2019,93,93,0,0,0,0,0,43,8
+Montana,Lewis and Clark,2019,365,288,75,2,0,0,0,144,40
+Montana,Lincoln,2019,364,222,141,1,0,0,0,102,36
+Montana,Missoula,2019,365,224,137,3,1,0,0,152,40
+Montana,Phillips,2019,365,356,9,0,0,0,0,71,34
+Montana,Powder River,2019,361,329,31,1,0,0,0,145,38
+Montana,Powell,2019,109,106,3,0,0,0,0,81,9
+Montana,Ravalli,2019,364,329,35,0,0,0,0,74,14
+Montana,Richland,2019,365,339,26,0,0,0,0,93,37
+Montana,Roosevelt,2019,93,93,0,0,0,0,0,45,10
+Montana,Rosebud,2019,364,351,13,0,0,0,0,71,36
+Montana,Sanders,2019,365,330,35,0,0,0,0,94,25
+Montana,Sheridan,2019,104,103,1,0,0,0,0,51,12
+Montana,Silver Bow,2019,363,319,44,0,0,0,0,91,20
+Montana,Yellowstone,2019,292,287,4,0,1,0,0,157,23
+Nebraska,Cass,2019,348,348,0,0,0,0,0,46,13
+Nebraska,Douglas,2019,365,318,47,0,0,0,0,80,37
+Nebraska,Hall,2019,97,92,5,0,0,0,0,60,19
+Nebraska,Knox,2019,355,342,13,0,0,0,0,80,35
+Nebraska,Lancaster,2019,288,268,20,0,0,0,0,66,35
+Nebraska,Sarpy,2019,350,298,52,0,0,0,0,80,29
+Nebraska,Scotts Bluff,2019,113,110,3,0,0,0,0,70,19
+Nebraska,Thomas,2019,109,106,3,0,0,0,0,57,12
+Nebraska,Washington,2019,116,107,9,0,0,0,0,75,25
+Nevada,Carson City,2019,365,308,57,0,0,0,0,97,41
+Nevada,Churchill,2019,353,323,30,0,0,0,0,80,41
+Nevada,Clark,2019,365,154,206,5,0,0,0,122,54
+Nevada,Douglas,2019,356,346,10,0,0,0,0,62,13
+Nevada,Elko,2019,365,363,2,0,0,0,0,61,14
+Nevada,Lyon,2019,356,344,12,0,0,0,0,71,38
+Nevada,Nye,2019,365,352,12,1,0,0,0,146,15
+Nevada,Washoe,2019,365,244,121,0,0,0,0,97,46
+Nevada,White Pine,2019,362,294,67,1,0,0,0,101,44
+New Hampshire,Belknap,2019,316,308,8,0,0,0,0,74,31
+New Hampshire,Cheshire,2019,365,348,17,0,0,0,0,79,34
+New Hampshire,Coos,2019,324,314,10,0,0,0,0,64,40
+New Hampshire,Grafton,2019,365,352,13,0,0,0,0,60,33
+New Hampshire,Hillsborough,2019,365,353,12,0,0,0,0,80,37
+New Hampshire,Merrimack,2019,210,206,4,0,0,0,0,61,36
+New Hampshire,Rockingham,2019,365,343,21,1,0,0,0,112,37
+New Jersey,Atlantic,2019,365,328,36,1,0,0,0,105,37
+New Jersey,Bergen,2019,365,228,132,5,0,0,0,150,44
+New Jersey,Camden,2019,365,240,120,5,0,0,0,126,44
+New Jersey,Cumberland,2019,361,297,61,3,0,0,0,105,40
+New Jersey,Essex,2019,365,265,100,0,0,0,0,100,41
+New Jersey,Gloucester,2019,280,242,37,1,0,0,0,133,37
+New Jersey,Hudson,2019,365,268,97,0,0,0,0,92,41
+New Jersey,Hunterdon,2019,362,295,66,1,0,0,0,108,39
+New Jersey,Mercer,2019,365,280,83,2,0,0,0,136,41
+New Jersey,Middlesex,2019,362,285,74,3,0,0,0,115,40
+New Jersey,Monmouth,2019,240,217,23,0,0,0,0,100,37
+New Jersey,Morris,2019,364,336,28,0,0,0,0,87,36
+New Jersey,Ocean,2019,349,291,56,2,0,0,0,150,38
+New Jersey,Passaic,2019,277,242,34,1,0,0,0,122,39
+New Jersey,Union,2019,365,258,107,0,0,0,0,100,42
+New Jersey,Warren,2019,364,320,43,1,0,0,0,103,35
+New Mexico,Bernalillo,2019,365,164,197,4,0,0,0,108,51
+New Mexico,Catron,2019,111,111,0,0,0,0,0,32,9
+New Mexico,Chaves,2019,118,117,1,0,0,0,0,52,16
+New Mexico,Dona Ana,2019,365,170,171,17,3,2,2,630,51
+New Mexico,Eddy,2019,365,212,134,17,2,0,0,174,47
+New Mexico,Lea,2019,365,252,109,4,0,0,0,140,45
+New Mexico,Lincoln,2019,107,107,0,0,0,0,0,31,10
+New Mexico,Los Alamos,2019,117,117,0,0,0,0,0,32,9
+New Mexico,Luna,2019,361,349,10,1,0,0,1,617,12
+New Mexico,Rio Arriba,2019,358,315,43,0,0,0,0,90,43
+New Mexico,San Juan,2019,365,208,157,0,0,0,0,97,49
+New Mexico,Sandoval,2019,363,276,87,0,0,0,0,97,44
+New Mexico,Santa Fe,2019,362,274,87,1,0,0,0,101,44
+New Mexico,Socorro,2019,92,92,0,0,0,0,0,31,10
+New Mexico,Taos,2019,358,334,24,0,0,0,0,70,15
+New Mexico,Valencia,2019,357,270,87,0,0,0,0,93,44
+New York,Albany,2019,365,322,43,0,0,0,0,92,37
+New York,Bronx,2019,365,280,82,3,0,0,0,115,40
+New York,Chautauqua,2019,343,315,27,1,0,0,0,105,38
+New York,Dutchess,2019,331,319,12,0,0,0,0,90,34
+New York,Erie,2019,365,310,55,0,0,0,0,93,38
+New York,Essex,2019,364,331,33,0,0,0,0,80,42
+New York,Franklin,2019,177,177,0,0,0,0,0,49,31
+New York,Hamilton,2019,323,321,2,0,0,0,0,54,35
+New York,Herkimer,2019,185,185,0,0,0,0,0,45,29
+New York,Jefferson,2019,205,198,7,0,0,0,0,64,35
+New York,Kings,2019,365,335,30,0,0,0,0,75,27
+New York,Monroe,2019,365,321,44,0,0,0,0,90,36
+New York,Nassau,2019,360,341,19,0,0,0,0,68,22
+New York,New York,2019,365,293,70,2,0,0,0,136,39
+New York,Niagara,2019,352,339,13,0,0,0,0,80,35
+New York,Oneida,2019,355,345,10,0,0,0,0,60,18
+New York,Onondaga,2019,365,337,28,0,0,0,0,77,37
+New York,Orange,2019,365,343,22,0,0,0,0,74,36
+New York,Oswego,2019,321,316,5,0,0,0,0,67,34
+New York,Putnam,2019,329,313,15,1,0,0,0,101,35
+New York,Queens,2019,365,292,69,4,0,0,0,119,40
+New York,Richmond,2019,365,314,51,0,0,0,0,97,37
+New York,Rockland,2019,365,335,29,1,0,0,0,112,36
+New York,Saratoga,2019,331,328,3,0,0,0,0,58,33
+New York,Steuben,2019,365,349,16,0,0,0,0,65,35
+New York,Suffolk,2019,365,300,56,9,0,0,0,150,40
+New York,Tompkins,2019,356,349,7,0,0,0,0,61,35
+New York,Wayne,2019,268,253,15,0,0,0,0,90,35
+New York,Westchester,2019,365,330,34,1,0,0,0,105,36
+North Carolina,Alexander,2019,305,274,31,0,0,0,0,80,39
+North Carolina,Avery,2019,363,335,28,0,0,0,0,77,40
+North Carolina,Buncombe,2019,365,328,37,0,0,0,0,84,38
+North Carolina,Caldwell,2019,243,214,29,0,0,0,0,74,42
+North Carolina,Carteret,2019,259,239,20,0,0,0,0,80,37
+North Carolina,Caswell,2019,245,236,9,0,0,0,0,64,39
+North Carolina,Catawba,2019,361,298,63,0,0,0,0,71,33
+North Carolina,Cumberland,2019,363,282,81,0,0,0,0,84,41
+North Carolina,Davidson,2019,350,272,78,0,0,0,0,91,35
+North Carolina,Durham,2019,364,293,71,0,0,0,0,87,42
+North Carolina,Edgecombe,2019,363,325,38,0,0,0,0,71,36
+North Carolina,Forsyth,2019,365,236,129,0,0,0,0,97,45
+North Carolina,Graham,2019,245,191,54,0,0,0,0,97,44
+North Carolina,Granville,2019,240,195,45,0,0,0,0,87,44
+North Carolina,Guilford,2019,365,293,72,0,0,0,0,90,42
+North Carolina,Haywood,2019,276,211,65,0,0,0,0,97,45
+North Carolina,Hyde,2019,102,100,2,0,0,0,0,59,18
+North Carolina,Jackson,2019,103,100,3,0,0,0,0,62,26
+North Carolina,Johnston,2019,363,294,69,0,0,0,0,87,40
+North Carolina,Lenoir,2019,237,205,32,0,0,0,0,87,42
+North Carolina,Lincoln,2019,243,178,65,0,0,0,0,97,44
+North Carolina,Macon,2019,358,343,15,0,0,0,0,87,33
+North Carolina,Martin,2019,295,261,34,0,0,0,0,74,40
+North Carolina,Mecklenburg,2019,365,234,121,10,0,0,0,136,45
+North Carolina,Mitchell,2019,333,325,8,0,0,0,0,59,22
+North Carolina,Montgomery,2019,365,308,57,0,0,0,0,71,39
+North Carolina,New Hanover,2019,348,319,29,0,0,0,0,80,34
+North Carolina,Northampton,2019,153,138,15,0,0,0,0,71,32
+North Carolina,Person,2019,244,200,44,0,0,0,0,80,44
+North Carolina,Pitt,2019,352,308,44,0,0,0,0,87,38
+North Carolina,Rockingham,2019,245,207,38,0,0,0,0,84,44
+North Carolina,Rowan,2019,365,289,76,0,0,0,0,100,43
+North Carolina,Swain,2019,362,323,39,0,0,0,0,90,37
+North Carolina,Union,2019,235,175,57,3,0,0,0,105,45
+North Carolina,Wake,2019,365,245,120,0,0,0,0,93,46
+North Carolina,Yancey,2019,244,191,53,0,0,0,0,87,45
+North Dakota,Billings,2019,365,354,11,0,0,0,0,84,33
+North Dakota,Burke,2019,365,354,11,0,0,0,0,67,32
+North Dakota,Burleigh,2019,365,331,34,0,0,0,0,90,31
+North Dakota,Cass,2019,363,327,34,1,1,0,0,156,33
+North Dakota,Dunn,2019,365,348,17,0,0,0,0,87,34
+North Dakota,McKenzie,2019,365,353,12,0,0,0,0,77,34
+North Dakota,Mercer,2019,365,341,24,0,0,0,0,71,35
+North Dakota,Oliver,2019,365,339,26,0,0,0,0,84,34
+North Dakota,Ward,2019,364,347,17,0,0,0,0,87,29
+North Dakota,Williams,2019,362,343,19,0,0,0,0,77,32
+Ohio,Adams,2019,327,323,4,0,0,0,0,61,21
+Ohio,Allen,2019,332,271,61,0,0,0,0,97,41
+Ohio,Ashtabula,2019,245,221,23,1,0,0,0,112,39
+Ohio,Athens,2019,120,116,4,0,0,0,0,56,25
+Ohio,Belmont,2019,365,349,16,0,0,0,0,66,15
+Ohio,Butler,2019,364,263,99,2,0,0,0,101,43
+Ohio,Clark,2019,362,217,143,2,0,0,0,105,45
+Ohio,Clermont,2019,358,287,67,4,0,0,0,140,40
+Ohio,Clinton,2019,244,203,41,0,0,0,0,100,43
+Ohio,Columbiana,2019,62,62,0,0,0,0,0,26,12
+Ohio,Cuyahoga,2019,365,188,173,4,0,0,0,108,50
+Ohio,Delaware,2019,241,214,27,0,0,0,0,84,41
+Ohio,Fayette,2019,355,332,23,0,0,0,0,74,38
+Ohio,Franklin,2019,365,244,120,1,0,0,0,101,46
+Ohio,Geauga,2019,230,189,39,2,0,0,0,119,42
+Ohio,Greene,2019,243,213,30,0,0,0,0,90,41
+Ohio,Hamilton,2019,365,162,197,6,0,0,0,119,52
+Ohio,Harrison,2019,293,290,3,0,0,0,0,59,2
+Ohio,Jefferson,2019,364,233,129,2,0,0,0,123,45
+Ohio,Knox,2019,245,218,27,0,0,0,0,93,41
+Ohio,Lake,2019,365,318,42,5,0,0,0,115,37
+Ohio,Lawrence,2019,365,328,37,0,0,0,0,77,39
+Ohio,Licking,2019,245,223,22,0,0,0,0,80,41
+Ohio,Lorain,2019,362,313,49,0,0,0,0,72,38
+Ohio,Lucas,2019,351,280,70,1,0,0,0,143,40
+Ohio,Madison,2019,245,209,36,0,0,0,0,93,42
+Ohio,Mahoning,2019,360,303,57,0,0,0,0,84,39
+Ohio,Medina,2019,353,304,49,0,0,0,0,78,38
+Ohio,Miami,2019,241,226,15,0,0,0,0,77,40
+Ohio,Montgomery,2019,365,229,136,0,0,0,0,94,45
+Ohio,Noble,2019,361,336,25,0,0,0,0,87,37
+Ohio,Portage,2019,270,252,18,0,0,0,0,87,37
+Ohio,Preble,2019,364,266,98,0,0,0,0,93,43
+Ohio,Scioto,2019,365,358,7,0,0,0,0,78,13
+Ohio,Stark,2019,365,226,139,0,0,0,0,100,46
+Ohio,Summit,2019,363,277,83,3,0,0,0,115,42
+Ohio,Trumbull,2019,362,295,67,0,0,0,0,100,40
+Ohio,Warren,2019,360,284,73,3,0,0,0,122,43
+Ohio,Washington,2019,245,219,26,0,0,0,0,87,41
+Ohio,Wood,2019,244,225,19,0,0,0,0,87,38
+Oklahoma,Adair,2019,365,338,27,0,0,0,0,86,37
+Oklahoma,Canadian,2019,355,306,48,1,0,0,0,105,37
+Oklahoma,Carter,2019,365,285,80,0,0,0,0,97,43
+Oklahoma,Choctaw,2019,252,238,14,0,0,0,0,90,37
+Oklahoma,Cleveland,2019,365,231,134,0,0,0,0,90,45
+Oklahoma,Comanche,2019,365,285,80,0,0,0,0,97,43
+Oklahoma,Creek,2019,356,331,24,1,0,0,0,101,36
+Oklahoma,Custer,2019,236,235,1,0,0,0,0,58,14
+Oklahoma,Dewey,2019,365,293,72,0,0,0,0,93,42
+Oklahoma,Grant,2019,27,27,0,0,0,0,0,32,16
+Oklahoma,Johnston,2019,141,128,13,0,0,0,0,67,40
+Oklahoma,Kay,2019,365,292,72,1,0,0,0,106,40
+Oklahoma,Le Flore,2019,38,35,3,0,0,0,0,79,28
+Oklahoma,Mayes,2019,297,283,14,0,0,0,0,100,35
+Oklahoma,Muskogee,2019,134,117,15,1,1,0,0,169,18
+Oklahoma,Nowata,2019,365,287,77,1,0,0,0,118,41
+Oklahoma,Oklahoma,2019,365,227,137,1,0,0,0,119,46
+Oklahoma,Osage,2019,354,311,43,0,0,0,0,90,38
+Oklahoma,Ottawa,2019,363,289,73,1,0,0,0,104,38
+Oklahoma,Pittsburg,2019,365,272,91,2,0,0,0,105,43
+Oklahoma,Sequoyah,2019,361,325,36,0,0,0,0,67,36
+Oklahoma,Tulsa,2019,365,257,107,1,0,0,0,105,44
+Oregon,Baker,2019,360,328,32,0,0,0,0,64,23
+Oregon,Benton,2019,365,332,33,0,0,0,0,85,17
+Oregon,Clackamas,2019,225,217,7,1,0,0,0,101,30
+Oregon,Columbia,2019,363,355,8,0,0,0,0,84,24
+Oregon,Coos,2019,107,106,1,0,0,0,0,58,19
+Oregon,Crook,2019,365,296,68,1,0,0,0,103,23
+Oregon,Deschutes,2019,365,341,19,4,1,0,0,153,20
+Oregon,Douglas,2019,347,288,59,0,0,0,0,80,24
+Oregon,Grant,2019,349,255,93,1,0,0,0,103,30
+Oregon,Harney,2019,364,264,95,5,0,0,0,131,33
+Oregon,Jackson,2019,365,295,63,3,4,0,0,180,36
+Oregon,Jefferson,2019,365,291,72,2,0,0,0,122,22
+Oregon,Josephine,2019,365,283,77,3,2,0,0,169,26
+Oregon,Klamath,2019,365,261,98,6,0,0,0,126,29
+Oregon,Lake,2019,363,311,51,1,0,0,0,106,19
+Oregon,Lane,2019,365,254,103,8,0,0,0,117,38
+Oregon,Linn,2019,365,280,83,2,0,0,0,104,28
+Oregon,Marion,2019,356,302,54,0,0,0,0,92,32
+Oregon,Multnomah,2019,365,321,44,0,0,0,0,89,34
+Oregon,Umatilla,2019,365,296,68,1,0,0,0,104,37
+Oregon,Union,2019,365,344,21,0,0,0,0,86,20
+Oregon,Wallowa,2019,363,333,29,1,0,0,0,103,22
+Oregon,Wasco,2019,350,298,52,0,0,0,0,88,23
+Oregon,Washington,2019,365,310,54,1,0,0,0,102,32
+Pennsylvania,Adams,2019,365,288,77,0,0,0,0,85,42
+Pennsylvania,Allegheny,2019,365,146,208,7,4,0,0,161,54
+Pennsylvania,Armstrong,2019,365,323,42,0,0,0,0,71,37
+Pennsylvania,Beaver,2019,365,248,116,1,0,0,0,132,45
+Pennsylvania,Berks,2019,365,279,80,5,1,0,0,165,42
+Pennsylvania,Blair,2019,352,279,73,0,0,0,0,92,41
+Pennsylvania,Bradford,2019,352,314,38,0,0,0,0,75,36
+Pennsylvania,Bucks,2019,357,318,36,3,0,0,0,136,35
+Pennsylvania,Cambria,2019,365,296,69,0,0,0,0,88,39
+Pennsylvania,Centre,2019,365,267,98,0,0,0,0,99,44
+Pennsylvania,Chester,2019,364,266,96,2,0,0,0,115,43
+Pennsylvania,Clearfield,2019,359,357,2,0,0,0,0,61,33
+Pennsylvania,Cumberland,2019,365,268,92,5,0,0,0,150,38
+Pennsylvania,Dauphin,2019,365,286,75,3,1,0,0,158,41
+Pennsylvania,Delaware,2019,365,240,118,7,0,0,0,133,44
+Pennsylvania,Elk,2019,357,345,12,0,0,0,0,80,35
+Pennsylvania,Erie,2019,364,322,42,0,0,0,0,93,36
+Pennsylvania,Fayette,2019,360,313,47,0,0,0,0,72,39
+Pennsylvania,Franklin,2019,341,324,17,0,0,0,0,80,36
+Pennsylvania,Greene,2019,349,329,20,0,0,0,0,71,35
+Pennsylvania,Indiana,2019,350,324,26,0,0,0,0,93,38
+Pennsylvania,Lackawanna,2019,365,333,32,0,0,0,0,80,37
+Pennsylvania,Lancaster,2019,365,238,117,9,1,0,0,157,45
+Pennsylvania,Lawrence,2019,361,356,5,0,0,0,0,74,31
+Pennsylvania,Lebanon,2019,360,278,78,4,0,0,0,142,42
+Pennsylvania,Lehigh,2019,360,293,64,3,0,0,0,119,38
+Pennsylvania,Luzerne,2019,361,350,11,0,0,0,0,77,34
+Pennsylvania,Lycoming,2019,361,340,21,0,0,0,0,74,35
+Pennsylvania,Mercer,2019,365,290,75,0,0,0,0,95,41
+Pennsylvania,Monroe,2019,349,340,9,0,0,0,0,80,34
+Pennsylvania,Montgomery,2019,362,302,59,1,0,0,0,129,35
+Pennsylvania,Northampton,2019,363,286,74,3,0,0,0,114,40
+Pennsylvania,Philadelphia,2019,365,244,115,6,0,0,0,140,44
+Pennsylvania,Somerset,2019,359,340,19,0,0,0,0,80,36
+Pennsylvania,Susquehanna,2019,352,328,24,0,0,0,0,76,24
+Pennsylvania,Tioga,2019,361,342,19,0,0,0,0,74,36
+Pennsylvania,Washington,2019,365,252,113,0,0,0,0,94,44
+Pennsylvania,Westmoreland,2019,354,319,35,0,0,0,0,93,38
+Pennsylvania,Wyoming,2019,27,19,8,0,0,0,0,85,29
+Pennsylvania,York,2019,365,299,66,0,0,0,0,93,41
+Puerto Rico,Adjuntas,2019,117,108,9,0,0,0,0,66,18
+Puerto Rico,Bayamon,2019,278,264,14,0,0,0,0,76,18
+Puerto Rico,Caguas,2019,354,334,16,4,0,0,0,114,10
+Puerto Rico,Catano,2019,347,221,115,10,1,0,0,167,34
+Puerto Rico,Fajardo,2019,119,104,15,0,0,0,0,84,22
+Puerto Rico,Guayama,2019,2,2,0,0,0,0,0,29,29
+Puerto Rico,Guaynabo,2019,362,325,33,4,0,0,0,110,20
+Puerto Rico,Mayagnez,2019,202,159,43,0,0,0,0,85,25
+Puerto Rico,Ponce,2019,351,247,98,6,0,0,0,136,35
+Puerto Rico,San Juan,2019,277,277,0,0,0,0,0,35,14
+Rhode Island,Kent,2019,351,328,23,0,0,0,0,93,32
+Rhode Island,Providence,2019,365,298,67,0,0,0,0,90,43
+Rhode Island,Washington,2019,352,322,28,2,0,0,0,126,36
+South Carolina,Aiken,2019,113,103,10,0,0,0,0,97,37
+South Carolina,Anderson,2019,85,66,18,1,0,0,0,108,42
+South Carolina,Berkeley,2019,79,79,0,0,0,0,0,47,31
+South Carolina,Charleston,2019,357,323,34,0,0,0,0,73,33
+South Carolina,Chesterfield,2019,364,326,38,0,0,0,0,77,31
+South Carolina,Colleton,2019,7,7,0,0,0,0,0,30,20
+South Carolina,Darlington,2019,122,110,12,0,0,0,0,90,38
+South Carolina,Edgefield,2019,361,317,44,0,0,0,0,88,35
+South Carolina,Florence,2019,361,323,38,0,0,0,0,70,30
+South Carolina,Georgetown,2019,92,91,1,0,0,0,0,52,14
+South Carolina,Greenville,2019,365,281,84,0,0,0,0,97,37
+South Carolina,Horry,2019,101,99,2,0,0,0,0,77,35
+South Carolina,Lexington,2019,365,309,56,0,0,0,0,66,33
+South Carolina,Oconee,2019,307,283,24,0,0,0,0,74,31
+South Carolina,Pickens,2019,99,77,22,0,0,0,0,84,44
+South Carolina,Richland,2019,365,313,52,0,0,0,0,93,34
+South Carolina,Spartanburg,2019,348,276,70,2,0,0,0,105,37
+South Carolina,York,2019,365,279,79,7,0,0,0,133,42
+South Dakota,Brookings,2019,365,284,76,5,0,0,0,126,42
+South Dakota,Brown,2019,122,112,10,0,0,0,0,77,20
+South Dakota,Codington,2019,361,325,36,0,0,0,0,83,25
+South Dakota,Custer,2019,362,355,7,0,0,0,0,84,39
+South Dakota,Hughes,2019,356,350,6,0,0,0,0,65,11
+South Dakota,Jackson,2019,365,349,16,0,0,0,0,61,38
+South Dakota,Meade,2019,365,358,7,0,0,0,0,80,36
+South Dakota,Minnehaha,2019,365,321,43,1,0,0,0,105,36
+South Dakota,Pennington,2019,361,278,79,4,0,0,0,117,30
+South Dakota,Union,2019,364,327,37,0,0,0,0,97,35
+Tennessee,Anderson,2019,234,177,55,2,0,0,0,105,44
+Tennessee,Blount,2019,365,281,82,2,0,0,0,115,42
+Tennessee,Claiborne,2019,346,325,21,0,0,0,0,80,35
+Tennessee,Davidson,2019,365,248,116,1,0,0,0,101,45
+Tennessee,DeKalb,2019,363,335,28,0,0,0,0,80,37
+Tennessee,Dyer,2019,360,341,19,0,0,0,0,62,26
+Tennessee,Hamilton,2019,365,243,122,0,0,0,0,97,45
+Tennessee,Jefferson,2019,234,197,37,0,0,0,0,93,44
+Tennessee,Knox,2019,364,269,95,0,0,0,0,84,42
+Tennessee,Lawrence,2019,330,306,24,0,0,0,0,62,27
+Tennessee,Loudon,2019,365,313,52,0,0,0,0,93,37
+Tennessee,Madison,2019,362,330,32,0,0,0,0,60,27
+Tennessee,Maury,2019,362,352,10,0,0,0,0,61,23
+Tennessee,McMinn,2019,357,316,41,0,0,0,0,65,30
+Tennessee,Montgomery,2019,362,339,23,0,0,0,0,63,26
+Tennessee,Putnam,2019,360,351,9,0,0,0,0,63,25
+Tennessee,Roane,2019,356,338,18,0,0,0,0,71,28
+Tennessee,Sevier,2019,364,287,77,0,0,0,0,90,44
+Tennessee,Shelby,2019,365,239,122,4,0,0,0,148,44
+Tennessee,Sullivan,2019,362,302,59,1,0,0,0,119,41
+Tennessee,Sumner,2019,357,284,73,0,0,0,0,93,40
+Tennessee,Williamson,2019,245,215,30,0,0,0,0,84,42
+Tennessee,Wilson,2019,231,205,26,0,0,0,0,80,40
+Texas,Bell,2019,365,284,79,2,0,0,0,105,42
+Texas,Bexar,2019,365,196,163,5,1,0,0,169,49
+Texas,Bowie,2019,349,254,94,1,0,0,0,109,39
+Texas,Brazoria,2019,365,325,33,6,1,0,0,161,33
+Texas,Brewster,2019,362,310,52,0,0,0,0,93,40
+Texas,Cameron,2019,365,236,129,0,0,0,0,89,44
+Texas,Collin,2019,365,309,48,7,1,0,0,156,40
+Texas,Culberson,2019,176,158,16,2,0,0,0,108,34
+Texas,Dallas,2019,365,227,132,6,0,0,0,143,45
+Texas,Denton,2019,365,280,73,12,0,0,0,133,43
+Texas,Ector,2019,354,319,35,0,0,0,0,80,28
+Texas,El Paso,2019,365,147,205,11,2,0,0,157,53
+Texas,Ellis,2019,365,300,65,0,0,0,0,97,40
+Texas,Galveston,2019,362,290,64,8,0,0,0,136,39
+Texas,Gregg,2019,362,328,33,1,0,0,0,112,35
+Texas,Harris,2019,365,180,158,22,4,1,0,202,51
+Texas,Harrison,2019,358,305,53,0,0,0,0,90,38
+Texas,Hidalgo,2019,365,243,120,2,0,0,0,106,42
+Texas,Hood,2019,357,325,31,1,0,0,0,133,35
+Texas,Hunt,2019,364,345,19,0,0,0,0,97,35
+Texas,Jefferson,2019,365,257,102,6,0,0,0,150,43
+Texas,Johnson,2019,352,298,47,7,0,0,0,143,38
+Texas,Kaufman,2019,365,320,45,0,0,0,0,93,39
+Texas,Kleberg,2019,284,234,50,0,0,0,0,87,30
+Texas,Lubbock,2019,330,316,13,1,0,0,0,103,25
+Texas,Maverick,2019,339,287,51,1,0,0,0,104,25
+Texas,McLennan,2019,365,329,36,0,0,0,0,87,38
+Texas,Montgomery,2019,365,306,54,5,0,0,0,143,38
+Texas,Navarro,2019,362,310,52,0,0,0,0,100,39
+Texas,Nueces,2019,365,263,101,1,0,0,0,107,42
+Texas,Orange,2019,365,301,64,0,0,0,0,100,38
+Texas,Parker,2019,363,317,46,0,0,0,0,100,37
+Texas,Polk,2019,344,334,10,0,0,0,0,74,31
+Texas,Potter,2019,340,333,7,0,0,0,0,61,19
+Texas,Randall,2019,354,280,72,2,0,0,0,112,41
+Texas,Rockwall,2019,323,305,16,2,0,0,0,105,34
+Texas,Smith,2019,364,326,37,1,0,0,0,133,36
+Texas,Tarrant,2019,365,234,117,14,0,0,0,147,44
+Texas,Travis,2019,365,249,114,2,0,0,0,115,44
+Texas,Victoria,2019,341,319,22,0,0,0,0,87,31
+Texas,Webb,2019,365,258,106,1,0,0,0,109,41
+Utah,Box Elder,2019,364,313,49,2,0,0,0,121,40
+Utah,Cache,2019,365,272,79,14,0,0,0,147,44
+Utah,Carbon,2019,365,265,99,1,0,0,0,108,46
+Utah,Davis,2019,365,265,94,6,0,0,0,119,44
+Utah,Duchesne,2019,365,234,120,7,4,0,0,177,48
+Utah,Garfield,2019,299,258,41,0,0,0,0,80,41
+Utah,Iron,2019,365,329,36,0,0,0,0,84,42
+Utah,Salt Lake,2019,365,172,177,16,0,0,0,136,51
+Utah,San Juan,2019,362,299,63,0,0,0,0,93,44
+Utah,Tooele,2019,365,302,61,2,0,0,0,117,43
+Utah,Uintah,2019,365,223,125,12,4,1,0,205,49
+Utah,Utah,2019,365,253,111,1,0,0,0,107,46
+Utah,Washington,2019,365,291,74,0,0,0,0,93,44
+Utah,Wayne,2019,109,109,0,0,0,0,0,20,9
+Utah,Weber,2019,308,243,63,2,0,0,0,108,42
+Vermont,Bennington,2019,365,345,20,0,0,0,0,94,35
+Vermont,Chittenden,2019,365,335,30,0,0,0,0,80,37
+Vermont,Rutland,2019,365,322,43,0,0,0,0,88,36
+Vermont,Windham,2019,104,104,0,0,0,0,0,40,8
+Virgin Islands,St Croix,2019,57,51,6,0,0,0,0,71,20
+Virgin Islands,St John,2019,101,93,8,0,0,0,0,74,15
+Virgin Islands,St Thomas,2019,268,225,43,0,0,0,0,91,28
+Virginia,Albemarle,2019,282,264,18,0,0,0,0,67,40
+Virginia,Alexandria City,2019,109,109,0,0,0,0,0,16,5
+Virginia,Arlington,2019,365,305,59,1,0,0,0,112,38
+Virginia,Bristol City,2019,117,113,4,0,0,0,0,68,26
+Virginia,Caroline,2019,239,229,10,0,0,0,0,84,39
+Virginia,Carroll,2019,61,61,0,0,0,0,0,18,9
+Virginia,Charles,2019,356,337,19,0,0,0,0,90,34
+Virginia,Chesterfield,2019,280,255,25,0,0,0,0,87,39
+Virginia,Fairfax,2019,365,260,103,2,0,0,0,105,44
+Virginia,Fauquier,2019,233,229,4,0,0,0,0,64,37
+Virginia,Frederick,2019,365,333,32,0,0,0,0,96,38
+Virginia,Giles,2019,344,315,29,0,0,0,0,84,40
+Virginia,Hampton City,2019,364,326,38,0,0,0,0,84,39
+Virginia,Hanover,2019,243,216,27,0,0,0,0,90,41
+Virginia,Henrico,2019,363,329,34,0,0,0,0,100,37
+Virginia,Hopewell City,2019,57,57,0,0,0,0,0,19,8
+Virginia,Loudoun,2019,337,298,38,1,0,0,0,112,37
+Virginia,Lynchburg City,2019,108,107,1,0,0,0,0,55,26
+Virginia,Madison,2019,362,336,26,0,0,0,0,67,41
+Virginia,Norfolk City,2019,364,357,7,0,0,0,0,69,18
+Virginia,Prince Edward,2019,358,351,7,0,0,0,0,67,35
+Virginia,Prince William,2019,364,347,17,0,0,0,0,100,36
+Virginia,Richmond City,2019,362,311,51,0,0,0,0,95,33
+Virginia,Roanoke,2019,365,329,36,0,0,0,0,71,37
+Virginia,Rockbridge,2019,274,263,11,0,0,0,0,71,38
+Virginia,Rockingham,2019,365,349,16,0,0,0,0,65,36
+Virginia,Salem City,2019,118,113,5,0,0,0,0,60,26
+Virginia,Stafford,2019,260,244,16,0,0,0,0,93,39
+Virginia,Suffolk City,2019,245,223,22,0,0,0,0,97,41
+Virginia,Virginia Beach City,2019,115,106,9,0,0,0,0,66,25
+Virginia,Winchester City,2019,57,57,0,0,0,0,0,24,8
+Virginia,Wythe,2019,242,232,10,0,0,0,0,71,41
+Washington,Adams,2019,360,354,6,0,0,0,0,88,13
+Washington,Asotin,2019,357,292,64,1,0,0,0,125,27
+Washington,Benton,2019,364,303,61,0,0,0,0,80,37
+Washington,Chelan,2019,365,298,66,1,0,0,0,102,24
+Washington,Clallam,2019,365,341,24,0,0,0,0,70,34
+Washington,Clark,2019,364,305,58,1,0,0,0,128,31
+Washington,Columbia,2019,365,340,25,0,0,0,0,68,17
+Washington,Cowlitz,2019,360,338,22,0,0,0,0,76,18
+Washington,Franklin,2019,333,314,19,0,0,0,0,71,16
+Washington,Garfield,2019,358,350,8,0,0,0,0,62,17
+Washington,Grant,2019,365,339,26,0,0,0,0,67,18
+Washington,Grays Harbor,2019,352,348,4,0,0,0,0,57,20
+Washington,Jefferson,2019,365,364,1,0,0,0,0,51,19
+Washington,King,2019,365,280,85,0,0,0,0,90,40
+Washington,Kitsap,2019,340,338,2,0,0,0,0,75,18
+Washington,Kittitas,2019,365,305,60,0,0,0,0,96,23
+Washington,Klickitat,2019,365,339,26,0,0,0,0,96,20
+Washington,Lewis,2019,365,343,22,0,0,0,0,62,20
+Washington,Mason,2019,361,339,22,0,0,0,0,71,21
+Washington,Okanogan,2019,365,260,105,0,0,0,0,90,31
+Washington,Pierce,2019,365,285,78,2,0,0,0,142,41
+Washington,San Juan,2019,112,112,0,0,0,0,0,39,16
+Washington,Skagit,2019,365,361,4,0,0,0,0,54,24
+Washington,Snohomish,2019,364,272,91,1,0,0,0,114,30
+Washington,Spokane,2019,365,301,63,1,0,0,0,107,37
+Washington,Stevens,2019,365,274,90,1,0,0,0,146,28
+Washington,Thurston,2019,365,323,42,0,0,0,0,71,30
+Washington,Walla Walla,2019,365,328,37,0,0,0,0,93,21
+Washington,Whatcom,2019,363,355,8,0,0,0,0,62,26
+Washington,Whitman,2019,365,354,11,0,0,0,0,67,18
+Washington,Yakima,2019,365,227,128,10,0,0,0,127,38
+West Virginia,Berkeley,2019,278,252,24,2,0,0,0,127,40
+West Virginia,Brooke,2019,360,327,32,1,0,0,0,112,19
+West Virginia,Cabell,2019,275,255,20,0,0,0,0,71,39
+West Virginia,Gilmer,2019,336,333,3,0,0,0,0,58,32
+West Virginia,Greenbrier,2019,242,222,20,0,0,0,0,84,42
+West Virginia,Hancock,2019,303,271,32,0,0,0,0,93,40
+West Virginia,Harrison,2019,111,101,10,0,0,0,0,59,31
+West Virginia,Kanawha,2019,365,314,51,0,0,0,0,93,40
+West Virginia,Marion,2019,99,87,12,0,0,0,0,61,31
+West Virginia,Marshall,2019,118,90,28,0,0,0,0,77,34
+West Virginia,Monongalia,2019,277,250,27,0,0,0,0,74,40
+West Virginia,Ohio,2019,283,249,34,0,0,0,0,71,41
+West Virginia,Tucker,2019,362,349,13,0,0,0,0,61,35
+West Virginia,Wood,2019,277,246,31,0,0,0,0,87,39
+Wisconsin,Ashland,2019,364,343,21,0,0,0,0,78,34
+Wisconsin,Brown,2019,361,310,51,0,0,0,0,97,35
+Wisconsin,Columbia,2019,192,184,8,0,0,0,0,71,37
+Wisconsin,Dane,2019,365,287,78,0,0,0,0,93,38
+Wisconsin,Dodge,2019,365,297,67,1,0,0,0,122,40
+Wisconsin,Door,2019,201,191,9,1,0,0,0,112,35
+Wisconsin,Eau Claire,2019,363,305,58,0,0,0,0,90,34
+Wisconsin,Fond du Lac,2019,202,195,7,0,0,0,0,100,36
+Wisconsin,Forest,2019,363,338,25,0,0,0,0,97,35
+Wisconsin,Grant,2019,365,304,60,1,0,0,0,104,29
+Wisconsin,Jefferson,2019,203,191,12,0,0,0,0,100,37
+Wisconsin,Kenosha,2019,365,289,74,2,0,0,0,119,40
+Wisconsin,Kewaunee,2019,210,199,11,0,0,0,0,90,36
+Wisconsin,La Crosse,2019,365,310,55,0,0,0,0,83,35
+Wisconsin,Manitowoc,2019,202,187,15,0,0,0,0,100,36
+Wisconsin,Marathon,2019,205,196,9,0,0,0,0,84,34
+Wisconsin,Milwaukee,2019,365,269,93,3,0,0,0,105,42
+Wisconsin,Outagamie,2019,365,307,56,2,0,0,0,119,36
+Wisconsin,Ozaukee,2019,363,308,52,3,0,0,0,108,37
+Wisconsin,Racine,2019,203,174,28,1,0,0,0,115,39
+Wisconsin,Rock,2019,203,185,18,0,0,0,0,77,38
+Wisconsin,Sauk,2019,365,311,53,1,0,0,0,107,35
+Wisconsin,Sheboygan,2019,206,180,24,2,0,0,0,108,38
+Wisconsin,Taylor,2019,365,320,45,0,0,0,0,85,35
+Wisconsin,Vilas,2019,362,345,17,0,0,0,0,90,29
+Wisconsin,Walworth,2019,205,189,15,1,0,0,0,112,37
+Wisconsin,Waukesha,2019,365,281,83,1,0,0,0,115,40
+Wyoming,Albany,2019,365,247,118,0,0,0,0,90,47
+Wyoming,Big Horn,2019,356,344,12,0,0,0,0,77,36
+Wyoming,Campbell,2019,365,309,55,1,0,0,0,111,40
+Wyoming,Carbon,2019,364,325,38,1,0,0,0,112,43
+Wyoming,Converse,2019,365,317,47,1,0,0,0,101,41
+Wyoming,Fremont,2019,365,301,63,1,0,0,0,122,45
+Wyoming,Johnson,2019,364,345,19,0,0,0,0,80,40
+Wyoming,Laramie,2019,365,305,60,0,0,0,0,74,43
+Wyoming,Lincoln,2019,365,364,1,0,0,0,0,56,12
+Wyoming,Natrona,2019,364,329,35,0,0,0,0,74,42
+Wyoming,Park,2019,307,295,12,0,0,0,0,77,38
+Wyoming,Platte,2019,60,56,3,1,0,0,0,108,14
+Wyoming,Sheridan,2019,365,325,40,0,0,0,0,90,39
+Wyoming,Sublette,2019,365,266,88,8,3,0,0,200,46
+Wyoming,Sweetwater,2019,365,262,100,3,0,0,0,133,46
+Wyoming,Teton,2019,365,326,39,0,0,0,0,87,43
+Wyoming,Uinta,2019,365,315,49,1,0,0,0,101,44
+Wyoming,Weston,2019,360,335,25,0,0,0,0,71,40
