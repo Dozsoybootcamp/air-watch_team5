@@ -1,4 +1,4 @@
-![LOGO](https://github.com/Dozsoybootcamp/air-watch_team5/blob/main/static/fullLogo.png)
+![LOGO](https://github.com/Dozsoybootcamp/air-watch_team5/blob/main/static/logo_ReadMe.png)
 # Air Quality Visualization Project
 
 
@@ -38,7 +38,6 @@ This project aims to provide interactive visualizations of Air Quality Index (AQ
        - Helper Functions
        
 - **[index.html](https://github.com/Dozsoybootcamp/air-watch_team5/blob/main/index.html)**: This HTML sets up a webpage that displays an interactive map, featuring a time-lapse slider, year selection dropdown, and interactive map controls for zooming and resetting the view.
-- **[leaflet-timeline-slider.min.js](https://github.com/Dozsoybootcamp/air-watch_team5/blob/main/leaflet-timeline-slider.min.js)**: This code defines a function that creates a new Leaflet control for a timelines slider.
 - **[leaflet.zoomhome.css](https://github.com/Dozsoybootcamp/air-watch_team5/blob/main/leaflet.zoomhome.css)**: This CSS code styles the Leaflet map's zoom home control buttons.
 - **[leaflet.zoomhome.js](https://github.com/Dozsoybootcamp/air-watch_team5/blob/main/leaflet.zoomhome.css)**: This JavaScript code defines a Leaflet map control extension, L.Control.ZoomHome, to add zoom-in, zoom-out, and "zoom home" buttons to the map interface, allowing users to return to a predefined home view with specified coordinates and zoom level.
 - **[loops.js](https://github.com/Dozsoybootcamp/air-watch_team5/blob/main/loop.js)**: This code loops through a list of years, updating the year and a corresponding slider every 4 seconds, with functionality to stop and restart the loop on user interaction or button click, triggered on page load
