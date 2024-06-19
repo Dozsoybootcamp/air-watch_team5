@@ -1,4 +1,6 @@
+![LOGO](https://github.com/Dozsoybootcamp/air-watch_team5/blob/main/static/fullLogo.png)
 # Air Quality Visualization Project
+
 
 ## Overview
 This project aims to provide interactive visualizations of Air Quality Index (AQI) data across all US counties from 2014 to 2023. Developed by the Air Watch team, this platform utilizes data sourced from the Environmental Protection Agency (EPA) to highlight trends, identify areas with poor air quality, and facilitate public awareness and policy-making.
@@ -46,21 +48,24 @@ This project aims to provide interactive visualizations of Air Quality Index (AQ
 1. Clone the Repository to include all files and folder structures.
 2. Set Up the Flask Server 
     - In Git bash or Terminal run the Flask server: "python aqiflask.py". This will take you to the home page.
-    [INSERT SCREEN SHOT OF HOME PAGE]
+3. Open [index.html](https://github.com/Dozsoybootcamp/air-watch_team5/blob/main/index.html) with Live Server.
+![Figure 1: Home Web Page](https://github.com/Dozsoybootcamp/air-watch_team5/blob/main/static/homepage_screenshot.png)
     
 ### View JSON Data
-1. From the home page, you can click on any of the years which will take you to a JSON for the data per year.
-
-### View Chart Visualization
-1. From the home page,
+1. On the home page, click on any of the years. This will take you to a page with JSON data for the selected year.
 
 ### Interacting with the Map
-1. Viewing the Map
-    - From the home page, click on the map preview on the bottom left.
-2. Using the Timeline Slider
-3. Zoom
-4. Home Controls
-5. Timelapse
+1. Viewing the Map: From the home page, click on the map preview on the bottom left.
+2. Timeline Slider: This is an interactive slider to display a specific year. 
+3. Time-Lapse: Click the "Start Time-Lapse" button to view a time-lapse of map.
+4. Zoom: Use your mouse scroll button to zoom in and out or use the buttons on the top right.
+5. Home Controls: Press the home button on the top right to return back to the default view.
+6. Return to the Home Page: Click on the "AIR WATCH" logo.
+![Figure 3: Interactive Map](https://github.com/Dozsoybootcamp/air-watch_team5/blob/main/static/homepage_screenshot.png)
+
+### View Chart Visualization
+1. From the home page, enter a GeoID to generate a line chart displaying the max AQI per year. Note that the GeoIDs are available on the county popup information on the interactive map.
+![Figure 2: Charts](https://github.com/Dozsoybootcamp/air-watch_team5/blob/main/static/chart_screenshot.png)
 
 ## Ethical Considerations
 (WAITING ON RUDI)
