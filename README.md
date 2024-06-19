@@ -19,7 +19,7 @@ This project aims to provide interactive visualizations of Air Quality Index (AQ
 
 ## Data Sources
 - **[aqs.epa.gov](https://aqs.epa.gov/aqsweb/airdata/download_files.html#Annual)**: Environmental Protection Agency (EPA) AQI data by county from 2014 to 2023.
-- **Census**: shape file
+- **[census.gov](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)**: Cartographic boundary shape file to map every county in the US from the government census.
 
 ## Features
 - **Interactive Maps**: Visualize AQI data geographically to easily identify areas with varying levels of air pollution.
