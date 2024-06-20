@@ -3,7 +3,7 @@
 
 
 ## Overview
-This project aims to provide interactive visualizations of Air Quality Index (AQI) data across all US counties from 2014 to 2023. Developed by the Air Watch team, this platform utilizes data sourced from the Environmental Protection Agency (EPA) to highlight trends, identify areas with poor air quality, and facilitate public awareness and policy-making.
+This project aims to provide interactive visualizations of Air Quality Index (AQI) data across all US counties from 2014 to 2023. Developed by the Air Watch team, this platform utilizes data sourced from the Environmental Protection Agency (EPA) to highlight trends and identify areas with poor air quality, and facilitate public awareness and policy-making.
 
 ## Tools, Libraries and Languages
 - **PgAdmin**: For database management and data loading.
@@ -14,6 +14,7 @@ This project aims to provide interactive visualizations of Air Quality Index (AQ
     - **Request**: Used to handle incoming HTTP requests.
 - **Chart.js:** For creating chart visualizations.
 - **HTML**: Language used to create web pages.
+- **Javascript**: Language used to add dynamic and interactive scripting to webpages.
 - **CSS**: Language used to define presentation and style of web pages.
 - **Prerequisites:**
     - Python 3.8+
