@@ -1,9 +1,12 @@
 ![LOGO](https://github.com/Dozsoybootcamp/air-watch_team5/blob/main/static/logo_ReadMe.png)
 # Air Quality Visualization Project
 
+## Team Members
+Debbie Lim, Duygu Ozso, Owen Wang, Rudi Espinoza
 
 ## Overview
 This project aims to provide interactive visualizations of Air Quality Index (AQI) data across all US counties from 2014 to 2023. Developed by the Air Watch team, this platform utilizes data sourced from the Environmental Protection Agency (EPA) to highlight trends and identify areas with poor air quality, and facilitate public awareness and policy-making.
+
 
 ## Tools, Libraries and Languages
 - **PgAdmin**: For database management and data loading.
@@ -68,11 +71,8 @@ This project aims to provide interactive visualizations of Air Quality Index (AQ
 ![Figure 2: Charts](https://github.com/Dozsoybootcamp/air-watch_team5/blob/main/static/chart_screenshot.png)
 
 ## Ethical Considerations
-(WAITING ON RUDI)
+Through out this project, Airwatch considered various ethical aspects to ensure the responsible use of data. While investigating the data, it was noted 69 max aqi data points exceeded 500. However the EPA notes the normalized scale maximum is 500. To ensure **data accuracy**, our code nullies data points over 500. This ensures we do not mislead conclusions or harm public trust. Additionally, Airwatch responsibly attributes the data sources to allow individuals to verify the data. 
 
 ## Conclusions
 (INSERT AFTER PPT FINAL DRAFT)
-
-## Team Members
-Debbie Lim, Duygu Ozso, Owen Wang, Rudi Espinoza
 
