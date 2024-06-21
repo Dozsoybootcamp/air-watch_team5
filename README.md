@@ -5,7 +5,7 @@
 Debbie Lim, Duygu Ozso, Owen Wang, Rudi Espinoza
 
 ## Overview
-This project aims to provide interactive visualizations of Air Quality Index (AQI) data across all US counties from 2014 to 2023. Developed by the Air Watch team, this platform utilizes data sourced from the Environmental Protection Agency (EPA) to highlight trends and identify areas with poor air quality, and facilitate public awareness and policy-making.
+This project aims to provide user-driven interactive visualizations of Air Quality Index (AQI) data across all US counties from 2014 to 2023. Developed by the Air Watch team, this platform utilizes data sourced from the Environmental Protection Agency (EPA) to highlight trends and identify areas with poor air quality. By mapping and charting the data, we have three main goals. The first is to to quickly identify the national trends year to year. The second is to identify which years we should further investigate. The third is to review the annual trend year by year for the couties with the worst AQI.
 
 
 ## Tools, Libraries and Languages
@@ -49,9 +49,10 @@ This project aims to provide interactive visualizations of Air Quality Index (AQ
 
 ### Set Up
 1. Clone the Repository to include all files and folder structures.
-2. Set Up the Flask Server 
+2. Import database in PgAdmin using the
+3. Set Up the Flask Server 
     - In Git bash or Terminal run the Flask server: "python aqiflask.py". This will take you to the home page.
-3. Open [index.html](https://github.com/Dozsoybootcamp/air-watch_team5/blob/main/index.html) with Live Server.
+4. Open [index.html](https://github.com/Dozsoybootcamp/air-watch_team5/blob/main/index.html) with Live Server.
 ![Figure 1: Home Web Page](https://github.com/Dozsoybootcamp/air-watch_team5/blob/main/static/homepage_screenshot.png)
     
 ### View JSON Data
@@ -64,15 +65,15 @@ This project aims to provide interactive visualizations of Air Quality Index (AQ
 4. Zoom: Use your mouse scroll button to zoom in and out or use the buttons on the top right.
 5. Home Controls: Press the home button on the top right to return back to the default view.
 6. Return to the Home Page: Click on the "AIR WATCH" logo.
-![Figure 3: Interactive Map](https://github.com/Dozsoybootcamp/air-watch_team5/blob/main/static/homepage_screenshot.png)
+![Figure 3: Interactive Map](https://github.com/Dozsoybootcamp/air-watch_team5/blob/main/static/map_image.jpg)
 
 ### View Chart Visualization
 1. From the home page, enter a GeoID to generate a line chart displaying the max AQI per year. Note that the GeoIDs are available on the county popup information on the interactive map.
 ![Figure 2: Charts](https://github.com/Dozsoybootcamp/air-watch_team5/blob/main/static/chart_screenshot.png)
 
 ## Ethical Considerations
-Through out this project, Airwatch considered various ethical aspects to ensure the responsible use of data. While investigating the data, it was noted 69 max aqi data points exceeded 500. However the EPA notes the normalized scale maximum is 500. To ensure **data accuracy**, our code nullies data points over 500. This ensures we do not mislead conclusions or harm public trust. Additionally, Airwatch responsibly attributes the data sources to allow individuals to verify the data. 
+Throughout this project, Airwatch has considered various ethical aspects to ensure the responsible use of data. One critical aspect is maintaining data accuracy and integrity; hence, we inform our users that 69 max AQI data points exceeded 500, despite the EPA's note that the normalized scale maximum is 500. This transparency helps users understand the limitations and potential anomalies in the dataset. Furthermore, Airwatch is committed to responsible data attribution. On our home page, we clearly attribute our data sources, allowing individuals to verify the data independently. This practice not only enhances the credibility of our project but also promotes trust and accountability in the use of environmental data. By addressing these ethical considerations, we aim to foster a reliable and transparent platform for air quality information.
 
 ## Conclusions
-(INSERT AFTER PPT FINAL DRAFT)
+(Debbie to update)
 

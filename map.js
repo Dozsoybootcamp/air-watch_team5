@@ -150,9 +150,9 @@ function getColorForAQI(aqiValue) {
     } else if (aqiValue <= 150) {
         return "#ffda33"; // Unhealthy for sensitive groups (dark yellow)
     } else if (aqiValue <= 200) {
-        return "#ff0000"; // Unhealthy (orange)
+        return "#ff9a00"; // Unhealthy (orange)
     } else if (aqiValue <= 300) {
-        return "#ff8d33"; // Very unhealthy (dark orange)
+        return "#ff4d00"; // Very unhealthy (dark orange)
     } else {
         return "#ff0000"; // Hazardous (red)
     }
